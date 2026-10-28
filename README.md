@@ -1,6 +1,6 @@
 # AI 会员代充价格（每日更新）
 
-> 数据时间：2026-10-27 22:11（北京时间）· 5 个商品 · 61 家店 · 185 条报价
+> 数据时间：2026-10-28 22:17（北京时间）· 12 个商品 · 68 家店 · 271 条报价
 
 ChatGPT、Claude 这些会员，国内没海外卡基本只能代充或买卡密。这个仓库每天把各店在售的报价按商品列一遍，同一档位放在一起比价，并标出交付方式和质保。价格是店铺报价，不是官方定价。
 
@@ -8,18 +8,28 @@ ChatGPT、Claude 这些会员，国内没海外卡基本只能代充或买卡密
 
 | 商品 | 在售店铺 | 代充到自己号最低 | 卡密兑换码最低 |
 |---|---|---|---|
-| [ChatGPT Plus 代充](chatgpt-plus-recharge.md) | 45 | ¥63.74 | ¥111.93 |
-| [ChatGPT Pro 5x 代充](chatgpt-pro-5x.md) | 43 | ¥590.07 | ¥600.15 |
-| [ChatGPT Pro 20x 代充](chatgpt-pro-20x.md) | 47 | ¥1007.43 | ¥1038.28 |
-| [Claude Pro 代充](claude-pro.md) | 24 | ¥138.69 | ¥140.84 |
-| [ChatGPT Go 代充](chatgpt-go.md) | 26 | ¥29.78 | ¥33.92 |
+| [ChatGPT Plus 代充](chatgpt-plus-recharge.md) | 46 | ¥63.74 | ¥111.93 |
+| [ChatGPT Pro 5x 代充](chatgpt-pro-5x.md) | 43 | ¥585.96 | ¥600.15 |
+| [ChatGPT Pro 20x 代充](chatgpt-pro-20x.md) | 47 | ¥1007.39 | ¥1007.42 |
+| [Claude Pro 代充](claude-pro.md) | 24 | ¥137.65 | ¥140.84 |
+| [ChatGPT Go 代充](chatgpt-go.md) | 26 | ¥29.77 | ¥33.92 |
+
+## 按平台汇总
+
+| 页面 | 在售店铺 | 报价条数 | 含哪些档 |
+|---|---|---|---|
+| [ChatGPT 各档会员](chatgpt-platform.md) | 63 | 177 | ChatGPT Go、ChatGPT Plus 代充、ChatGPT Team / 商业版、ChatGPT Pro 5x、ChatGPT Pro 20x |
+| [Claude 各档会员](claude-platform.md) | 32 | 58 | Claude Pro 月付、Claude Max 5x、Claude Max 20x、Claude Team 高级版 |
+| [Gemini 会员](gemini-platform.md) | 23 | 35 | Gemini Pro 代充、Gemini Pro 年付、Google AI Ultra |
+| [拼车 / 共享席位](shared-seats.md) | 25 | 33 | Gemini Pro 年付、ChatGPT Plus 代充、ChatGPT Team / 商业版、Google AI Ultra、ChatGPT Pro 5x、ChatGPT Pro 20x、Claude Team 高级版 |
 
 ## 表里的卖法
 
 - **代充到自己号**：会员开在你自己的号上，卖家要么只要你的 UID，要么临时登进去帮你付。
 - **卡密兑换码**：拿到一串码或一个链接，自己兑换到自己号上，不用交密码。
+- **拼车 / 共享席位**：几个人共用一个号或一个团队席位，单价低但名额有限，随时可能被挤掉。
 
-成品号（连号带密码给你）、速刷号（便宜但一两天就掉）、拼车（和别人共用一个号）不在这里——价格差好几倍，风险也不是一回事，混在一张表里比价会误导。含这些卖法的完整报价在 [甄选 API](https://www.findbestapi.com/recharge/?utm_source=github&utm_medium=referral&utm_campaign=ai-member-prices)。
+成品号（连号带密码给你）、速刷号（便宜但一两天就掉）不在这里——价格差好几倍，风险也不是一回事，混在一张表里比价会误导。含这些卖法的完整报价在 [甄选 API](https://www.findbestapi.com/recharge/?utm_source=github&utm_medium=referral&utm_campaign=ai-member-prices)。
 
 ## 数据说明
 
@@ -28,4 +38,4 @@ ChatGPT、Claude 这些会员，国内没海外卡基本只能代充或买卡密
 - 价格是各店自己挂的，会随时变；下单前以店铺当前标价为准。
 - 只公开报价，不放出站链接、不放店铺联系方式。
 
-<sub>数据由甄选 API（findbestapi.com）采集整理 · 更新于 2026-10-27 22:11（北京时间）</sub>
+<sub>数据由甄选 API（findbestapi.com）采集整理 · 更新于 2026-10-28 22:17（北京时间）</sub>
