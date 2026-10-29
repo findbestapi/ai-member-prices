@@ -1,6 +1,6 @@
 # AI 会员代充价格（每日更新）
 
-> 数据时间：2026-10-29 09:59（北京时间）· 12 个商品 · 68 家店 · 253 条报价
+> 数据时间：2026-10-29 22:05（北京时间）· 12 个商品 · 68 家店 · 253 条报价
 
 ChatGPT、Claude 这些会员，国内没海外卡基本只能代充或买卡密。这个仓库每天把各店在售的报价按商品列一遍，同一档位放在一起比价，并标出交付方式和质保。价格是店铺报价，不是官方定价。
 
@@ -8,19 +8,19 @@ ChatGPT、Claude 这些会员，国内没海外卡基本只能代充或买卡密
 
 | 商品 | 在售店铺 | 代充到自己号最低 | 卡密兑换码最低 |
 |---|---|---|---|
-| [ChatGPT Plus 代充](chatgpt-plus-recharge.md) | 46 | ¥63.74 | ¥111.7 |
-| [ChatGPT Pro 5x 代充](chatgpt-pro-5x.md) | 43 | ¥585.96 | ¥595.21 |
-| [ChatGPT Pro 20x 代充](chatgpt-pro-20x.md) | 47 | ¥1007.39 | ¥997.16 |
-| [Claude Pro 代充](claude-pro.md) | 24 | ¥138.69 | ¥140.84 |
-| [ChatGPT Go 代充](chatgpt-go.md) | 26 | ¥29.77 | ¥33.92 |
+| [ChatGPT Plus 代充](chatgpt-plus-recharge.md) | 45 | ¥63.74 | ¥111.7 |
+| [ChatGPT Pro 5x 代充](chatgpt-pro-5x.md) | 42 | ¥585.96 | ¥595.21 |
+| [ChatGPT Pro 20x 代充](chatgpt-pro-20x.md) | 46 | ¥1007.35 | ¥997.16 |
+| [Claude Pro 代充](claude-pro.md) | 23 | ¥138.69 | ¥140.84 |
+| [ChatGPT Go 代充](chatgpt-go.md) | 29 | ¥29.77 | ¥33.92 |
 
 ## 按平台汇总
 
 | 页面 | 在售店铺 | 报价条数 | 含哪些档 |
 |---|---|---|---|
-| [ChatGPT 各档会员](chatgpt-platform.md) | 63 | 177 | ChatGPT Go、ChatGPT Plus 代充、ChatGPT Team / 商业版、ChatGPT Pro 5x、ChatGPT Pro 20x |
-| [Claude 各档会员](claude-platform.md) | 32 | 43 | Claude Pro 月付、Claude Max 5x、Claude Max 20x、Claude Team 高级版 |
-| [Gemini 会员](gemini-platform.md) | 23 | 32 | Gemini Pro 代充、Gemini Pro 年付、Google AI Ultra |
+| [ChatGPT 各档会员](chatgpt-platform.md) | 62 | 177 | ChatGPT Go、ChatGPT Plus 代充、ChatGPT Team / 商业版、ChatGPT Pro 5x、ChatGPT Pro 20x |
+| [Claude 各档会员](claude-platform.md) | 30 | 39 | Claude Pro 月付、Claude Max 5x、Claude Team 高级版、Claude Max 20x |
+| [Gemini 会员](gemini-platform.md) | 25 | 36 | Gemini Pro 年付、Gemini Pro 代充、Google AI Ultra |
 | [拼车 / 共享席位](shared-seats.md) | 26 | 34 | Gemini Pro 年付、ChatGPT Plus 代充、ChatGPT Team / 商业版、Google AI Ultra、ChatGPT Pro 5x、ChatGPT Pro 20x、Claude Team 高级版 |
 
 ## 表里的卖法
@@ -38,4 +38,4 @@ ChatGPT、Claude 这些会员，国内没海外卡基本只能代充或买卡密
 - 价格是各店自己挂的，会随时变；下单前以店铺当前标价为准。
 - 只公开报价，不放出站链接、不放店铺联系方式。
 
-<sub>数据由甄选 API（findbestapi.com）采集整理 · 更新于 2026-10-29 09:59（北京时间）</sub>
+<sub>数据由甄选 API（findbestapi.com）采集整理 · 更新于 2026-10-29 22:05（北京时间）</sub>
