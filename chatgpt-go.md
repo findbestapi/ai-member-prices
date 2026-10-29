@@ -1,6 +1,6 @@
 # ChatGPT Go 代充：各店报价与质保对照
 
-> 数据时间：2026-10-28 22:17（北京时间）· 今天 26 家店在售，共 26 条报价
+> 数据时间：2026-10-29 09:59（北京时间）· 今天 26 家店在售，共 26 条报价
 
 Go 是 ChatGPT 最低档的付费会员，按月卖，价格只有 Plus 的零头。
 代充到自己号最低 ¥29.77，卡密兑换码最低 ¥33.92。
@@ -53,4 +53,4 @@ Go 是 ChatGPT 最低档的付费会员，按月卖，价格只有 Plus 的零�
 
 成品号（连号带密码给你）、速刷号（便宜但一两天就掉）、拼车（和别人共用一个号）不在这张表里——价格差得多，风险也不是一回事。含这些卖法的完整逐店报价在 [甄选 API 的 ChatGPT Go 代充页](https://www.findbestapi.com/chatgpt/chatgpt-go/?utm_source=github&utm_medium=referral&utm_campaign=ai-member-prices)。
 
-<sub>数据由甄选 API（findbestapi.com）采集整理 · 更新于 2026-10-28 22:17（北京时间）</sub>
+<sub>数据由甄选 API（findbestapi.com）采集整理 · 更新于 2026-10-29 09:59（北京时间）</sub>
