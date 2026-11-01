@@ -1,6 +1,6 @@
 # AI 会员代充价格（每日更新）
 
-> 数据时间：2026-10-31 22:23（北京时间）· 11 个商品 · 64 家店 · 238 条报价
+> 数据时间：2026-11-01 22:07（北京时间）· 11 个商品 · 65 家店 · 252 条报价
 
 ChatGPT、Claude 这些会员，国内没海外卡基本只能代充或买卡密。这个仓库每天把各店在售的报价按商品列一遍，同一档位放在一起比价，并标出交付方式和质保。价格是店铺报价，不是官方定价。
 
@@ -8,19 +8,19 @@ ChatGPT、Claude 这些会员，国内没海外卡基本只能代充或买卡密
 
 | 商品 | 在售店铺 | 代充到自己号最低 | 卡密兑换码最低 |
 |---|---|---|---|
-| [ChatGPT Plus 代充](chatgpt-plus-recharge.md) | 41 | ¥61.68 | ¥112.05 |
-| [ChatGPT Pro 5x 代充](chatgpt-pro-5x.md) | 41 | ¥585.96 | ¥596.23 |
-| [ChatGPT Pro 20x 代充](chatgpt-pro-20x.md) | 44 | ¥1006.36 | ¥997.16 |
-| [Claude Pro 代充](claude-pro.md) | 今天不到 20 家 | — | — |
+| [ChatGPT Plus 代充](chatgpt-plus-recharge.md) | 38 | ¥59.62 | ¥112.05 |
+| [ChatGPT Pro 5x 代充](chatgpt-pro-5x.md) | 40 | ¥585.96 | ¥596.21 |
+| [ChatGPT Pro 20x 代充](chatgpt-pro-20x.md) | 43 | ¥997.16 | ¥1005.38 |
+| [Claude Pro 代充](claude-pro.md) | 23 | ¥136.72 | ¥140.84 |
 | [ChatGPT Go 代充](chatgpt-go.md) | 29 | ¥29.77 | ¥33.92 |
 
 ## 按平台汇总
 
 | 页面 | 在售店铺 | 报价条数 | 含哪些档 |
 |---|---|---|---|
-| [ChatGPT 各档会员](chatgpt-platform.md) | 61 | 171 | ChatGPT Go、ChatGPT Team / 商业版、ChatGPT Plus 代充、ChatGPT Pro 5x、ChatGPT Pro 20x |
-| [Claude 各档会员](claude-platform.md) | 26 | 31 | Claude Pro 月付、Claude Max 5x、Claude Max 20x |
-| [Gemini 会员](gemini-platform.md) | 23 | 35 | Gemini Pro 年付、Gemini Pro 代充、Google AI Ultra |
+| [ChatGPT 各档会员](chatgpt-platform.md) | 60 | 165 | ChatGPT Go、ChatGPT Team / 商业版、ChatGPT Plus 代充、ChatGPT Pro 5x、ChatGPT Pro 20x |
+| [Claude 各档会员](claude-platform.md) | 28 | 47 | Claude Pro 月付、Claude Max 5x、Claude Max 20x |
+| [Gemini 会员](gemini-platform.md) | 25 | 39 | Gemini Pro 代充、Gemini Pro 年付、Google AI Ultra |
 | [拼车 / 共享席位](shared-seats.md) | 25 | 31 | Gemini Pro 年付、ChatGPT Team / 商业版、ChatGPT Plus 代充、Google AI Ultra、ChatGPT Pro 5x、ChatGPT Pro 20x |
 
 ## 表里的卖法
@@ -38,4 +38,4 @@ ChatGPT、Claude 这些会员，国内没海外卡基本只能代充或买卡密
 - 价格是各店自己挂的，会随时变；下单前以店铺当前标价为准。
 - 只公开报价，不放出站链接、不放店铺联系方式。
 
-<sub>数据由甄选 API（findbestapi.com）采集整理 · 更新于 2026-10-31 22:23（北京时间）</sub>
+<sub>数据由甄选 API（findbestapi.com）采集整理 · 更新于 2026-11-01 22:07（北京时间）</sub>
