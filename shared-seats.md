@@ -1,6 +1,6 @@
 # AI 会员拼车与共享席位：各店报价汇总
 
-> 数据时间：2026-11-13 22:35（北京时间）· 今天 30 家店在售，共 42 条报价
+> 数据时间：2026-11-14 10:09（北京时间）· 今天 30 家店在售，共 42 条报价
 
 多人共用一个会员（Team 席位、家庭组车位、拼车）的报价单独放一页：价格低，但账号不完全归你。
 共享席位可能被车主或官方收回，质保写的是整个订阅期还是几天，比价格更要紧。
@@ -42,15 +42,15 @@
 | ChatGPT Team / 商业版 | CodexTool | ¥281.57 | 拼车 / 共享席位 | — | — |
 | ChatGPT Pro 5x | 52XUEAI | ¥307.37 | 拼车 / 共享席位 | 1 个月 | — |
 | ChatGPT Team / 商业版 | 小久 | ¥323.82 | 拼车 / 共享席位 | — | 30 天 |
-| Google AI Ultra | AI会员订阅源头 | ¥522.22 | 拼车 / 共享席位 | 1 个月 | 30 天 |
+| Google AI Ultra | AI会员订阅源头 | ¥522.22 | 拼车 / 共享席位 | 1 个月 | 整个订阅期 |
 | Google AI Ultra | 华润 | ¥551.01 | 拼车 / 共享席位 | 1 个月 | 30 天 |
 | Google AI Ultra | Muse海贼团 | ¥552.9 | 拼车 / 共享席位 | 1 个月 | 30 天 |
 | Google AI Ultra | 源点数字 | ¥563.14 | 拼车 / 共享席位 | 1 个月 | 30 天 |
-| Google AI Ultra | CodexTool | ¥565.4 | 拼车 / 共享席位 | 1 个月 | 30 天 |
-| Google AI Ultra | 阿秋AI | ¥600 | 拼车 / 共享席位 | 1 个月 | 30 天 |
+| Google AI Ultra | CodexTool | ¥565.4 | 拼车 / 共享席位 | 1 个月 | 整个订阅期 |
+| Google AI Ultra | 阿秋AI | ¥600 | 拼车 / 共享席位 | 1 个月 | 整个订阅期 |
 | Google AI Ultra | Plus主页 | ¥668.2 | 拼车 / 共享席位 | — | — |
 | ChatGPT Pro 20x | 52XUEAI | ¥718.57 | 拼车 / 共享席位 | 1 个月 | — |
-| Google AI Ultra | AI批发站 | ¥771 | 拼车 / 共享席位 | 1 个月 | 30 天 |
+| Google AI Ultra | AI一手源头 | ¥771 | 拼车 / 共享席位 | 1 个月 | 30 天 |
 | ChatGPT Team / 商业版 | 尼克的AI工具箱 | ¥1007.44 | 拼车 / 共享席位 | — | 30 天 |
 | Google AI Ultra | 海螺AI服务 | ¥1155 | 拼车 / 共享席位 | 1 个月 | 30 天 |
 
@@ -58,10 +58,10 @@
 
 Gemini Pro 年付 起价 ¥5.65、ChatGPT Team / 商业版 起价 ¥46.26、ChatGPT Plus 代充 起价 ¥66.82、Google AI Ultra 起价 ¥149.06、ChatGPT Pro 5x 起价 ¥307.37、ChatGPT Pro 20x 起价 ¥718.57。同一档位在不同店之间的差价，看下面逐店表。
 
-质保一列今天这么写：「30 天」20 条，「—」20 条，「整个订阅期」2 条。
+质保一列今天这么写：「—」20 条，「30 天」17 条，「整个订阅期」5 条。
 
 ---
 
 成品号（连号带密码给你）、速刷号（便宜但一两天就掉）、代充到自己号、卡密兑换码不在这张表里——价格差得多，风险也不是一回事。含这些卖法的完整逐店报价在 [甄选 API 的 拼车 / 共享席位页](https://www.findbestapi.com/recharge/?utm_source=github&utm_medium=referral&utm_campaign=ai-member-prices)。
 
-<sub>数据由甄选 API（findbestapi.com）采集整理 · 更新于 2026-11-13 22:35（北京时间）</sub>
+<sub>数据由甄选 API（findbestapi.com）采集整理 · 更新于 2026-11-14 10:09（北京时间）</sub>
