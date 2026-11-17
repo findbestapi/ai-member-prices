@@ -1,6 +1,6 @@
 {
   "_doc": "甄选 API 代充价格公开数据。字段白名单：shop/price/kind/wlabel/facts；不含店铺链接与联系方式。",
-  "data_ts": "2026-11-16 22:30",
+  "data_ts": "2026-11-17 22:27",
   "pages": {
     "chatgpt-go": {
       "name": "ChatGPT Go 代充",
@@ -25,7 +25,7 @@
             "自动发货"
           ],
           "kind": "topup",
-          "price": 28.65,
+          "price": 28.64,
           "product": "ChatGPT Go",
           "shop": "大个儿",
           "wlabel": ""
@@ -347,18 +347,6 @@
           "kind": "topup",
           "price": 44.0,
           "product": "ChatGPT Go",
-          "shop": "浅梦杂货铺",
-          "wlabel": "质保 30 天"
-        },
-        {
-          "facts": [
-            "质保 30 天",
-            "1 个月",
-            "菲区"
-          ],
-          "kind": "topup",
-          "price": 44.0,
-          "product": "ChatGPT Go",
           "shop": "长虹AI",
           "wlabel": "质保 30 天"
         },
@@ -372,6 +360,18 @@
           "price": 44.0,
           "product": "ChatGPT Go",
           "shop": "雷动九天",
+          "wlabel": "质保 30 天"
+        },
+        {
+          "facts": [
+            "质保 30 天",
+            "1 个月",
+            "菲区"
+          ],
+          "kind": "topup",
+          "price": 45.23,
+          "product": "ChatGPT Go",
+          "shop": "浅梦杂货铺",
           "wlabel": "质保 30 天"
         },
         {
@@ -436,7 +436,7 @@
             "自动发货"
           ],
           "kind": "topup",
-          "price": 28.65,
+          "price": 28.64,
           "product": "ChatGPT Go",
           "shop": "大个儿",
           "wlabel": ""
@@ -758,18 +758,6 @@
           "kind": "topup",
           "price": 44.0,
           "product": "ChatGPT Go",
-          "shop": "浅梦杂货铺",
-          "wlabel": "质保 30 天"
-        },
-        {
-          "facts": [
-            "质保 30 天",
-            "1 个月",
-            "菲区"
-          ],
-          "kind": "topup",
-          "price": 44.0,
-          "product": "ChatGPT Go",
           "shop": "长虹AI",
           "wlabel": "质保 30 天"
         },
@@ -783,6 +771,18 @@
           "price": 44.0,
           "product": "ChatGPT Go",
           "shop": "雷动九天",
+          "wlabel": "质保 30 天"
+        },
+        {
+          "facts": [
+            "质保 30 天",
+            "1 个月",
+            "菲区"
+          ],
+          "kind": "topup",
+          "price": 45.23,
+          "product": "ChatGPT Go",
+          "shop": "浅梦杂货铺",
           "wlabel": "质保 30 天"
         },
         {
@@ -848,16 +848,6 @@
           "wlabel": "质保 30 天"
         },
         {
-          "facts": [
-            "1 个月"
-          ],
-          "kind": "share",
-          "price": 66.82,
-          "product": "ChatGPT Plus 代充",
-          "shop": "52XUEAI",
-          "wlabel": ""
-        },
-        {
           "facts": [],
           "kind": "topup",
           "price": 67.85,
@@ -901,14 +891,17 @@
         },
         {
           "facts": [
-            "48 个月",
-            "1 个月"
+            "质保 30 天",
+            "1 个月",
+            "菲区",
+            "带官方账单",
+            "可开发票"
           ],
-          "kind": "share",
-          "price": 80.05,
-          "product": "ChatGPT Team / 商业版",
-          "shop": "浅梦杂货铺",
-          "wlabel": ""
+          "kind": "topup",
+          "price": 80.49,
+          "product": "ChatGPT Plus 代充",
+          "shop": "AI OPC",
+          "wlabel": "质保 30 天"
         },
         {
           "facts": [
@@ -930,6 +923,17 @@
           "price": 82.29,
           "product": "ChatGPT Team / 商业版",
           "shop": "小少",
+          "wlabel": ""
+        },
+        {
+          "facts": [
+            "48 个月",
+            "1 个月"
+          ],
+          "kind": "share",
+          "price": 82.29,
+          "product": "ChatGPT Team / 商业版",
+          "shop": "浅梦杂货铺",
           "wlabel": ""
         },
         {
@@ -1011,23 +1015,12 @@
         },
         {
           "facts": [
-            "48 个月",
-            "1 个月"
-          ],
-          "kind": "share",
-          "price": 92.32,
-          "product": "ChatGPT Team / 商业版",
-          "shop": "华润",
-          "wlabel": ""
-        },
-        {
-          "facts": [
             "质保 30 天",
             "1 个月",
             "自动发货"
           ],
           "kind": "topup",
-          "price": 108.15,
+          "price": 107.94,
           "product": "ChatGPT Plus 代充",
           "shop": "Plus主页",
           "wlabel": "质保 30 天"
@@ -1248,6 +1241,16 @@
         },
         {
           "facts": [
+            "1 个月"
+          ],
+          "kind": "topup",
+          "price": 119.25,
+          "product": "ChatGPT Plus 代充",
+          "shop": "52XUEAI",
+          "wlabel": ""
+        },
+        {
+          "facts": [
             "质保整个订阅期",
             "1 个月",
             "菲区",
@@ -1268,17 +1271,6 @@
           "product": "ChatGPT Plus 代充",
           "shop": "壹号铺",
           "wlabel": "无质保"
-        },
-        {
-          "facts": [
-            "质保整个订阅期",
-            "菲区"
-          ],
-          "kind": "code",
-          "price": 120.75,
-          "product": "ChatGPT Plus 代充",
-          "shop": "浅梦杂货铺",
-          "wlabel": "质保整个订阅期"
         },
         {
           "facts": [
@@ -1305,14 +1297,25 @@
         {
           "facts": [
             "质保 30 天",
-            "菲区",
+            "1 个月",
             "自动发货"
           ],
-          "kind": "code",
-          "price": 125.31,
+          "kind": "topup",
+          "price": 124.13,
           "product": "ChatGPT Plus 代充",
           "shop": "办办ai",
           "wlabel": "质保 30 天"
+        },
+        {
+          "facts": [
+            "质保整个订阅期",
+            "菲区"
+          ],
+          "kind": "code",
+          "price": 125.21,
+          "product": "ChatGPT Plus 代充",
+          "shop": "浅梦杂货铺",
+          "wlabel": "质保整个订阅期"
         },
         {
           "facts": [
@@ -1383,17 +1386,6 @@
           "product": "ChatGPT Plus 代充",
           "shop": "海螺AI服务",
           "wlabel": "质保 30 天"
-        },
-        {
-          "facts": [
-            "1 个月",
-            "自动发货"
-          ],
-          "kind": "topup",
-          "price": 131.98,
-          "product": "ChatGPT Plus 代充",
-          "shop": "AI OPC",
-          "wlabel": ""
         },
         {
           "facts": [
@@ -1468,7 +1460,7 @@
             "iOS 渠道"
           ],
           "kind": "topup",
-          "price": 614.74,
+          "price": 611.65,
           "product": "ChatGPT Pro 5x",
           "shop": "AI咕咕嘎嘎",
           "wlabel": "质保 30 天"
@@ -1482,7 +1474,7 @@
             "带官方账单"
           ],
           "kind": "topup",
-          "price": 614.74,
+          "price": 611.65,
           "product": "ChatGPT Pro 5x",
           "shop": "AI奥特曼",
           "wlabel": "质保 30 天"
@@ -1494,21 +1486,10 @@
             "iOS 渠道"
           ],
           "kind": "topup",
-          "price": 614.74,
+          "price": 611.65,
           "product": "ChatGPT Pro 5x",
           "shop": "派大星",
           "wlabel": "质保 30 天"
-        },
-        {
-          "facts": [
-            "1 个月",
-            "自动发货"
-          ],
-          "kind": "topup",
-          "price": 615.62,
-          "product": "ChatGPT Pro 5x",
-          "shop": "大个儿",
-          "wlabel": ""
         },
         {
           "facts": [
@@ -1517,10 +1498,21 @@
             "iOS 渠道"
           ],
           "kind": "topup",
-          "price": 616.54,
+          "price": 613.43,
           "product": "ChatGPT Pro 5x",
           "shop": "北橘号铺",
           "wlabel": "质保 30 天"
+        },
+        {
+          "facts": [
+            "1 个月",
+            "自动发货"
+          ],
+          "kind": "topup",
+          "price": 614.59,
+          "product": "ChatGPT Pro 5x",
+          "shop": "大个儿",
+          "wlabel": ""
         },
         {
           "facts": [
@@ -1540,7 +1532,7 @@
             "iOS 渠道"
           ],
           "kind": "topup",
-          "price": 620.91,
+          "price": 617.82,
           "product": "ChatGPT Pro 5x",
           "shop": "AI会员订阅源头",
           "wlabel": "质保 30 天"
@@ -1552,7 +1544,7 @@
             "iOS 渠道"
           ],
           "kind": "topup",
-          "price": 633.19,
+          "price": 630.0,
           "product": "ChatGPT Pro 5x",
           "shop": "ZH API",
           "wlabel": "质保 30 天"
@@ -1563,10 +1555,22 @@
             "自动发货"
           ],
           "kind": "topup",
-          "price": 634.25,
+          "price": 633.19,
           "product": "ChatGPT Pro 5x",
           "shop": "Tcc谷歌邮箱",
           "wlabel": ""
+        },
+        {
+          "facts": [
+            "质保 30 天",
+            "1 个月",
+            "iOS 渠道"
+          ],
+          "kind": "topup",
+          "price": 642.23,
+          "product": "ChatGPT Pro 5x",
+          "shop": "一梦AI货源",
+          "wlabel": "质保 30 天"
         },
         {
           "facts": [
@@ -1577,18 +1581,6 @@
           "product": "ChatGPT Pro 5x",
           "shop": "GiPiTa 菲区源头",
           "wlabel": "质保整个订阅期"
-        },
-        {
-          "facts": [
-            "质保 30 天",
-            "1 个月",
-            "iOS 渠道"
-          ],
-          "kind": "topup",
-          "price": 645.48,
-          "product": "ChatGPT Pro 5x",
-          "shop": "一梦AI货源",
-          "wlabel": "质保 30 天"
         },
         {
           "facts": [
@@ -1618,7 +1610,7 @@
             "iOS 渠道"
           ],
           "kind": "topup",
-          "price": 657.8,
+          "price": 654.49,
           "product": "ChatGPT Pro 5x",
           "shop": "Apexqt",
           "wlabel": "质保 30 天"
@@ -1630,7 +1622,7 @@
             "iOS 渠道"
           ],
           "kind": "topup",
-          "price": 657.8,
+          "price": 654.49,
           "product": "ChatGPT Pro 5x",
           "shop": "llcuio",
           "wlabel": "质保 30 天"
@@ -1642,7 +1634,7 @@
             "iOS 渠道"
           ],
           "kind": "topup",
-          "price": 657.8,
+          "price": 654.49,
           "product": "ChatGPT Pro 5x",
           "shop": "小少",
           "wlabel": "质保 30 天"
@@ -1654,19 +1646,7 @@
             "iOS 渠道"
           ],
           "kind": "topup",
-          "price": 657.8,
-          "product": "ChatGPT Pro 5x",
-          "shop": "浅梦杂货铺",
-          "wlabel": "质保 30 天"
-        },
-        {
-          "facts": [
-            "质保 30 天",
-            "1 个月",
-            "iOS 渠道"
-          ],
-          "kind": "topup",
-          "price": 657.8,
+          "price": 654.49,
           "product": "ChatGPT Pro 5x",
           "shop": "长虹AI",
           "wlabel": "质保 30 天"
@@ -1678,7 +1658,7 @@
             "iOS 渠道"
           ],
           "kind": "topup",
-          "price": 657.8,
+          "price": 654.49,
           "product": "ChatGPT Pro 5x",
           "shop": "雷动九天",
           "wlabel": "质保 30 天"
@@ -1730,6 +1710,18 @@
         },
         {
           "facts": [
+            "质保 30 天",
+            "1 个月",
+            "iOS 渠道"
+          ],
+          "kind": "topup",
+          "price": 672.82,
+          "product": "ChatGPT Pro 5x",
+          "shop": "浅梦杂货铺",
+          "wlabel": "质保 30 天"
+        },
+        {
+          "facts": [
             "质保整个订阅期",
             "iOS 渠道"
           ],
@@ -1745,7 +1737,7 @@
             "自动发货"
           ],
           "kind": "topup",
-          "price": 677.35,
+          "price": 676.22,
           "product": "ChatGPT Pro 5x",
           "shop": "AI小墨",
           "wlabel": ""
@@ -1785,6 +1777,20 @@
         },
         {
           "facts": [
+            "质保 30 天",
+            "1 个月",
+            "美区",
+            "iOS 渠道",
+            "带官方账单"
+          ],
+          "kind": "topup",
+          "price": 684.24,
+          "product": "ChatGPT Pro 5x",
+          "shop": "海螺AI服务",
+          "wlabel": "质保 30 天"
+        },
+        {
+          "facts": [
             "质保整个订阅期",
             "iOS 渠道"
           ],
@@ -1793,20 +1799,6 @@
           "product": "ChatGPT Pro 5x",
           "shop": "壹号铺",
           "wlabel": "质保整个订阅期"
-        },
-        {
-          "facts": [
-            "质保 30 天",
-            "1 个月",
-            "美区",
-            "iOS 渠道",
-            "带官方账单"
-          ],
-          "kind": "topup",
-          "price": 687.7,
-          "product": "ChatGPT Pro 5x",
-          "shop": "海螺AI服务",
-          "wlabel": "质保 30 天"
         },
         {
           "facts": [],
@@ -1829,6 +1821,19 @@
         },
         {
           "facts": [
+            "质保 30 天",
+            "1 个月",
+            "美区",
+            "iOS 渠道"
+          ],
+          "kind": "topup",
+          "price": 694.92,
+          "product": "ChatGPT Pro 5x",
+          "shop": "尼克的AI工具箱",
+          "wlabel": "质保 30 天"
+        },
+        {
+          "facts": [
             "1 个月",
             "自动发货"
           ],
@@ -1837,19 +1842,6 @@
           "product": "ChatGPT Pro 5x",
           "shop": "若依的小铺",
           "wlabel": ""
-        },
-        {
-          "facts": [
-            "质保 30 天",
-            "1 个月",
-            "美区",
-            "iOS 渠道"
-          ],
-          "kind": "topup",
-          "price": 698.01,
-          "product": "ChatGPT Pro 5x",
-          "shop": "尼克的AI工具箱",
-          "wlabel": "质保 30 天"
         },
         {
           "facts": [
@@ -1868,7 +1860,7 @@
             "iOS 渠道"
           ],
           "kind": "topup",
-          "price": 737.69,
+          "price": 733.98,
           "product": "ChatGPT Pro 5x",
           "shop": "AI OPC",
           "wlabel": "质保 30 天"
@@ -2045,6 +2037,17 @@
         },
         {
           "facts": [
+            "菲区",
+            "带官方账单"
+          ],
+          "kind": "topup",
+          "price": 1048.25,
+          "product": "ChatGPT Pro 20x",
+          "shop": "源头AI Bot",
+          "wlabel": ""
+        },
+        {
+          "facts": [
             "质保 30 天",
             "菲区"
           ],
@@ -2056,26 +2059,6 @@
         },
         {
           "facts": [
-            "无质保"
-          ],
-          "kind": "topup",
-          "price": 1054.9,
-          "product": "ChatGPT Pro 20x",
-          "shop": "Apexqt",
-          "wlabel": "无质保"
-        },
-        {
-          "facts": [
-            "无质保"
-          ],
-          "kind": "topup",
-          "price": 1054.93,
-          "product": "ChatGPT Pro 20x",
-          "shop": "Muse海贼团",
-          "wlabel": "无质保"
-        },
-        {
-          "facts": [
             "1 个月",
             "自动发货"
           ],
@@ -2084,6 +2067,26 @@
           "product": "ChatGPT Pro 20x",
           "shop": "AI哈哈小胖",
           "wlabel": ""
+        },
+        {
+          "facts": [
+            "无质保"
+          ],
+          "kind": "topup",
+          "price": 1061.1,
+          "product": "ChatGPT Pro 20x",
+          "shop": "Muse海贼团",
+          "wlabel": "无质保"
+        },
+        {
+          "facts": [
+            "无质保"
+          ],
+          "kind": "topup",
+          "price": 1061.5,
+          "product": "ChatGPT Pro 20x",
+          "shop": "Apexqt",
+          "wlabel": "无质保"
         },
         {
           "facts": [
@@ -2124,12 +2127,12 @@
         {
           "facts": [
             "菲区",
-            "带官方账单"
+            "可开发票"
           ],
-          "kind": "topup",
-          "price": 1069.43,
+          "kind": "code",
+          "price": 1069.12,
           "product": "ChatGPT Pro 20x",
-          "shop": "源头AI Bot",
+          "shop": "无忧卡网可开发票 AI源头供货商",
           "wlabel": ""
         },
         {
@@ -2313,7 +2316,7 @@
             "无质保"
           ],
           "kind": "topup",
-          "price": 1133.73,
+          "price": 1140.82,
           "product": "ChatGPT Pro 20x",
           "shop": "的Ai小店",
           "wlabel": "无质保"
@@ -2456,7 +2459,7 @@
           "wlabel": "质保整个订阅期"
         }
       ],
-      "shops": 68,
+      "shops": 69,
       "url": "https://www.findbestapi.com/chatgpt/"
     },
     "chatgpt-plus-recharge": {
@@ -2514,10 +2517,24 @@
           "facts": [
             "质保 30 天",
             "1 个月",
+            "菲区",
+            "带官方账单",
+            "可开发票"
+          ],
+          "kind": "topup",
+          "price": 80.49,
+          "product": "ChatGPT Plus 代充",
+          "shop": "AI OPC",
+          "wlabel": "质保 30 天"
+        },
+        {
+          "facts": [
+            "质保 30 天",
+            "1 个月",
             "自动发货"
           ],
           "kind": "topup",
-          "price": 108.15,
+          "price": 107.94,
           "product": "ChatGPT Plus 代充",
           "shop": "Plus主页",
           "wlabel": "质保 30 天"
@@ -2738,6 +2755,16 @@
         },
         {
           "facts": [
+            "1 个月"
+          ],
+          "kind": "topup",
+          "price": 119.25,
+          "product": "ChatGPT Plus 代充",
+          "shop": "52XUEAI",
+          "wlabel": ""
+        },
+        {
+          "facts": [
             "质保整个订阅期",
             "1 个月",
             "菲区",
@@ -2758,17 +2785,6 @@
           "product": "ChatGPT Plus 代充",
           "shop": "壹号铺",
           "wlabel": "无质保"
-        },
-        {
-          "facts": [
-            "质保整个订阅期",
-            "菲区"
-          ],
-          "kind": "code",
-          "price": 120.75,
-          "product": "ChatGPT Plus 代充",
-          "shop": "浅梦杂货铺",
-          "wlabel": "质保整个订阅期"
         },
         {
           "facts": [
@@ -2795,14 +2811,25 @@
         {
           "facts": [
             "质保 30 天",
-            "菲区",
+            "1 个月",
             "自动发货"
           ],
-          "kind": "code",
-          "price": 125.31,
+          "kind": "topup",
+          "price": 124.13,
           "product": "ChatGPT Plus 代充",
           "shop": "办办ai",
           "wlabel": "质保 30 天"
+        },
+        {
+          "facts": [
+            "质保整个订阅期",
+            "菲区"
+          ],
+          "kind": "code",
+          "price": 125.21,
+          "product": "ChatGPT Plus 代充",
+          "shop": "浅梦杂货铺",
+          "wlabel": "质保整个订阅期"
         },
         {
           "facts": [
@@ -2876,17 +2903,6 @@
         },
         {
           "facts": [
-            "1 个月",
-            "自动发货"
-          ],
-          "kind": "topup",
-          "price": 131.98,
-          "product": "ChatGPT Plus 代充",
-          "shop": "AI OPC",
-          "wlabel": ""
-        },
-        {
-          "facts": [
             "质保 30 天",
             "1 个月",
             "菲区"
@@ -2933,7 +2949,7 @@
           "wlabel": ""
         }
       ],
-      "shops": 40,
+      "shops": 41,
       "url": "https://www.findbestapi.com/chatgpt/chatgpt-plus-recharge/"
     },
     "chatgpt-pro-20x": {
@@ -3090,6 +3106,17 @@
         },
         {
           "facts": [
+            "菲区",
+            "带官方账单"
+          ],
+          "kind": "topup",
+          "price": 1048.25,
+          "product": "ChatGPT Pro 20x",
+          "shop": "源头AI Bot",
+          "wlabel": ""
+        },
+        {
+          "facts": [
             "质保 30 天",
             "菲区"
           ],
@@ -3101,26 +3128,6 @@
         },
         {
           "facts": [
-            "无质保"
-          ],
-          "kind": "topup",
-          "price": 1054.9,
-          "product": "ChatGPT Pro 20x",
-          "shop": "Apexqt",
-          "wlabel": "无质保"
-        },
-        {
-          "facts": [
-            "无质保"
-          ],
-          "kind": "topup",
-          "price": 1054.93,
-          "product": "ChatGPT Pro 20x",
-          "shop": "Muse海贼团",
-          "wlabel": "无质保"
-        },
-        {
-          "facts": [
             "1 个月",
             "自动发货"
           ],
@@ -3129,6 +3136,26 @@
           "product": "ChatGPT Pro 20x",
           "shop": "AI哈哈小胖",
           "wlabel": ""
+        },
+        {
+          "facts": [
+            "无质保"
+          ],
+          "kind": "topup",
+          "price": 1061.1,
+          "product": "ChatGPT Pro 20x",
+          "shop": "Muse海贼团",
+          "wlabel": "无质保"
+        },
+        {
+          "facts": [
+            "无质保"
+          ],
+          "kind": "topup",
+          "price": 1061.5,
+          "product": "ChatGPT Pro 20x",
+          "shop": "Apexqt",
+          "wlabel": "无质保"
         },
         {
           "facts": [
@@ -3169,12 +3196,12 @@
         {
           "facts": [
             "菲区",
-            "带官方账单"
+            "可开发票"
           ],
-          "kind": "topup",
-          "price": 1069.43,
+          "kind": "code",
+          "price": 1069.12,
           "product": "ChatGPT Pro 20x",
-          "shop": "源头AI Bot",
+          "shop": "无忧卡网可开发票 AI源头供货商",
           "wlabel": ""
         },
         {
@@ -3358,7 +3385,7 @@
             "无质保"
           ],
           "kind": "topup",
-          "price": 1133.73,
+          "price": 1140.82,
           "product": "ChatGPT Pro 20x",
           "shop": "的Ai小店",
           "wlabel": "无质保"
@@ -3501,7 +3528,7 @@
           "wlabel": "质保整个订阅期"
         }
       ],
-      "shops": 50,
+      "shops": 51,
       "url": "https://www.findbestapi.com/chatgpt/chatgpt-pro-20x/"
     },
     "chatgpt-pro-5x": {
@@ -3515,7 +3542,7 @@
             "iOS 渠道"
           ],
           "kind": "topup",
-          "price": 614.74,
+          "price": 611.65,
           "product": "ChatGPT Pro 5x",
           "shop": "AI咕咕嘎嘎",
           "wlabel": "质保 30 天"
@@ -3529,7 +3556,7 @@
             "带官方账单"
           ],
           "kind": "topup",
-          "price": 614.74,
+          "price": 611.65,
           "product": "ChatGPT Pro 5x",
           "shop": "AI奥特曼",
           "wlabel": "质保 30 天"
@@ -3541,21 +3568,10 @@
             "iOS 渠道"
           ],
           "kind": "topup",
-          "price": 614.74,
+          "price": 611.65,
           "product": "ChatGPT Pro 5x",
           "shop": "派大星",
           "wlabel": "质保 30 天"
-        },
-        {
-          "facts": [
-            "1 个月",
-            "自动发货"
-          ],
-          "kind": "topup",
-          "price": 615.62,
-          "product": "ChatGPT Pro 5x",
-          "shop": "大个儿",
-          "wlabel": ""
         },
         {
           "facts": [
@@ -3564,10 +3580,21 @@
             "iOS 渠道"
           ],
           "kind": "topup",
-          "price": 616.54,
+          "price": 613.43,
           "product": "ChatGPT Pro 5x",
           "shop": "北橘号铺",
           "wlabel": "质保 30 天"
+        },
+        {
+          "facts": [
+            "1 个月",
+            "自动发货"
+          ],
+          "kind": "topup",
+          "price": 614.59,
+          "product": "ChatGPT Pro 5x",
+          "shop": "大个儿",
+          "wlabel": ""
         },
         {
           "facts": [
@@ -3587,7 +3614,7 @@
             "iOS 渠道"
           ],
           "kind": "topup",
-          "price": 620.91,
+          "price": 617.82,
           "product": "ChatGPT Pro 5x",
           "shop": "AI会员订阅源头",
           "wlabel": "质保 30 天"
@@ -3599,7 +3626,7 @@
             "iOS 渠道"
           ],
           "kind": "topup",
-          "price": 633.19,
+          "price": 630.0,
           "product": "ChatGPT Pro 5x",
           "shop": "ZH API",
           "wlabel": "质保 30 天"
@@ -3610,10 +3637,22 @@
             "自动发货"
           ],
           "kind": "topup",
-          "price": 634.25,
+          "price": 633.19,
           "product": "ChatGPT Pro 5x",
           "shop": "Tcc谷歌邮箱",
           "wlabel": ""
+        },
+        {
+          "facts": [
+            "质保 30 天",
+            "1 个月",
+            "iOS 渠道"
+          ],
+          "kind": "topup",
+          "price": 642.23,
+          "product": "ChatGPT Pro 5x",
+          "shop": "一梦AI货源",
+          "wlabel": "质保 30 天"
         },
         {
           "facts": [
@@ -3624,18 +3663,6 @@
           "product": "ChatGPT Pro 5x",
           "shop": "GiPiTa 菲区源头",
           "wlabel": "质保整个订阅期"
-        },
-        {
-          "facts": [
-            "质保 30 天",
-            "1 个月",
-            "iOS 渠道"
-          ],
-          "kind": "topup",
-          "price": 645.48,
-          "product": "ChatGPT Pro 5x",
-          "shop": "一梦AI货源",
-          "wlabel": "质保 30 天"
         },
         {
           "facts": [
@@ -3665,7 +3692,7 @@
             "iOS 渠道"
           ],
           "kind": "topup",
-          "price": 657.8,
+          "price": 654.49,
           "product": "ChatGPT Pro 5x",
           "shop": "Apexqt",
           "wlabel": "质保 30 天"
@@ -3677,7 +3704,7 @@
             "iOS 渠道"
           ],
           "kind": "topup",
-          "price": 657.8,
+          "price": 654.49,
           "product": "ChatGPT Pro 5x",
           "shop": "llcuio",
           "wlabel": "质保 30 天"
@@ -3689,7 +3716,7 @@
             "iOS 渠道"
           ],
           "kind": "topup",
-          "price": 657.8,
+          "price": 654.49,
           "product": "ChatGPT Pro 5x",
           "shop": "小少",
           "wlabel": "质保 30 天"
@@ -3701,19 +3728,7 @@
             "iOS 渠道"
           ],
           "kind": "topup",
-          "price": 657.8,
-          "product": "ChatGPT Pro 5x",
-          "shop": "浅梦杂货铺",
-          "wlabel": "质保 30 天"
-        },
-        {
-          "facts": [
-            "质保 30 天",
-            "1 个月",
-            "iOS 渠道"
-          ],
-          "kind": "topup",
-          "price": 657.8,
+          "price": 654.49,
           "product": "ChatGPT Pro 5x",
           "shop": "长虹AI",
           "wlabel": "质保 30 天"
@@ -3725,7 +3740,7 @@
             "iOS 渠道"
           ],
           "kind": "topup",
-          "price": 657.8,
+          "price": 654.49,
           "product": "ChatGPT Pro 5x",
           "shop": "雷动九天",
           "wlabel": "质保 30 天"
@@ -3777,6 +3792,18 @@
         },
         {
           "facts": [
+            "质保 30 天",
+            "1 个月",
+            "iOS 渠道"
+          ],
+          "kind": "topup",
+          "price": 672.82,
+          "product": "ChatGPT Pro 5x",
+          "shop": "浅梦杂货铺",
+          "wlabel": "质保 30 天"
+        },
+        {
+          "facts": [
             "质保整个订阅期",
             "iOS 渠道"
           ],
@@ -3792,7 +3819,7 @@
             "自动发货"
           ],
           "kind": "topup",
-          "price": 677.35,
+          "price": 676.22,
           "product": "ChatGPT Pro 5x",
           "shop": "AI小墨",
           "wlabel": ""
@@ -3832,6 +3859,20 @@
         },
         {
           "facts": [
+            "质保 30 天",
+            "1 个月",
+            "美区",
+            "iOS 渠道",
+            "带官方账单"
+          ],
+          "kind": "topup",
+          "price": 684.24,
+          "product": "ChatGPT Pro 5x",
+          "shop": "海螺AI服务",
+          "wlabel": "质保 30 天"
+        },
+        {
+          "facts": [
             "质保整个订阅期",
             "iOS 渠道"
           ],
@@ -3840,20 +3881,6 @@
           "product": "ChatGPT Pro 5x",
           "shop": "壹号铺",
           "wlabel": "质保整个订阅期"
-        },
-        {
-          "facts": [
-            "质保 30 天",
-            "1 个月",
-            "美区",
-            "iOS 渠道",
-            "带官方账单"
-          ],
-          "kind": "topup",
-          "price": 687.7,
-          "product": "ChatGPT Pro 5x",
-          "shop": "海螺AI服务",
-          "wlabel": "质保 30 天"
         },
         {
           "facts": [],
@@ -3876,6 +3903,19 @@
         },
         {
           "facts": [
+            "质保 30 天",
+            "1 个月",
+            "美区",
+            "iOS 渠道"
+          ],
+          "kind": "topup",
+          "price": 694.92,
+          "product": "ChatGPT Pro 5x",
+          "shop": "尼克的AI工具箱",
+          "wlabel": "质保 30 天"
+        },
+        {
+          "facts": [
             "1 个月",
             "自动发货"
           ],
@@ -3889,23 +3929,10 @@
           "facts": [
             "质保 30 天",
             "1 个月",
-            "美区",
             "iOS 渠道"
           ],
           "kind": "topup",
-          "price": 698.01,
-          "product": "ChatGPT Pro 5x",
-          "shop": "尼克的AI工具箱",
-          "wlabel": "质保 30 天"
-        },
-        {
-          "facts": [
-            "质保 30 天",
-            "1 个月",
-            "iOS 渠道"
-          ],
-          "kind": "topup",
-          "price": 737.69,
+          "price": 733.98,
           "product": "ChatGPT Pro 5x",
           "shop": "AI OPC",
           "wlabel": "质保 30 天"
@@ -4077,12 +4104,32 @@
         },
         {
           "facts": [
+            "3 个月"
+          ],
+          "kind": "code",
+          "price": 12.21,
+          "product": "Gemini Pro 代充",
+          "shop": "AI源头供货商",
+          "wlabel": ""
+        },
+        {
+          "facts": [
             "12 个月"
           ],
           "kind": "code",
           "price": 15.42,
           "product": "Gemini Pro 年付",
           "shop": "AI OPC",
+          "wlabel": ""
+        },
+        {
+          "facts": [
+            "3 个月"
+          ],
+          "kind": "code",
+          "price": 15.93,
+          "product": "Gemini Pro 代充",
+          "shop": "的Ai小店",
           "wlabel": ""
         },
         {
@@ -4103,16 +4150,6 @@
           "price": 19.06,
           "product": "Gemini Pro 年付",
           "shop": "长虹AI",
-          "wlabel": ""
-        },
-        {
-          "facts": [
-            "3 个月"
-          ],
-          "kind": "code",
-          "price": 19.33,
-          "product": "Gemini Pro 年付",
-          "shop": "llcuio",
           "wlabel": ""
         },
         {
@@ -4254,18 +4291,6 @@
           "kind": "share",
           "price": 172.7,
           "product": "Google AI Ultra",
-          "shop": "AI源头供货商",
-          "wlabel": ""
-        },
-        {
-          "facts": [
-            "1 个月",
-            "美区",
-            "家庭组"
-          ],
-          "kind": "share",
-          "price": 172.7,
-          "product": "Google AI Ultra",
           "shop": "源头Ai供应",
           "wlabel": ""
         },
@@ -4281,9 +4306,29 @@
           "wlabel": "质保 30 天"
         },
         {
+          "facts": [
+            "首登质保"
+          ],
+          "kind": "share",
+          "price": 244.66,
+          "product": "Google AI Ultra",
+          "shop": "AI源头供货商",
+          "wlabel": "首登质保"
+        },
+        {
+          "facts": [
+            "1 个月"
+          ],
+          "kind": "share",
+          "price": 257.0,
+          "product": "Google AI Ultra",
+          "shop": "尼克的AI工具箱",
+          "wlabel": ""
+        },
+        {
           "facts": [],
           "kind": "share",
-          "price": 462.6,
+          "price": 411.2,
           "product": "Google AI Ultra",
           "shop": "Plus主页",
           "wlabel": ""
@@ -4310,6 +4355,18 @@
           "price": 542.78,
           "product": "Google AI Ultra",
           "shop": "华润",
+          "wlabel": "质保 30 天"
+        },
+        {
+          "facts": [
+            "质保 30 天",
+            "1 个月",
+            "iOS 渠道"
+          ],
+          "kind": "share",
+          "price": 554.09,
+          "product": "Google AI Ultra",
+          "shop": "无忧卡网可开发票 AI源头供货商",
           "wlabel": "质保 30 天"
         },
         {
@@ -4373,7 +4430,7 @@
           "wlabel": "质保 30 天"
         }
       ],
-      "shops": 28,
+      "shops": 31,
       "url": "https://www.findbestapi.com/gemini/"
     },
     "shared-seats": {
@@ -4415,16 +4472,6 @@
         },
         {
           "facts": [
-            "1 个月"
-          ],
-          "kind": "share",
-          "price": 66.82,
-          "product": "ChatGPT Plus 代充",
-          "shop": "52XUEAI",
-          "wlabel": ""
-        },
-        {
-          "facts": [
             "48 个月",
             "1 个月"
           ],
@@ -4432,17 +4479,6 @@
           "price": 77.05,
           "product": "ChatGPT Team / 商业版",
           "shop": "北橘号铺",
-          "wlabel": ""
-        },
-        {
-          "facts": [
-            "48 个月",
-            "1 个月"
-          ],
-          "kind": "share",
-          "price": 80.05,
-          "product": "ChatGPT Team / 商业版",
-          "shop": "浅梦杂货铺",
           "wlabel": ""
         },
         {
@@ -4465,6 +4501,17 @@
           "price": 82.29,
           "product": "ChatGPT Team / 商业版",
           "shop": "小少",
+          "wlabel": ""
+        },
+        {
+          "facts": [
+            "48 个月",
+            "1 个月"
+          ],
+          "kind": "share",
+          "price": 82.29,
+          "product": "ChatGPT Team / 商业版",
+          "shop": "浅梦杂货铺",
           "wlabel": ""
         },
         {
@@ -4542,17 +4589,6 @@
           "price": 91.51,
           "product": "ChatGPT Team / 商业版",
           "shop": "蜡笔小新",
-          "wlabel": ""
-        },
-        {
-          "facts": [
-            "48 个月",
-            "1 个月"
-          ],
-          "kind": "share",
-          "price": 92.32,
-          "product": "ChatGPT Team / 商业版",
-          "shop": "华润",
           "wlabel": ""
         },
         {
@@ -4674,18 +4710,6 @@
           "kind": "share",
           "price": 172.7,
           "product": "Google AI Ultra",
-          "shop": "AI源头供货商",
-          "wlabel": ""
-        },
-        {
-          "facts": [
-            "1 个月",
-            "美区",
-            "家庭组"
-          ],
-          "kind": "share",
-          "price": 172.7,
-          "product": "Google AI Ultra",
           "shop": "源头Ai供应",
           "wlabel": ""
         },
@@ -4701,21 +4725,31 @@
           "wlabel": "质保 30 天"
         },
         {
-          "facts": [],
+          "facts": [
+            "首登质保"
+          ],
           "kind": "share",
-          "price": 281.57,
-          "product": "ChatGPT Team / 商业版",
-          "shop": "CodexTool",
-          "wlabel": ""
+          "price": 244.66,
+          "product": "Google AI Ultra",
+          "shop": "AI源头供货商",
+          "wlabel": "首登质保"
         },
         {
           "facts": [
             "1 个月"
           ],
           "kind": "share",
-          "price": 307.37,
-          "product": "ChatGPT Pro 5x",
-          "shop": "52XUEAI",
+          "price": 257.0,
+          "product": "Google AI Ultra",
+          "shop": "尼克的AI工具箱",
+          "wlabel": ""
+        },
+        {
+          "facts": [],
+          "kind": "share",
+          "price": 281.57,
+          "product": "ChatGPT Team / 商业版",
+          "shop": "CodexTool",
           "wlabel": ""
         },
         {
@@ -4731,7 +4765,7 @@
         {
           "facts": [],
           "kind": "share",
-          "price": 462.6,
+          "price": 411.2,
           "product": "Google AI Ultra",
           "shop": "Plus主页",
           "wlabel": ""
@@ -4758,6 +4792,18 @@
           "price": 542.78,
           "product": "Google AI Ultra",
           "shop": "华润",
+          "wlabel": "质保 30 天"
+        },
+        {
+          "facts": [
+            "质保 30 天",
+            "1 个月",
+            "iOS 渠道"
+          ],
+          "kind": "share",
+          "price": 554.09,
+          "product": "Google AI Ultra",
+          "shop": "无忧卡网可开发票 AI源头供货商",
           "wlabel": "质保 30 天"
         },
         {
@@ -4841,15 +4887,15 @@
           "wlabel": "质保 30 天"
         }
       ],
-      "shops": 29,
+      "shops": 30,
       "url": "https://www.findbestapi.com/recharge/"
     }
   },
   "site": "https://www.findbestapi.com",
   "totals": {
     "products": 8,
-    "rows": 220,
-    "shops": 68
+    "rows": 222,
+    "shops": 69
   },
   "tz": "Asia/Shanghai"
 }
