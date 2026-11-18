@@ -1,6 +1,6 @@
 # Gemini中转站推荐 2026：210+ 家Gemini API价格对比
 
-[AI 会员代充价格](../README.md) › API 中转站价格 · [全部中转站](README.md) · [GPT / OpenAI](gpt.md) · [Claude](claude.md) · **Gemini** · [GLM / 智谱](glm.md) · [Kimi](kimi.md) · [支付宝能充](alipay.md) · [能开发票](invoice.md)
+[AI 会员代充价格](../README.md) › API 中转站价格 · [全部中转站](README.md) · [GPT / OpenAI](gpt.md) · [Claude](claude.md) · **Gemini** · [Codex](codex.md) · [Grok](grok.md) · [DeepSeek](deepseek.md) · [GLM / 智谱](glm.md) · [Kimi](kimi.md) · [支付宝能充](alipay.md) · [能开发票](invoice.md)
 
 今天 Gemini 中转最低价（每百万 token）：Gemini 4 Argon 输入 ¥0.147 / 输出 ¥0.735（OpenLux），Gemini 4 Carbon 输入 ¥0.147 / 输出 ¥0.735（OpenLux）。
 

@@ -1,6 +1,6 @@
 # GPT中转站推荐 2026：280+ 家OpenAI中转站价格对比
 
-[AI 会员代充价格](../README.md) › API 中转站价格 · [全部中转站](README.md) · **GPT / OpenAI** · [Claude](claude.md) · [Gemini](gemini.md) · [GLM / 智谱](glm.md) · [Kimi](kimi.md) · [支付宝能充](alipay.md) · [能开发票](invoice.md)
+[AI 会员代充价格](../README.md) › API 中转站价格 · [全部中转站](README.md) · **GPT / OpenAI** · [Claude](claude.md) · [Gemini](gemini.md) · [Codex](codex.md) · [Grok](grok.md) · [DeepSeek](deepseek.md) · [GLM / 智谱](glm.md) · [Kimi](kimi.md) · [支付宝能充](alipay.md) · [能开发票](invoice.md)
 
 今天 GPT 中转最低价（每百万 token）：GPT-6.2 Sol 输入 ¥0.033 / 输出 ¥0.164（SixthSense LLM），GPT-6.2 Astra 输入 ¥0.076 / 输出 ¥0.38（A6API）。
 
