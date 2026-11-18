@@ -1,6 +1,21 @@
+<!-- relay:start（scripts/ghrelay/gen.py 生成，别手改） -->
+**[API 中转站价格](relay/README.md)** ｜ **[AI 会员代充价格](#ai-会员代充价格每日更新)**
+
+| API 中转站 | 站数 | 今日最低（¥/百万 token，输入 / 输出）· 2026-11-18 |
+|---|---|---|
+| [GPT / OpenAI](relay/gpt.md) | 280+ 家 | GPT-6.2 Sol ¥0.033 / ¥0.164 |
+| [GLM / 智谱](relay/glm.md) | 120+ 家 | GLM-5.3 ¥0.065 / ¥0.205 |
+| [Kimi](relay/kimi.md) | 110+ 家 | Kimi K3 ¥0.024 / ¥0.122 |
+| [支付宝能充](relay/alipay.md) | 70+ 家 | GPT-6.2 Sol ¥0.08 / ¥0.4 |
+| [能开发票](relay/invoice.md) | 40+ 家 | GPT-6.2 Sol ¥0.08 / ¥0.4 |
+| [全部中转站](relay/README.md) | 360+ 家 | GPT、Claude、Gemini、Grok、DeepSeek、Kimi、GLM 分厂商列全 |
+
+---
+<!-- relay:end -->
+
 # AI 会员代充价格（每日更新）
 
-> 数据时间：2026-11-17 22:27（北京时间）· 8 个商品 · 69 家店 · 222 条报价
+> 数据时间：2026-11-18 10:05（北京时间）· 8 个商品 · 68 家店 · 212 条报价
 
 ChatGPT、Claude 这些会员，国内没海外卡基本只能代充或买卡密。这个仓库每天把各店在售的报价按商品列一遍，同一档位放在一起比价，并标出交付方式和质保。价格是店铺报价，不是官方定价。
 
@@ -8,9 +23,9 @@ ChatGPT、Claude 这些会员，国内没海外卡基本只能代充或买卡密
 
 | 商品 | 在售店铺 | 代充到自己号最低 | 卡密兑换码最低 |
 |---|---|---|---|
-| [ChatGPT Plus 代充](chatgpt-plus-recharge.md) | 41 | ¥59.62 | ¥110.1 |
-| [ChatGPT Pro 5x 代充](chatgpt-pro-5x.md) | 36 | ¥611.65 | ¥647.64 |
-| [ChatGPT Pro 20x 代充](chatgpt-pro-20x.md) | 51 | ¥994.05 | ¥997.16 |
+| [ChatGPT Plus 代充](chatgpt-plus-recharge.md) | 39 | ¥59.62 | ¥110.1 |
+| [ChatGPT Pro 5x 代充](chatgpt-pro-5x.md) | 33 | ¥611.65 | ¥647.64 |
+| [ChatGPT Pro 20x 代充](chatgpt-pro-20x.md) | 48 | ¥1005.38 | ¥997.16 |
 | [Claude Pro 代充](claude-pro.md) | 今天不到 20 家 | — | — |
 | [ChatGPT Go 代充](chatgpt-go.md) | 34 | ¥28.64 | ¥28.64 |
 
@@ -18,9 +33,9 @@ ChatGPT、Claude 这些会员，国内没海外卡基本只能代充或买卡密
 
 | 页面 | 在售店铺 | 报价条数 | 含哪些档 |
 |---|---|---|---|
-| [ChatGPT 各档会员](chatgpt-platform.md) | 69 | 178 | ChatGPT Go、ChatGPT Team / 商业版、ChatGPT Plus 代充、ChatGPT Pro 5x、ChatGPT Pro 20x |
+| [ChatGPT 各档会员](chatgpt-platform.md) | 67 | 171 | ChatGPT Go、ChatGPT Team / 商业版、ChatGPT Plus 代充、ChatGPT Pro 5x、ChatGPT Pro 20x |
 | [Claude 各档会员](claude-platform.md) | 今天不到 20 家 | — | — |
-| [Gemini 会员](gemini-platform.md) | 31 | 44 | Gemini Pro 代充、Gemini Pro 年付、Google AI Ultra |
+| [Gemini 会员](gemini-platform.md) | 31 | 41 | Gemini Pro 代充、Gemini Pro 年付、Google AI Ultra |
 | [拼车 / 共享席位](shared-seats.md) | 30 | 41 | Gemini Pro 年付、ChatGPT Team / 商业版、Google AI Ultra、ChatGPT Pro 20x |
 
 ## 表里的卖法
@@ -38,4 +53,4 @@ ChatGPT、Claude 这些会员，国内没海外卡基本只能代充或买卡密
 - 价格是各店自己挂的，会随时变；下单前以店铺当前标价为准。
 - 只公开报价，不放出站链接、不放店铺联系方式。
 
-<sub>数据由甄选 API（findbestapi.com）采集整理 · 更新于 2026-11-17 22:27（北京时间）</sub>
+<sub>数据由甄选 API（findbestapi.com）采集整理 · 更新于 2026-11-18 10:05（北京时间）</sub>

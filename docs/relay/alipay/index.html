@@ -1,0 +1,186 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>支付宝能充的API中转站 2026：70+ 家起充金额对比 - 甄选 API</title>
+<meta name="description" content="支付宝能充的API中转站：70+ 家起充金额与 GPT、Claude 每百万 token 价格对比，起充从低到高排，每日更新。">
+<link rel="canonical" href="https://findbestapi.github.io/ai-member-prices/relay/alipay/">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"哪些 API 中转站能用支付宝充值？","acceptedAnswer":{"@type":"Answer","text":"下表就是今天支持支付宝的 70+ 家，按起充金额从低到高排，起充一样的再按 GPT 价格排。"}},{"@type":"Question","name":"支付宝最低充多少？","acceptedAnswer":{"@type":"Answer","text":"每家不同，今天表里起充最低 ¥1。没写起充的，到站内充值页看实际金额。"}},{"@type":"Question","name":"充进去的钱能退吗？","acceptedAnswer":{"@type":"Answer","text":"退款规则各站不同，很多站余额不退。充值前先看清楚，先按起充金额小额试用。"}}]}</script>
+<style>
+  :root { color-scheme: light dark; --line:#d8d8d8; --mute:#666; --card:#f6f7f9; --acc:#0b62d6; }
+  body { margin:0 auto; max-width:68rem; padding:1.6rem 1.1rem 3rem;
+         font:16px/1.7 -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans SC",sans-serif; }
+  nav.crumb { font-size:.85rem; color:var(--mute); margin:0 0 .8rem; }
+  nav.crumb a { color:inherit; }
+  nav.pages { display:flex; flex-wrap:wrap; gap:.4rem; margin:0 0 1.4rem; }
+  nav.pages a, nav.pages span { font-size:.85rem; padding:.2rem .7rem; border:1px solid var(--line);
+         border-radius:999px; text-decoration:none; color:inherit; white-space:nowrap; }
+  nav.pages span { background:var(--acc); border-color:var(--acc); color:#fff; }
+  h1 { font-size:1.55rem; line-height:1.4; margin:0 0 .6rem; }
+  .lead { font-size:1.05rem; font-weight:600; margin:0 0 .4rem; }
+  .intro { color:var(--mute); margin:0 0 1.4rem; }
+  h2 { font-size:1.15rem; margin:2.2rem 0 .7rem; }
+  h3 { font-size:1rem; margin:1.8rem 0 .5rem; }
+  .recs { display:grid; grid-template-columns:repeat(auto-fill,minmax(19rem,1fr)); gap:.8rem; }
+  .rec { background:var(--card); border-radius:10px; padding:.85rem 1rem; display:flex;
+         flex-direction:column; gap:.3rem; }
+  .rec .nm { font-weight:700; font-size:1.02rem; }
+  .rec .nm a { color:inherit; text-underline-offset:.2em; }
+  .rec .dm { color:var(--mute); font-size:.82rem; font-weight:400; margin-left:.35rem; }
+  .rec ul { list-style:none; padding:0; margin:0; font-size:.9rem; }
+  .rec li { display:flex; justify-content:space-between; gap:.8rem; }
+  .rec li b { font-weight:400; color:var(--mute); }
+  .rec .num { font-variant-numeric:tabular-nums; white-space:nowrap; }
+  .rec .facts { font-size:.82rem; color:var(--mute); }
+  .rec .go { align-self:flex-start; margin-top:.3rem; font-size:.88rem; padding:.25rem .9rem;
+             border-radius:6px; background:var(--acc); color:#fff; text-decoration:none; }
+  .jump { font-size:.9rem; }
+  .jump a { margin-right:.8rem; }
+  .scroll { overflow-x:auto; -webkit-overflow-scrolling:touch; }
+  table { border-collapse:collapse; width:100%; font-size:.9rem; }
+  caption { text-align:left; font-size:.82rem; color:var(--mute); padding:0 0 .4rem; }
+  th,td { border-bottom:1px solid var(--line); padding:.45rem .5rem; text-align:left; vertical-align:top; }
+  thead th { font-size:.8rem; font-weight:600; color:#555; white-space:nowrap; }
+  tbody th { font-weight:600; white-space:nowrap; }
+  tbody th a { color:inherit; text-underline-offset:.2em; }
+  td.num { white-space:nowrap; font-variant-numeric:tabular-nums; }
+  td.dm { color:var(--mute); font-size:.82rem; }
+  dl.faq dt { font-weight:600; margin-top:1rem; }
+  dl.faq dd { margin:.2rem 0 0; }
+  footer { color:var(--mute); font-size:.84rem; margin-top:2.6rem; border-top:1px solid var(--line);
+           padding-top:1rem; }
+  footer a { color:inherit; }
+  @media (max-width:640px) {
+    body { padding:1.1rem .85rem 2.4rem; }
+    h1 { font-size:1.3rem; }
+    .recs { grid-template-columns:1fr; }
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --line:#333; --mute:#9a9a9a; --card:#1b1d21; --acc:#3b82f6; }
+    body { background:#111; color:#e6e6e6; }
+    thead th { color:#9a9a9a; }
+    a { color:#7ab7ff; }
+  }
+</style>
+</head>
+<body>
+<nav class="crumb"><a href="https://findbestapi.github.io/ai-member-prices/">AI 会员代充价格</a> › <a href="https://findbestapi.github.io/ai-member-prices/relay/">API 中转站价格</a></nav>
+<h1>支付宝能充的API中转站 2026：70+ 家起充金额对比</h1>
+<nav class="pages"><a href="https://findbestapi.github.io/ai-member-prices/relay/">全部中转站</a><a href="https://findbestapi.github.io/ai-member-prices/relay/gpt/">GPT / OpenAI</a><a href="https://findbestapi.github.io/ai-member-prices/relay/glm/">GLM / 智谱</a><a href="https://findbestapi.github.io/ai-member-prices/relay/kimi/">Kimi</a><span>支付宝能充</span><a href="https://findbestapi.github.io/ai-member-prices/relay/invoice/">能开发票</a></nav>
+<p class="lead">今天能用支付宝充值的 API 中转站有 70+ 家，起充最低 ¥1。最低价（每百万 token）：GPT-6.2 Sol 输入 ¥0.08 / 输出 ¥0.4（合聚API）。</p>
+<p class="intro">今天能用支付宝充值的 API 中转站，按起充金额从低到高排，同时列出主流模型的报价。</p>
+<h2>甄选推荐</h2>
+<p class="intro">¥/百万 token，输入 / 输出 · 2026-11-18 更新</p>
+<div class="recs">
+<div class="rec"><div class="nm"><a href="https://www.findbestapi.com/site/h-api/">H API</a><span class="dm">hapiopen.cc</span></div><ul><li><b>GPT-6.2 Sol</b><span class="num">¥0.36 / ¥1.8</span></li><li><b>Claude Opus 5.5</b><span class="num">¥1.2 / ¥6</span></li><li><b>Gemini 4 Argon</b><span class="num">¥0.9 / ¥4.5</span></li></ul><div class="facts">支付宝 · 起充 ¥1 · 可开票</div><a class="go" href="https://www.findbestapi.com/go/h-api/" rel="nofollow sponsored noopener" target="_blank">去官网</a></div>
+<div class="rec"><div class="nm"><a href="https://www.findbestapi.com/site/openox/">OpenOx</a><span class="dm">openox.tech</span></div><ul><li><b>GPT-6.2 Sol</b><span class="num">¥0.24 / ¥1.2</span></li><li><b>Claude Opus 5.5</b><span class="num">¥3.2 / ¥16</span></li><li><b>Gemini 4 Argon</b><span class="num">¥2 / ¥10</span></li></ul><div class="facts">支付宝 · 起充 ¥1 · 可开票</div><a class="go" href="https://www.findbestapi.com/go/openox/" rel="nofollow sponsored noopener" target="_blank">去官网</a></div>
+<div class="rec"><div class="nm"><a href="https://www.findbestapi.com/site/uuapi-net/">UU API</a><span class="dm">uuapi.io</span></div><ul><li><b>GPT-6.2 Sol</b><span class="num">¥0.4 / ¥2</span></li><li><b>Claude Opus 5.5</b><span class="num">¥1.6 / ¥8</span></li><li><b>Gemini 4 Argon</b><span class="num">¥1 / ¥5</span></li></ul><div class="facts">支付宝 / 微信 · 起充 ¥1 · 可开票</div><a class="go" href="https://www.findbestapi.com/go/uuapi-net/" rel="nofollow sponsored noopener" target="_blank">去官网</a></div>
+<div class="rec"><div class="nm"><a href="https://www.findbestapi.com/site/apinebula-com/">APINebula</a><span class="dm">apinebula.ai</span></div><ul><li><b>GPT-6.2 Sol</b><span class="num">¥0.78 / ¥3.9</span></li><li><b>Claude Opus 5.5</b><span class="num">¥2 / ¥10</span></li><li><b>Gemini 4 Argon</b><span class="num">¥1.6 / ¥8</span></li></ul><div class="facts">支付宝 · 起充 ¥20 · 可开票</div><a class="go" href="https://www.findbestapi.com/go/apinebula-com/" rel="nofollow sponsored noopener" target="_blank">去官网</a></div>
+<div class="rec"><div class="nm"><a href="https://www.findbestapi.com/site/linkai/">LinkAI</a><span class="dm">linkai.pics</span></div><ul><li><b>GPT-6.2 Sol</b><span class="num">¥0.4 / ¥2</span></li><li><b>Claude Opus 5.5</b><span class="num">¥1.2 / ¥6</span></li><li><b>Gemini 4 Argon</b><span class="num">¥1.2 / ¥6</span></li></ul><div class="facts">支付宝 · 起充 ¥5 · 可开票</div><a class="go" href="https://www.findbestapi.com/go/linkai/" rel="nofollow sponsored noopener" target="_blank">去官网</a></div>
+<div class="rec"><div class="nm"><a href="https://www.findbestapi.com/site/linksapi/">LinksAPI</a><span class="dm">linksapi.cn</span></div><ul><li><b>GPT-6.2 Sol</b><span class="num">¥1.4 / ¥7</span></li><li><b>Claude Opus 5.5</b><span class="num">¥0.95 / ¥4.75</span></li><li><b>Gemini 4 Argon</b><span class="num">¥1.3 / ¥6.5</span></li></ul><div class="facts">支付宝 / 微信 / Stripe · 起充 ¥1</div><a class="go" href="https://www.findbestapi.com/go/linksapi/" rel="nofollow sponsored noopener" target="_blank">去官网</a></div>
+<div class="rec"><div class="nm"><a href="https://www.findbestapi.com/site/boxying/">boxying</a><span class="dm">boxying.com</span></div><ul><li><b>GPT-6.2 Sol</b><span class="num">¥0.6 / ¥3</span></li><li><b>Claude Opus 5.5</b><span class="num">¥1.2 / ¥6</span></li><li><b>Gemini 4 Argon</b><span class="num">—</span></li></ul><div class="facts">支付宝 / 微信 · 起充 ¥1 · 可开票</div><a class="go" href="https://www.findbestapi.com/go/boxying/" rel="nofollow sponsored noopener" target="_blank">去官网</a></div>
+<div class="rec"><div class="nm"><a href="https://www.findbestapi.com/site/sssaicode-com/">SSSAICode</a><span class="dm">sssaiapi.com</span></div><ul><li><b>GPT-6.2 Sol</b><span class="num">¥0.8 / ¥4</span></li><li><b>Claude Opus 5.5</b><span class="num">¥2.8 / ¥14</span></li><li><b>Gemini 4 Argon</b><span class="num">—</span></li></ul><div class="facts">支付宝 / USDT · 起充 ¥10 · 可开票</div><a class="go" href="https://www.findbestapi.com/go/sssaicode-com/" rel="nofollow sponsored noopener" target="_blank">去官网</a></div>
+<div class="rec"><div class="nm"><a href="https://www.findbestapi.com/site/runapi-co/">RunAPI</a><span class="dm">runapi.host</span></div><ul><li><b>GPT-6.2 Sol</b><span class="num">¥1 / ¥5</span></li><li><b>Claude Opus 5.5</b><span class="num">¥3.17 / ¥15.83</span></li><li><b>Gemini 4 Argon</b><span class="num">¥2.85 / ¥14.25</span></li></ul><div class="facts">支付宝 / 信用卡 · 起充 ¥7 · 可开票</div><a class="go" href="https://www.findbestapi.com/go/runapi-co/" rel="nofollow sponsored noopener" target="_blank">去官网</a></div>
+<div class="rec"><div class="nm"><a href="https://www.findbestapi.com/site/micuapi-ai/">Micu</a><span class="dm">micuapi.ai</span></div><ul><li><b>GPT-6.2 Sol</b><span class="num">—</span></li><li><b>Claude Opus 5.5</b><span class="num">¥1.8 / ¥9</span></li><li><b>Gemini 4 Argon</b><span class="num">¥4.4 / ¥22</span></li></ul><div class="facts">支付宝 / 微信 · 起充 ¥50 · 可开票</div><a class="go" href="https://www.findbestapi.com/go/micuapi-ai/" rel="nofollow sponsored noopener" target="_blank">去官网</a></div>
+</div>
+<h2>全部中转站报价</h2>
+<div class="scroll"><table>
+<caption>¥/百万 token，输入 / 输出 · 2026-11-18 更新</caption>
+<thead><tr><th>站名</th><th>域名</th><th>GPT-6.2 Sol</th><th>Claude Opus 5.5</th><th>Gemini 4 Argon</th><th>起充</th><th>开票</th></tr></thead>
+<tbody>
+<tr><th scope="row">柏API</th><td class="dm">byeapi.top</td><td class="num">¥0.08 / ¥0.4</td><td class="num">¥1 / ¥5</td><td class="num">—</td><td>¥1</td><td>—</td></tr>
+<tr><th scope="row">Codex2API</th><td class="dm">codex2api.com</td><td class="num">¥0.13 / ¥0.65</td><td class="num">¥0.8 / ¥4</td><td class="num">—</td><td>¥1</td><td>—</td></tr>
+<tr><th scope="row"><a href="https://www.findbestapi.com/site/yyapi-cloud/">云影 API</a></th><td class="dm">yyapi.cloud</td><td class="num">¥0.16 / ¥0.8</td><td class="num">¥0.6 / ¥3</td><td class="num">¥1.4 / ¥7</td><td>¥1</td><td>—</td></tr>
+<tr><th scope="row">AI 搬运工</th><td class="dm">aimover.cc</td><td class="num">¥0.17 / ¥0.85</td><td class="num">¥0.32 / ¥1.6</td><td class="num">—</td><td>¥1</td><td>可开</td></tr>
+<tr><th scope="row">MorphAPI</th><td class="dm">aidjapi.top</td><td class="num">¥0.18 / ¥0.9</td><td class="num">¥0.48 / ¥2.4</td><td class="num">—</td><td>¥1</td><td>—</td></tr>
+<tr><th scope="row">Kun-Api</th><td class="dm">kunkun666.com</td><td class="num">¥0.2 / ¥1</td><td class="num">¥0.12 / ¥0.6</td><td class="num">—</td><td>¥1</td><td>—</td></tr>
+<tr><th scope="row">小丁AI</th><td class="dm">xdcn.top</td><td class="num">¥0.2 / ¥1</td><td class="num">¥0.6 / ¥3</td><td class="num">¥1 / ¥5</td><td>¥1</td><td>—</td></tr>
+<tr><th scope="row">高效中转站</th><td class="dm">sub2.de5.net</td><td class="num">¥0.2 / ¥1</td><td class="num">¥0.8 / ¥4</td><td class="num">—</td><td>¥1</td><td>—</td></tr>
+<tr><th scope="row"><a href="https://www.findbestapi.com/site/openox/">OpenOx</a></th><td class="dm">openox.tech</td><td class="num">¥0.24 / ¥1.2</td><td class="num">¥3.2 / ¥16</td><td class="num">¥2 / ¥10</td><td>¥1</td><td>可开</td></tr>
+<tr><th scope="row">Drag API</th><td class="dm">dragtokens.com</td><td class="num">¥0.3 / ¥1.5</td><td class="num">¥4.6 / ¥23</td><td class="num">—</td><td>¥1</td><td>—</td></tr>
+<tr><th scope="row"><a href="https://www.findbestapi.com/site/h-api/">H API</a></th><td class="dm">hapiopen.cc</td><td class="num">¥0.36 / ¥1.8</td><td class="num">¥1.2 / ¥6</td><td class="num">¥0.9 / ¥4.5</td><td>¥1</td><td>可开</td></tr>
+<tr><th scope="row">OneChats</th><td class="dm">chatapi.onechats.top</td><td class="num">¥0.4 / ¥2</td><td class="num">¥0.8 / ¥4</td><td class="num">¥0.4 / ¥2</td><td>¥1</td><td>—</td></tr>
+<tr><th scope="row"><a href="https://www.findbestapi.com/site/uuapi-net/">UU API</a></th><td class="dm">uuapi.io</td><td class="num">¥0.4 / ¥2</td><td class="num">¥1.6 / ¥8</td><td class="num">¥1 / ¥5</td><td>¥1</td><td>可开</td></tr>
+<tr><th scope="row"><a href="https://www.findbestapi.com/site/linkapi-ai/">LinkAPI</a></th><td class="dm">linkapi.ai</td><td class="num">¥0.4 / ¥2</td><td class="num">¥2 / ¥10</td><td class="num">¥0.63 / ¥3.15</td><td>¥1</td><td>—</td></tr>
+<tr><th scope="row"><a href="https://www.findbestapi.com/site/cctq/">CCTQ</a></th><td class="dm">cctq.ai</td><td class="num">¥0.4 / ¥2</td><td class="num">¥6 / ¥30</td><td class="num">—</td><td>¥1</td><td>—</td></tr>
+<tr><th scope="row">xiaojing</th><td class="dm">open.xiaojingai.com</td><td class="num">¥0.5 / ¥2.5</td><td class="num">¥1 / ¥5</td><td class="num">¥1 / ¥5</td><td>¥1</td><td>可开</td></tr>
+<tr><th scope="row">Global AI</th><td class="dm">globalai.vip</td><td class="num">¥0.5 / ¥2.5</td><td class="num">¥2.2 / ¥11</td><td class="num">¥1.6 / ¥8</td><td>¥1</td><td>—</td></tr>
+<tr><th scope="row"><a href="https://www.findbestapi.com/site/boxying/">boxying</a></th><td class="dm">boxying.com</td><td class="num">¥0.6 / ¥3</td><td class="num">¥1.2 / ¥6</td><td class="num">—</td><td>¥1</td><td>可开</td></tr>
+<tr><th scope="row">Xcode</th><td class="dm">xcode.best</td><td class="num">¥0.6 / ¥3</td><td class="num">¥6.8 / ¥34</td><td class="num">¥2 / ¥10</td><td>¥1</td><td>可开</td></tr>
+<tr><th scope="row">土豆</th><td class="dm">2dou.net</td><td class="num">¥0.8 / ¥4</td><td class="num">¥0.2 / ¥1</td><td class="num">—</td><td>¥1</td><td>—</td></tr>
+<tr><th scope="row">球球Token</th><td class="dm">qiuqiutoken.net</td><td class="num">¥0.8 / ¥4</td><td class="num">¥2.8 / ¥14</td><td class="num">¥4 / ¥20</td><td>¥1</td><td>可开</td></tr>
+<tr><th scope="row">夯炸了</th><td class="dm">hangzhale.com</td><td class="num">¥0.95 / ¥4.75</td><td class="num">¥0.72 / ¥3.6</td><td class="num">—</td><td>¥1</td><td>—</td></tr>
+<tr><th scope="row">Ofapp API</th><td class="dm">api.ofapp.cn</td><td class="num">¥1 / ¥5</td><td class="num">—</td><td class="num">—</td><td>¥1</td><td>—</td></tr>
+<tr><th scope="row">Taomu</th><td class="dm">taomu.xyz</td><td class="num">¥1.1 / ¥5.5</td><td class="num">¥0.48 / ¥2.4</td><td class="num">—</td><td>¥1</td><td>—</td></tr>
+<tr><th scope="row">智元API</th><td class="dm">chaozhiyuanai.com</td><td class="num">¥1.2 / ¥6</td><td class="num">¥3.2 / ¥16</td><td class="num">—</td><td>¥1</td><td>—</td></tr>
+<tr><th scope="row"><a href="https://www.findbestapi.com/site/linksapi/">LinksAPI</a></th><td class="dm">linksapi.cn</td><td class="num">¥1.4 / ¥7</td><td class="num">¥0.95 / ¥4.75</td><td class="num">¥1.3 / ¥6.5</td><td>¥1</td><td>—</td></tr>
+<tr><th scope="row">Code0.ai</th><td class="dm">code0.ai</td><td class="num">¥2 / ¥10</td><td class="num">¥6 / ¥30</td><td class="num">¥3 / ¥15</td><td>¥1</td><td>可开</td></tr>
+<tr><th scope="row">ccgo</th><td class="dm">ccgoai.club</td><td class="num">¥3.5 / ¥17.5</td><td class="num">¥6.6 / ¥33</td><td class="num">—</td><td>¥1</td><td>—</td></tr>
+<tr><th scope="row">Grox</th><td class="dm">mcgrox.top</td><td class="num">¥10 / ¥50</td><td class="num">¥4 / ¥20</td><td class="num">—</td><td>¥1</td><td>—</td></tr>
+<tr><th scope="row">AI派</th><td class="dm">api.aipaibox.com</td><td class="num">—</td><td class="num">¥1 / ¥5</td><td class="num">—</td><td>¥1</td><td>—</td></tr>
+<tr><th scope="row">Square API</th><td class="dm">api.squarefaceicon.org</td><td class="num">—</td><td class="num">¥1 / ¥5</td><td class="num">—</td><td>¥1</td><td>—</td></tr>
+<tr><th scope="row"><a href="https://www.findbestapi.com/site/api-ikuncode-cc/">IKunCode</a></th><td class="dm">api.ikuncode.cc</td><td class="num">—</td><td class="num">¥1.6 / ¥8</td><td class="num">¥1.4 / ¥7</td><td>¥1</td><td>可开</td></tr>
+<tr><th scope="row">AI Gateway</th><td class="dm">gateai.cc</td><td class="num">—</td><td class="num">¥2.4 / ¥12</td><td class="num">—</td><td>¥1</td><td>—</td></tr>
+<tr><th scope="row"><a href="https://www.findbestapi.com/site/aixor-org/">AiXor</a></th><td class="dm">aixor.dev</td><td class="num">—</td><td class="num">¥7.2 / ¥36</td><td class="num">¥4 / ¥20</td><td>¥1</td><td>—</td></tr>
+<tr><th scope="row">卡皮巴拉API</th><td class="dm">kapibala.asia</td><td class="num">¥2 / ¥10</td><td class="num">¥2.4 / ¥12</td><td class="num">—</td><td>¥3</td><td>可开</td></tr>
+<tr><th scope="row">合聚API</th><td class="dm">hejuapi.com</td><td class="num">¥0.08 / ¥0.4</td><td class="num">¥0.6 / ¥3</td><td class="num">¥0.5 / ¥2.5</td><td>¥5</td><td>可开</td></tr>
+<tr><th scope="row"><a href="https://www.findbestapi.com/site/deepkey-top/">deepkey</a></th><td class="dm">deepkey.top</td><td class="num">¥0.24 / ¥1.2</td><td class="num">¥1.6 / ¥8</td><td class="num">¥0.6 / ¥3</td><td>¥5</td><td>可开</td></tr>
+<tr><th scope="row"><a href="https://www.findbestapi.com/site/linkai/">LinkAI</a></th><td class="dm">linkai.pics</td><td class="num">¥0.4 / ¥2</td><td class="num">¥1.2 / ¥6</td><td class="num">¥1.2 / ¥6</td><td>¥5</td><td>可开</td></tr>
+<tr><th scope="row">ZIVV</th><td class="dm">zivv.pro</td><td class="num">¥1 / ¥5</td><td class="num">¥5.2 / ¥26</td><td class="num">—</td><td>¥5</td><td>可开</td></tr>
+<tr><th scope="row">OmniaKey</th><td class="dm">omniakey.com</td><td class="num">¥1.53 / ¥7.63</td><td class="num">¥7.6 / ¥38</td><td class="num">¥5.43 / ¥27.14</td><td>¥5</td><td>可开</td></tr>
+<tr><th scope="row">Poixe AI</th><td class="dm">poixe.com</td><td class="num">—</td><td class="num">¥13.57 / ¥67.85</td><td class="num">¥4.23 / ¥21.17</td><td>¥5</td><td>可开</td></tr>
+<tr><th scope="row">MoleAPI</th><td class="dm">home.moleapi.com</td><td class="num">¥1.36 / ¥6.79</td><td class="num">¥8.14 / ¥40.71</td><td class="num">¥10.86 / ¥54.28</td><td>$1（实付¥6.8）</td><td>可开</td></tr>
+<tr><th scope="row">Top-API</th><td class="dm">api-top.com</td><td class="num">¥0.271 / ¥1.36</td><td class="num">—</td><td class="num">¥1.36 / ¥6.79</td><td>¥7</td><td>—</td></tr>
+<tr><th scope="row">GPTeam</th><td class="dm">portal.gpteamservices.com</td><td class="num">¥0.814 / ¥4.07</td><td class="num">¥2.71 / ¥13.57</td><td class="num">¥2.71 / ¥13.57</td><td>¥7</td><td>—</td></tr>
+<tr><th scope="row"><a href="https://www.findbestapi.com/site/runapi-co/">RunAPI</a></th><td class="dm">runapi.host</td><td class="num">¥1 / ¥5</td><td class="num">¥3.17 / ¥15.83</td><td class="num">¥2.85 / ¥14.25</td><td>¥7</td><td>可开</td></tr>
+<tr><th scope="row">PingCode</th><td class="dm">pingcode.ai</td><td class="num">¥1.4 / ¥7</td><td class="num">¥4.2 / ¥21</td><td class="num">—</td><td>¥9.9</td><td>可开</td></tr>
+<tr><th scope="row">PRY API</th><td class="dm">bearlab.ai</td><td class="num">¥0.14 / ¥0.7</td><td class="num">¥1.6 / ¥8</td><td class="num">¥0.4 / ¥2</td><td>¥10</td><td>—</td></tr>
+<tr><th scope="row">LMU AI · 灵眸</th><td class="dm">api.lmuai.ai</td><td class="num">¥0.151 / ¥0.753</td><td class="num">¥0.384 / ¥1.92</td><td class="num">¥0.505 / ¥2.52</td><td>¥10</td><td>可开</td></tr>
+<tr><th scope="row">TK API</th><td class="dm">tkapi.cc.cd</td><td class="num">¥0.39 / ¥1.95</td><td class="num">¥0.2 / ¥1</td><td class="num">—</td><td>¥10</td><td>—</td></tr>
+<tr><th scope="row"><a href="https://www.findbestapi.com/site/bytecatcode-org/">ByteCat</a></th><td class="dm">bytecatcode.org</td><td class="num">¥0.4 / ¥2</td><td class="num">¥0.4 / ¥2</td><td class="num">¥1.6 / ¥8</td><td>¥10</td><td>可开</td></tr>
+<tr><th scope="row">星链 AI</th><td class="dm">aixlau.me</td><td class="num">¥0.72 / ¥3.6</td><td class="num">¥1.68 / ¥8.4</td><td class="num">—</td><td>¥10</td><td>—</td></tr>
+<tr><th scope="row">island AI Coding</th><td class="dm">codex789.com</td><td class="num">¥0.8 / ¥4</td><td class="num">¥0.6 / ¥3</td><td class="num">—</td><td>¥10</td><td>—</td></tr>
+<tr><th scope="row"><a href="https://www.findbestapi.com/site/sssaicode-com/">SSSAICode</a></th><td class="dm">sssaiapi.com</td><td class="num">¥0.8 / ¥4</td><td class="num">¥2.8 / ¥14</td><td class="num">—</td><td>¥10</td><td>可开</td></tr>
+<tr><th scope="row">RayinAPI</th><td class="dm">rayinai.com</td><td class="num">¥1.9 / ¥9.5</td><td class="num">¥1.2 / ¥6</td><td class="num">—</td><td>¥10</td><td>—</td></tr>
+<tr><th scope="row">维塔斯 AI</th><td class="dm">aiwts.com</td><td class="num">¥2 / ¥10</td><td class="num">¥4 / ¥20</td><td class="num">¥5.25 / ¥26.25</td><td>¥10</td><td>可开</td></tr>
+<tr><th scope="row">云渡</th><td class="dm">yundu.lol</td><td class="num">—</td><td class="num">¥2 / ¥10</td><td class="num">—</td><td>¥10</td><td>—</td></tr>
+<tr><th scope="row">BootToken</th><td class="dm">boottoken.com</td><td class="num">—</td><td class="num">¥2.4 / ¥12</td><td class="num">¥16.5 / ¥82.5</td><td>¥10</td><td>可开</td></tr>
+<tr><th scope="row">菜菜中转站</th><td class="dm">rapi.asia</td><td class="num">—</td><td class="num">¥2.4 / ¥12</td><td class="num">—</td><td>¥10</td><td>—</td></tr>
+<tr><th scope="row">ToCodex</th><td class="dm">user.tocodex.com</td><td class="num">—</td><td class="num">¥4 / ¥20</td><td class="num">¥2 / ¥10</td><td>¥10</td><td>—</td></tr>
+<tr><th scope="row">WorldBase.ai</th><td class="dm">worldbase.ai</td><td class="num">—</td><td class="num">¥4.07 / ¥20.36</td><td class="num">—</td><td>¥10</td><td>—</td></tr>
+<tr><th scope="row">LingxiCode</th><td class="dm">new.050602.xyz</td><td class="num">—</td><td class="num">¥7.2 / ¥36</td><td class="num">—</td><td>¥10</td><td>—</td></tr>
+<tr><th scope="row">聚星AI</th><td class="dm">juxingai.xyz</td><td class="num">—</td><td class="num">—</td><td class="num">¥2.2 / ¥11</td><td>¥10</td><td>可开</td></tr>
+<tr><th scope="row"><a href="https://www.findbestapi.com/site/apinebula-com/">APINebula</a></th><td class="dm">apinebula.ai</td><td class="num">¥0.78 / ¥3.9</td><td class="num">¥2 / ¥10</td><td class="num">¥1.6 / ¥8</td><td>¥20</td><td>可开</td></tr>
+<tr><th scope="row">synterolink</th><td class="dm">synterolink.com</td><td class="num">¥2 / ¥10</td><td class="num">¥2 / ¥10</td><td class="num">—</td><td>¥20</td><td>—</td></tr>
+<tr><th scope="row"><a href="https://www.findbestapi.com/site/micuapi-ai/">Micu</a></th><td class="dm">micuapi.ai</td><td class="num">—</td><td class="num">¥1.8 / ¥9</td><td class="num">¥4.4 / ¥22</td><td>¥50</td><td>可开</td></tr>
+<tr><th scope="row">聪明AI</th><td class="dm">congmingai.com</td><td class="num">¥0.2 / ¥1</td><td class="num">¥4 / ¥20</td><td class="num">—</td><td>¥100</td><td>—</td></tr>
+<tr><th scope="row">Token云桥</th><td class="dm">api.quya.org</td><td class="num">—</td><td class="num">¥1.2 / ¥6</td><td class="num">¥4.4 / ¥22</td><td>¥100</td><td>—</td></tr>
+<tr><th scope="row">x-llm</th><td class="dm">x-llm.net</td><td class="num">¥0.16 / ¥0.8</td><td class="num">¥0.8 / ¥4</td><td class="num">¥2 / ¥10</td><td>—</td><td>—</td></tr>
+<tr><th scope="row">Z-API</th><td class="dm">api.zicc.cc</td><td class="num">¥0.2 / ¥1</td><td class="num">¥0.48 / ¥2.4</td><td class="num">¥0.2 / ¥1</td><td>—</td><td>—</td></tr>
+<tr><th scope="row">Luxery API</th><td class="dm">luxerycaseglobal.com</td><td class="num">¥0.6 / ¥3</td><td class="num">¥7.2 / ¥36</td><td class="num">—</td><td>—</td><td>可开</td></tr>
+<tr><th scope="row">For API</th><td class="dm">foropencode.com</td><td class="num">¥0.882 / ¥4.41</td><td class="num">¥25.78 / ¥128.92</td><td class="num">—</td><td>—</td><td>—</td></tr>
+<tr><th scope="row">Bailili API</th><td class="dm">api.bailili.top</td><td class="num">¥1 / ¥5</td><td class="num">¥2.4 / ¥12</td><td class="num">¥3 / ¥15</td><td>—</td><td>—</td></tr>
+<tr><th scope="row">nekoapi</th><td class="dm">api.nekoapi.com</td><td class="num">¥1 / ¥5</td><td class="num">¥3.2 / ¥16</td><td class="num">¥5 / ¥25</td><td>—</td><td>—</td></tr>
+<tr><th scope="row">UnoRouter</th><td class="dm">unorouter.com</td><td class="num">¥2.04 / ¥10.18</td><td class="num">¥6.07 / ¥30.33</td><td class="num">¥3.66 / ¥18.32</td><td>$1</td><td>—</td></tr>
+<tr><th scope="row">乾行AI</th><td class="dm">qianxing.pro</td><td class="num">¥3.39 / ¥16.96</td><td class="num">¥10.86 / ¥54.28</td><td class="num">¥4.07 / ¥20.36</td><td>—</td><td>—</td></tr>
+<tr><th scope="row">DMXAPI Global</th><td class="dm">dmxapi.com</td><td class="num">¥13.57 / ¥67.85</td><td class="num">¥27.14 / ¥135.71</td><td class="num">¥13.57 / ¥67.85</td><td>—</td><td>—</td></tr>
+<tr><th scope="row">Rainbow Gate AI</th><td class="dm">rainbowgate.top</td><td class="num">¥81.43 / ¥407.13</td><td class="num">¥203.56 / ¥203.56</td><td class="num">—</td><td>—</td><td>—</td></tr>
+<tr><th scope="row">DeRouter</th><td class="dm">derouter.ai</td><td class="num">—</td><td class="num">¥7.38 / ¥36.91</td><td class="num">—</td><td>—</td><td>—</td></tr>
+<tr><th scope="row">无限API</th><td class="dm">infai.cc</td><td class="num">—</td><td class="num">¥16 / ¥80</td><td class="num">¥3 / ¥15</td><td>—</td><td>可开</td></tr>
+</tbody>
+</table></div>
+
+<h2>常见问题</h2>
+<dl class="faq">
+<dt>哪些 API 中转站能用支付宝充值？</dt><dd>下表就是今天支持支付宝的 70+ 家，按起充金额从低到高排，起充一样的再按 GPT 价格排。</dd>
+<dt>支付宝最低充多少？</dt><dd>每家不同，今天表里起充最低 ¥1。没写起充的，到站内充值页看实际金额。</dd>
+<dt>充进去的钱能退吗？</dt><dd>退款规则各站不同，很多站余额不退。充值前先看清楚，先按起充金额小额试用。</dd>
+</dl>
+
+<footer>
+更多：<a href="https://findbestapi.github.io/ai-member-prices/">AI 会员代充价格</a> · <a href="https://www.findbestapi.com/">甄选 API</a> · <a href="https://www.findbestapi.com/price/">模型价格对比</a> · <a href="https://www.findbestapi.com/compare/">中转站对比</a><br>
+Markdown 版：<a href="https://github.com/findbestapi/ai-member-prices/blob/main/relay/alipay.md">findbestapi/ai-member-prices</a> · 数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-18
+</footer>
+</body>
+</html>
