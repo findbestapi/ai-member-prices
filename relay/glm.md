@@ -1,6 +1,6 @@
 # GLM中转站推荐 2026：120+ 家智谱API价格对比
 
-[AI 会员代充价格](../README.md) › API 中转站价格 · [全部中转站](README.md) · [GPT / OpenAI](gpt.md) · [Claude](claude.md) · **GLM / 智谱** · [Kimi](kimi.md) · [支付宝能充](alipay.md) · [能开发票](invoice.md)
+[AI 会员代充价格](../README.md) › API 中转站价格 · [全部中转站](README.md) · [GPT / OpenAI](gpt.md) · [Claude](claude.md) · [Gemini](gemini.md) · **GLM / 智谱** · [Kimi](kimi.md) · [支付宝能充](alipay.md) · [能开发票](invoice.md)
 
 今天 GLM 中转最低价（每百万 token）：GLM-5.3 输入 ¥0.065 / 输出 ¥0.205（A6API）。
 

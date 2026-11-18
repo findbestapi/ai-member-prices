@@ -5,6 +5,7 @@
 |---|---|---|
 | [GPT / OpenAI](relay/gpt.md) | 280+ 家 | GPT-6.2 Sol ¥0.033 / ¥0.164 |
 | [Claude](relay/claude.md) | 300+ 家 | Claude Opus 5.5 ¥0.12 / ¥0.6 |
+| [Gemini](relay/gemini.md) | 210+ 家 | Gemini 4 Argon ¥0.147 / ¥0.735 |
 | [GLM / 智谱](relay/glm.md) | 120+ 家 | GLM-5.3 ¥0.065 / ¥0.205 |
 | [Kimi](relay/kimi.md) | 110+ 家 | Kimi K3 ¥0.024 / ¥0.122 |
 | [支付宝能充](relay/alipay.md) | 70+ 家 | GPT-6.2 Sol ¥0.08 / ¥0.4 |

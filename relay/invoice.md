@@ -1,6 +1,6 @@
 # 能开发票的API中转站 2026：40+ 家价格对比
 
-[AI 会员代充价格](../README.md) › API 中转站价格 · [全部中转站](README.md) · [GPT / OpenAI](gpt.md) · [Claude](claude.md) · [GLM / 智谱](glm.md) · [Kimi](kimi.md) · [支付宝能充](alipay.md) · **能开发票**
+[AI 会员代充价格](../README.md) › API 中转站价格 · [全部中转站](README.md) · [GPT / OpenAI](gpt.md) · [Claude](claude.md) · [Gemini](gemini.md) · [GLM / 智谱](glm.md) · [Kimi](kimi.md) · [支付宝能充](alipay.md) · **能开发票**
 
 今天能开发票的 API 中转站有 40+ 家。最低价（每百万 token）：GPT-6.2 Sol 输入 ¥0.08 / 输出 ¥0.4（合聚API），Claude Opus 5.5 输入 ¥0.16 / 输出 ¥0.8（YeToken）。
 

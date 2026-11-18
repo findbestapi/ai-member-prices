@@ -1,6 +1,6 @@
 # Claude中转站推荐 2026：300+ 家Claude API价格对比
 
-[AI 会员代充价格](../README.md) › API 中转站价格 · [全部中转站](README.md) · [GPT / OpenAI](gpt.md) · **Claude** · [GLM / 智谱](glm.md) · [Kimi](kimi.md) · [支付宝能充](alipay.md) · [能开发票](invoice.md)
+[AI 会员代充价格](../README.md) › API 中转站价格 · [全部中转站](README.md) · [GPT / OpenAI](gpt.md) · **Claude** · [Gemini](gemini.md) · [GLM / 智谱](glm.md) · [Kimi](kimi.md) · [支付宝能充](alipay.md) · [能开发票](invoice.md)
 
 今天 Claude 中转最低价（每百万 token）：Claude Opus 5.5 输入 ¥0.12 / 输出 ¥0.6（Kun-Api），Claude Fable 5.2 输入 ¥0.192 / 输出 ¥0.96（XINGYI API）。
 
