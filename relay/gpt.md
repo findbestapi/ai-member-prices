@@ -21,6 +21,12 @@
 | [H API](https://www.findbestapi.com/site/h-api/) | ¥0.36 / ¥1.8 | ¥0.36 / ¥1.8 | ¥1.44 / ¥7.2 | 支付宝 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/h-api/) |
 | [ByteCat](https://www.findbestapi.com/site/bytecatcode-org/) | ¥0.4 / ¥2 | ¥0.4 / ¥2 | ¥1.6 / ¥8 | 支付宝 | ¥10 | 可开 | [去官网](https://www.findbestapi.com/go/bytecatcode-org/) |
 
+## 会员和中转哪个划算
+
+ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推荐站里 GPT-6.2 Sol 最便宜的一档（ai98pro，输入 / 输出 ¥0.058 / ¥0.29）算，约够 173亿输入 token，或 35亿输出 token。
+
+每月用量到不了这个数，中转更省；天天重度用、用量超过它，会员更划算。[看 ChatGPT Pro 20x 代充价格](https://www.findbestapi.com/chatgpt/chatgpt-pro-20x/)
+
 ## 全部中转站报价
 
 <sub>¥/百万 token，输入 / 输出，2026-11-18 更新</sub>
