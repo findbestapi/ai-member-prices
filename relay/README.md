@@ -1,6 +1,6 @@
 # API中转站推荐排行榜 2026：360+ 家中转站价格大全
 
-[AI 会员代充价格](../README.md) › API 中转站价格 · **全部中转站** · [GPT / OpenAI](gpt.md) · [GLM / 智谱](glm.md) · [Kimi](kimi.md) · [支付宝能充](alipay.md) · [能开发票](invoice.md)
+[AI 会员代充价格](../README.md) › API 中转站价格 · **全部中转站** · [GPT / OpenAI](gpt.md) · [Claude](claude.md) · [GLM / 智谱](glm.md) · [Kimi](kimi.md) · [支付宝能充](alipay.md) · [能开发票](invoice.md)
 
 今天中转最低价（每百万 token）：GPT-6.2 Sol 输入 ¥0.033 / 输出 ¥0.164（SixthSense LLM），Claude Opus 5.5 输入 ¥0.12 / 输出 ¥0.6（Kun-Api），Gemini 4 Argon 输入 ¥0.147 / 输出 ¥0.735（OpenLux）。
 

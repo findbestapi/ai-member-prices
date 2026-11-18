@@ -1,6 +1,6 @@
 # 支付宝能充的API中转站 2026：70+ 家起充金额对比
 
-[AI 会员代充价格](../README.md) › API 中转站价格 · [全部中转站](README.md) · [GPT / OpenAI](gpt.md) · [GLM / 智谱](glm.md) · [Kimi](kimi.md) · **支付宝能充** · [能开发票](invoice.md)
+[AI 会员代充价格](../README.md) › API 中转站价格 · [全部中转站](README.md) · [GPT / OpenAI](gpt.md) · [Claude](claude.md) · [GLM / 智谱](glm.md) · [Kimi](kimi.md) · **支付宝能充** · [能开发票](invoice.md)
 
 今天能用支付宝充值的 API 中转站有 70+ 家，起充最低 ¥1。最低价（每百万 token）：GPT-6.2 Sol 输入 ¥0.08 / 输出 ¥0.4（合聚API）。
 

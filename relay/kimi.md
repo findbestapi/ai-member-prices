@@ -1,6 +1,6 @@
 # Kimi中转站推荐 2026：110+ 家API价格对比
 
-[AI 会员代充价格](../README.md) › API 中转站价格 · [全部中转站](README.md) · [GPT / OpenAI](gpt.md) · [GLM / 智谱](glm.md) · **Kimi** · [支付宝能充](alipay.md) · [能开发票](invoice.md)
+[AI 会员代充价格](../README.md) › API 中转站价格 · [全部中转站](README.md) · [GPT / OpenAI](gpt.md) · [Claude](claude.md) · [GLM / 智谱](glm.md) · **Kimi** · [支付宝能充](alipay.md) · [能开发票](invoice.md)
 
 今天 Kimi 中转最低价（每百万 token）：Kimi K3 输入 ¥0.024 / 输出 ¥0.122（A6API）。
 

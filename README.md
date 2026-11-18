@@ -4,6 +4,7 @@
 | API 中转站 | 站数 | 今日最低（¥/百万 token，输入 / 输出）· 2026-11-18 |
 |---|---|---|
 | [GPT / OpenAI](relay/gpt.md) | 280+ 家 | GPT-6.2 Sol ¥0.033 / ¥0.164 |
+| [Claude](relay/claude.md) | 300+ 家 | Claude Opus 5.5 ¥0.12 / ¥0.6 |
 | [GLM / 智谱](relay/glm.md) | 120+ 家 | GLM-5.3 ¥0.065 / ¥0.205 |
 | [Kimi](relay/kimi.md) | 110+ 家 | Kimi K3 ¥0.024 / ¥0.122 |
 | [支付宝能充](relay/alipay.md) | 70+ 家 | GPT-6.2 Sol ¥0.08 / ¥0.4 |
