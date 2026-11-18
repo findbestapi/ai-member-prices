@@ -1,4 +1,4 @@
-# Codex中转站推荐 2026：110+ 家Codex线路价格对比
+# Codex中转站推荐：110+家Codex线路价格对比 2026
 
 [AI 会员代充价格](../README.md) › API 中转站价格 · [全部中转站](README.md) · [GPT / OpenAI](gpt.md) · [Claude](claude.md) · [Gemini](gemini.md) · **Codex** · [Grok](grok.md) · [DeepSeek](deepseek.md) · [GLM / 智谱](glm.md) · [Kimi](kimi.md) · [支付宝能充](alipay.md) · [能开发票](invoice.md)
 
@@ -10,16 +10,16 @@
 
 | 站名 | GPT-6.2 Sol | GPT-6.1 Sol | GPT-6.2 Astra | 支付方式 | 起充 | 开票 | 入口 |
 |---|---|---|---|---|---|---|---|
-| [UU API](https://www.findbestapi.com/site/uuapi-net/) | ¥0.4 / ¥2 | ¥0.4 / ¥2 | ¥1.6 / ¥8 | 支付宝 / 微信 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/uuapi-net/) |
-| [APINebula](https://www.findbestapi.com/site/apinebula-com/) | ¥0.78 / ¥3.9 | ¥0.78 / ¥3.9 | ¥3.12 / ¥15.6 | 支付宝 | ¥20 | 可开 | [去官网](https://www.findbestapi.com/go/apinebula-com/) |
-| [LinksAPI](https://www.findbestapi.com/site/linksapi/) | ¥2.75 / ¥13.75 | ¥2.75 / ¥16.5 | ¥5.5 / ¥27.5 | 支付宝 / 微信 / Stripe | ¥1 | — | [去官网](https://www.findbestapi.com/go/linksapi/) |
-| [boxying](https://www.findbestapi.com/site/boxying/) | ¥0.6 / ¥3 | ¥0.6 / ¥3 | ¥2.4 / ¥12 | 支付宝 / 微信 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/boxying/) |
-| [RunAPI](https://www.findbestapi.com/site/runapi-co/) | ¥1 / ¥5 | ¥1 / ¥5 | ¥4 / ¥20 | 支付宝 / 信用卡 | ¥7 | 可开 | [去官网](https://www.findbestapi.com/go/runapi-co/) |
-| [ByteCat](https://www.findbestapi.com/site/bytecatcode-org/) | ¥0.4 / ¥2 | ¥0.4 / ¥2 | ¥1.6 / ¥8 | 支付宝 | ¥10 | 可开 | [去官网](https://www.findbestapi.com/go/bytecatcode-org/) |
+| [ai98pro](https://www.findbestapi.com/site/ai98pro/) | ¥0.058 / ¥0.29 | ¥0.058 / ¥0.29 | ¥0.232 / ¥1.16 | — | — | — | [去官网](https://www.findbestapi.com/go/ai98pro/) |
+| [云影 API](https://www.findbestapi.com/site/yyapi-cloud/) | ¥0.16 / ¥0.8 | ¥0.16 / ¥0.8 | ¥0.64 / ¥3.2 | 支付宝 / 微信 | ¥1 | — | [去官网](https://www.findbestapi.com/go/yyapi-cloud/) |
 | [V-API](https://www.findbestapi.com/site/api-gpt-ge/) | ¥0.2 / ¥1 | ¥0.2 / ¥1 | ¥0.8 / ¥4 | 微信 / USDT | ¥12.5 | 可开 | [去官网](https://www.findbestapi.com/go/api-gpt-ge/) |
 | [deepkey](https://www.findbestapi.com/site/deepkey-top/) | ¥0.24 / ¥1.2 | ¥0.24 / ¥1.2 | ¥0.64 / ¥3.2 | 支付宝 / 微信 / USDT / 加密货币 | ¥5 | 可开 | [去官网](https://www.findbestapi.com/go/deepkey-top/) |
-| [PackyCode](https://www.findbestapi.com/site/packyapi-com/) | ¥1 / ¥5 | ¥1 / ¥5 | ¥4 / ¥20 | 信用卡 / App | ¥100 | 可开 | [去官网](https://www.findbestapi.com/go/packyapi-com/) |
+| [jojocode](https://www.findbestapi.com/site/jojocode/) | ¥0.34 / ¥1.7 | ¥0.34 / ¥1.7 | ¥1.36 / ¥6.8 | Stripe | — | — | [去官网](https://www.findbestapi.com/go/jojocode/) |
+| [A6API](https://www.findbestapi.com/site/a6api/) | ¥0.366 / ¥1.83 | ¥0.366 / ¥1.83 | ¥1.4 / ¥7 | — | — | — | [去官网](https://www.findbestapi.com/go/a6api/) |
+| [ByteCat](https://www.findbestapi.com/site/bytecatcode-org/) | ¥0.4 / ¥2 | ¥0.4 / ¥2 | ¥1.6 / ¥8 | 支付宝 | ¥10 | 可开 | [去官网](https://www.findbestapi.com/go/bytecatcode-org/) |
 | [CCTQ](https://www.findbestapi.com/site/cctq/) | ¥0.4 / ¥2 | ¥0.4 / ¥2 | ¥1.6 / ¥8 | 支付宝 | ¥1 | — | [去官网](https://www.findbestapi.com/go/cctq/) |
+| [LinkAPI](https://www.findbestapi.com/site/linkapi-ai/) | ¥0.4 / ¥2 | ¥0.4 / ¥2 | ¥1.6 / ¥8 | 支付宝 / 微信 | ¥1 | — | [去官网](https://www.findbestapi.com/go/linkapi-ai/) |
+| [UU API](https://www.findbestapi.com/site/uuapi-net/) | ¥0.4 / ¥2 | ¥0.4 / ¥2 | ¥1.6 / ¥8 | 支付宝 / 微信 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/uuapi-net/) |
 
 ## 全部中转站报价
 
@@ -147,9 +147,9 @@
 
 模型一样，额度来源不同：Codex 线路转发的是编程工具的额度，通常更便宜，适合写代码；长对话、画图这类用途不一定能跑，这些用普通 GPT 线路更稳。
 
-**Codex CLI 怎么接中转站？**
+**Codex 用中转站要改哪两处？**
 
-在 ~/.codex/config.toml 里加一个自定义提供商：base_url 填中转站地址（带 /v1），key 放到环境变量里，model 照站里模型列表的写法填，然后运行 codex 即可。
+两处：先把中转站后台创建的 key 设成环境变量；再在 Codex 配置里新建一个 provider，地址指向中转站的接口，模型名照站里的列表写。改完重开终端即可。
 
 **Cursor、Cline 这些工具能用 Codex 线路吗？**
 
@@ -157,10 +157,10 @@
 
 **怎么挑 Codex 中转站？**
 
-先看你要用的那一款 GPT 在下表的输入、输出价，再看支付方式和起充金额；先小额充值，跑一段代码试过速度和稳定性再加钱。
+先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 113 家里，支付宝能充 37 家、写明能开发票 23 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
 
 ---
 
-网页版：[Codex中转站推荐 2026：110+ 家Codex线路价格对比](https://findbestapi.github.io/ai-member-prices/relay/codex/) · [AI 会员代充价格](../README.md) · [甄选 API](https://www.findbestapi.com/) · [模型价格对比](https://www.findbestapi.com/price/)
+网页版：[Codex中转站推荐：110+家Codex线路价格对比 2026](https://findbestapi.github.io/ai-member-prices/relay/codex/) · [AI 会员代充价格](../README.md) · [甄选 API](https://www.findbestapi.com/) · [模型价格对比](https://www.findbestapi.com/price/)
 
 <sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-18</sub>

@@ -1,4 +1,4 @@
-# Gemini中转站推荐 2026：210+ 家Gemini API价格对比
+# Gemini中转站推荐：210+家Gemini API价格对比 2026
 
 [AI 会员代充价格](../README.md) › API 中转站价格 · [全部中转站](README.md) · [GPT / OpenAI](gpt.md) · [Claude](claude.md) · **Gemini** · [Codex](codex.md) · [Grok](grok.md) · [DeepSeek](deepseek.md) · [GLM / 智谱](glm.md) · [Kimi](kimi.md) · [支付宝能充](alipay.md) · [能开发票](invoice.md)
 
@@ -10,16 +10,16 @@
 
 | 站名 | Gemini 4 Argon | Gemini 4 Carbon | Gemini 3.1 Pro | 支付方式 | 起充 | 开票 | 入口 |
 |---|---|---|---|---|---|---|---|
+| [V-API](https://www.findbestapi.com/site/api-gpt-ge/) | ¥0.2 / ¥1 | ¥0.2 / ¥1 | ¥0.2 / ¥1.2 | 微信 / USDT | ¥12.5 | 可开 | [去官网](https://www.findbestapi.com/go/api-gpt-ge/) |
+| [A6API](https://www.findbestapi.com/site/a6api/) | ¥0.277 / ¥1.38 | ¥0.277 / ¥1.38 | ¥0.277 / ¥1.66 | — | — | — | [去官网](https://www.findbestapi.com/go/a6api/) |
+| [deepkey](https://www.findbestapi.com/site/deepkey-top/) | ¥0.6 / ¥3 | ¥0.6 / ¥3 | ¥0.6 / ¥3.6 | 支付宝 / 微信 / USDT / 加密货币 | ¥5 | 可开 | [去官网](https://www.findbestapi.com/go/deepkey-top/) |
+| [LinkAPI](https://www.findbestapi.com/site/linkapi-ai/) | ¥0.63 / ¥3.15 | ¥0.63 / ¥3.15 | ¥0.63 / ¥2.5 | 支付宝 / 微信 | ¥1 | — | [去官网](https://www.findbestapi.com/go/linkapi-ai/) |
 | [H API](https://www.findbestapi.com/site/h-api/) | ¥0.9 / ¥4.5 | ¥0.9 / ¥4.5 | ¥0.9 / ¥5.4 | 支付宝 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/h-api/) |
-| [OpenOx](https://www.findbestapi.com/site/openox/) | ¥2 / ¥10 | ¥2 / ¥10 | ¥2 / ¥12 | 支付宝 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/openox/) |
 | [UU API](https://www.findbestapi.com/site/uuapi-net/) | ¥1 / ¥5 | ¥1 / ¥5 | ¥1 / ¥6 | 支付宝 / 微信 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/uuapi-net/) |
-| [APINebula](https://www.findbestapi.com/site/apinebula-com/) | ¥1.6 / ¥8 | ¥1.6 / ¥8 | ¥1.6 / ¥9.6 | 支付宝 | ¥20 | 可开 | [去官网](https://www.findbestapi.com/go/apinebula-com/) |
 | [LinkAI](https://www.findbestapi.com/site/linkai/) | ¥1.2 / ¥6 | ¥1.2 / ¥6 | ¥1.2 / ¥7.2 | 支付宝 | ¥5 | 可开 | [去官网](https://www.findbestapi.com/go/linkai/) |
 | [LinksAPI](https://www.findbestapi.com/site/linksapi/) | ¥1.3 / ¥6.5 | ¥1.3 / ¥6.5 | ¥1.62 / ¥9.75 | 支付宝 / 微信 / Stripe | ¥1 | — | [去官网](https://www.findbestapi.com/go/linksapi/) |
-| [RunAPI](https://www.findbestapi.com/site/runapi-co/) | ¥2.85 / ¥14.25 | ¥2.85 / ¥14.25 | ¥2.92 / ¥17.51 | 支付宝 / 信用卡 | ¥7 | 可开 | [去官网](https://www.findbestapi.com/go/runapi-co/) |
-| [Micu](https://www.findbestapi.com/site/micuapi-ai/) | ¥4.4 / ¥22 | ¥4.4 / ¥22 | ¥4.4 / ¥26.4 | 支付宝 / 微信 | ¥50 | 可开 | [去官网](https://www.findbestapi.com/go/micuapi-ai/) |
-| [ByteCat](https://www.findbestapi.com/site/bytecatcode-org/) | ¥1.6 / ¥8 | ¥1.6 / ¥8 | ¥1.6 / ¥6.4 | 支付宝 | ¥10 | 可开 | [去官网](https://www.findbestapi.com/go/bytecatcode-org/) |
-| [V-API](https://www.findbestapi.com/site/api-gpt-ge/) | ¥0.2 / ¥1 | ¥0.2 / ¥1 | ¥0.2 / ¥1.2 | 微信 / USDT | ¥12.5 | 可开 | [去官网](https://www.findbestapi.com/go/api-gpt-ge/) |
+| [IKunCode](https://www.findbestapi.com/site/api-ikuncode-cc/) | ¥1.4 / ¥7 | ¥1.4 / ¥7 | ¥1.4 / ¥8.4 | 支付宝 / 微信 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/api-ikuncode-cc/) |
+| [云影 API](https://www.findbestapi.com/site/yyapi-cloud/) | ¥1.4 / ¥7 | ¥1.4 / ¥7 | ¥1.4 / ¥8.4 | 支付宝 / 微信 | ¥1 | — | [去官网](https://www.findbestapi.com/go/yyapi-cloud/) |
 
 ## 全部中转站报价
 
@@ -261,10 +261,10 @@
 
 **怎么挑 Gemini 中转站？**
 
-先看你要用的那一款 Gemini 在下表的输入、输出价，再看支付方式和起充金额；先小额充值试过速度和稳定性再加钱。
+先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 217 家里，支付宝能充 52 家、写明能开发票 35 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
 
 ---
 
-网页版：[Gemini中转站推荐 2026：210+ 家Gemini API价格对比](https://findbestapi.github.io/ai-member-prices/relay/gemini/) · [AI 会员代充价格](../README.md) · [甄选 API](https://www.findbestapi.com/) · [模型价格对比](https://www.findbestapi.com/price/)
+网页版：[Gemini中转站推荐：210+家Gemini API价格对比 2026](https://findbestapi.github.io/ai-member-prices/relay/gemini/) · [AI 会员代充价格](../README.md) · [甄选 API](https://www.findbestapi.com/) · [模型价格对比](https://www.findbestapi.com/price/)
 
 <sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-18</sub>

@@ -1,4 +1,4 @@
-# GLM中转站推荐 2026：120+ 家智谱API价格对比
+# GLM中转站推荐：120+家智谱API价格对比 2026
 
 [AI 会员代充价格](../README.md) › API 中转站价格 · [全部中转站](README.md) · [GPT / OpenAI](gpt.md) · [Claude](claude.md) · [Gemini](gemini.md) · [Codex](codex.md) · [Grok](grok.md) · [DeepSeek](deepseek.md) · **GLM / 智谱** · [Kimi](kimi.md) · [支付宝能充](alipay.md) · [能开发票](invoice.md)
 
@@ -10,16 +10,16 @@
 
 | 站名 | GLM-5.3 | 支付方式 | 起充 | 开票 | 入口 |
 |---|---|---|---|---|---|
-| [H API](https://www.findbestapi.com/site/h-api/) | ¥4.8 / ¥16.8 | 支付宝 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/h-api/) |
-| [OpenOx](https://www.findbestapi.com/site/openox/) | ¥5.6 / ¥19.6 | 支付宝 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/openox/) |
-| [UU API](https://www.findbestapi.com/site/uuapi-net/) | ¥4.4 / ¥15.4 | 支付宝 / 微信 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/uuapi-net/) |
-| [APINebula](https://www.findbestapi.com/site/apinebula-com/) | ¥6.8 / ¥23.8 | 支付宝 | ¥20 | 可开 | [去官网](https://www.findbestapi.com/go/apinebula-com/) |
-| [LinksAPI](https://www.findbestapi.com/site/linksapi/) | ¥12 / ¥42 | 支付宝 / 微信 / Stripe | ¥1 | — | [去官网](https://www.findbestapi.com/go/linksapi/) |
-| [RunAPI](https://www.findbestapi.com/site/runapi-co/) | ¥4.02 / ¥14.07 | 支付宝 / 信用卡 | ¥7 | 可开 | [去官网](https://www.findbestapi.com/go/runapi-co/) |
-| [deepkey](https://www.findbestapi.com/site/deepkey-top/) | ¥2.4 / ¥8.4 | 支付宝 / 微信 / USDT / 加密货币 | ¥5 | 可开 | [去官网](https://www.findbestapi.com/go/deepkey-top/) |
-| [PackyCode](https://www.findbestapi.com/site/packyapi-com/) | ¥8 / ¥28 | 信用卡 / App | ¥100 | 可开 | [去官网](https://www.findbestapi.com/go/packyapi-com/) |
-| [CCTQ](https://www.findbestapi.com/site/cctq/) | ¥5.6 / ¥19.6 | 支付宝 | ¥1 | — | [去官网](https://www.findbestapi.com/go/cctq/) |
 | [A6API](https://www.findbestapi.com/site/a6api/) | ¥0.065 / ¥0.205 | — | — | — | [去官网](https://www.findbestapi.com/go/a6api/) |
+| [deepkey](https://www.findbestapi.com/site/deepkey-top/) | ¥2.4 / ¥8.4 | 支付宝 / 微信 / USDT / 加密货币 | ¥5 | 可开 | [去官网](https://www.findbestapi.com/go/deepkey-top/) |
+| [RunAPI](https://www.findbestapi.com/site/runapi-co/) | ¥4.02 / ¥14.07 | 支付宝 / 信用卡 | ¥7 | 可开 | [去官网](https://www.findbestapi.com/go/runapi-co/) |
+| [UU API](https://www.findbestapi.com/site/uuapi-net/) | ¥4.4 / ¥15.4 | 支付宝 / 微信 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/uuapi-net/) |
+| [H API](https://www.findbestapi.com/site/h-api/) | ¥4.8 / ¥16.8 | 支付宝 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/h-api/) |
+| [CCTQ](https://www.findbestapi.com/site/cctq/) | ¥5.6 / ¥19.6 | 支付宝 | ¥1 | — | [去官网](https://www.findbestapi.com/go/cctq/) |
+| [OpenOx](https://www.findbestapi.com/site/openox/) | ¥5.6 / ¥19.6 | 支付宝 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/openox/) |
+| [APINebula](https://www.findbestapi.com/site/apinebula-com/) | ¥6.8 / ¥23.8 | 支付宝 | ¥20 | 可开 | [去官网](https://www.findbestapi.com/go/apinebula-com/) |
+| [PackyCode](https://www.findbestapi.com/site/packyapi-com/) | ¥8 / ¥28 | 信用卡 / App | ¥100 | 可开 | [去官网](https://www.findbestapi.com/go/packyapi-com/) |
+| [LinksAPI](https://www.findbestapi.com/site/linksapi/) | ¥12 / ¥42 | 支付宝 / 微信 / Stripe | ¥1 | — | [去官网](https://www.findbestapi.com/go/linksapi/) |
 
 ## 全部中转站报价
 
@@ -152,7 +152,7 @@
 
 **GLM 中转站和智谱官方 API 有什么区别？**
 
-智谱官方可以直接充值；用中转站的好处是一个 key 同时调用 GLM、GPT、Claude 等多家模型，账单也在一处。价格各站不同，下表是今天的报价。
+智谱官方可以直接充值。走中转站图的是余额和账单合在一处：GLM、GPT、Claude 共用一份余额，不用每家各充一笔。各站价格不同，下表是今天的报价。
 
 **GLM 中转站怎么接入？**
 
@@ -160,10 +160,10 @@
 
 **怎么挑 GLM 中转站？**
 
-先比下表的输入、输出价，再看支付方式和起充金额；先小额充值试过速度和稳定性再加钱。
+先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 120 家里，支付宝能充 25 家、写明能开发票 24 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
 
 ---
 
-网页版：[GLM中转站推荐 2026：120+ 家智谱API价格对比](https://findbestapi.github.io/ai-member-prices/relay/glm/) · [AI 会员代充价格](../README.md) · [甄选 API](https://www.findbestapi.com/) · [模型价格对比](https://www.findbestapi.com/price/)
+网页版：[GLM中转站推荐：120+家智谱API价格对比 2026](https://findbestapi.github.io/ai-member-prices/relay/glm/) · [AI 会员代充价格](../README.md) · [甄选 API](https://www.findbestapi.com/) · [模型价格对比](https://www.findbestapi.com/price/)
 
 <sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-18</sub>

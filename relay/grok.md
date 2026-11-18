@@ -1,4 +1,4 @@
-# Grok中转站推荐 2026：160+ 家Grok API价格对比
+# Grok中转站推荐：160+家Grok API价格对比 2026
 
 [AI 会员代充价格](../README.md) › API 中转站价格 · [全部中转站](README.md) · [GPT / OpenAI](gpt.md) · [Claude](claude.md) · [Gemini](gemini.md) · [Codex](codex.md) · **Grok** · [DeepSeek](deepseek.md) · [GLM / 智谱](glm.md) · [Kimi](kimi.md) · [支付宝能充](alipay.md) · [能开发票](invoice.md)
 
@@ -10,16 +10,16 @@
 
 | 站名 | Grok 4.7 | 支付方式 | 起充 | 开票 | 入口 |
 |---|---|---|---|---|---|
+| [A6API](https://www.findbestapi.com/site/a6api/) | ¥0.008 / ¥0.024 | — | — | — | [去官网](https://www.findbestapi.com/go/a6api/) |
+| [deepkey](https://www.findbestapi.com/site/deepkey-top/) | ¥0.12 / ¥0.36 | 支付宝 / 微信 / USDT / 加密货币 | ¥5 | 可开 | [去官网](https://www.findbestapi.com/go/deepkey-top/) |
+| [PackyCode](https://www.findbestapi.com/site/packyapi-com/) | ¥0.2 / ¥0.6 | 信用卡 / App | ¥100 | 可开 | [去官网](https://www.findbestapi.com/go/packyapi-com/) |
+| [ByteCat](https://www.findbestapi.com/site/bytecatcode-org/) | ¥0.4 / ¥1.2 | 支付宝 | ¥10 | 可开 | [去官网](https://www.findbestapi.com/go/bytecatcode-org/) |
+| [黑黑](https://www.findbestapi.com/site/heilovehei/) | ¥0.4 / ¥1.2 | — | — | — | [去官网](https://www.findbestapi.com/go/heilovehei/) |
+| [LinkAI](https://www.findbestapi.com/site/linkai/) | ¥0.6 / ¥1.8 | 支付宝 | ¥5 | 可开 | [去官网](https://www.findbestapi.com/go/linkai/) |
 | [H API](https://www.findbestapi.com/site/h-api/) | ¥0.8 / ¥2.4 | 支付宝 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/h-api/) |
 | [OpenOx](https://www.findbestapi.com/site/openox/) | ¥0.8 / ¥2.4 | 支付宝 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/openox/) |
 | [UU API](https://www.findbestapi.com/site/uuapi-net/) | ¥0.8 / ¥2.4 | 支付宝 / 微信 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/uuapi-net/) |
-| [APINebula](https://www.findbestapi.com/site/apinebula-com/) | ¥1 / ¥3 | 支付宝 | ¥20 | 可开 | [去官网](https://www.findbestapi.com/go/apinebula-com/) |
-| [LinkAI](https://www.findbestapi.com/site/linkai/) | ¥0.6 / ¥1.8 | 支付宝 | ¥5 | 可开 | [去官网](https://www.findbestapi.com/go/linkai/) |
 | [RunAPI](https://www.findbestapi.com/site/runapi-co/) | ¥0.95 / ¥2.85 | 支付宝 / 信用卡 | ¥7 | 可开 | [去官网](https://www.findbestapi.com/go/runapi-co/) |
-| [ByteCat](https://www.findbestapi.com/site/bytecatcode-org/) | ¥0.4 / ¥1.2 | 支付宝 | ¥10 | 可开 | [去官网](https://www.findbestapi.com/go/bytecatcode-org/) |
-| [deepkey](https://www.findbestapi.com/site/deepkey-top/) | ¥0.12 / ¥0.36 | 支付宝 / 微信 / USDT / 加密货币 | ¥5 | 可开 | [去官网](https://www.findbestapi.com/go/deepkey-top/) |
-| [PackyCode](https://www.findbestapi.com/site/packyapi-com/) | ¥0.2 / ¥0.6 | 信用卡 / App | ¥100 | 可开 | [去官网](https://www.findbestapi.com/go/packyapi-com/) |
-| [黑黑](https://www.findbestapi.com/site/heilovehei/) | ¥0.4 / ¥1.2 | — | — | — | [去官网](https://www.findbestapi.com/go/heilovehei/) |
 
 ## 全部中转站报价
 
@@ -204,10 +204,10 @@
 
 **怎么挑 Grok 中转站？**
 
-先比下表的输入、输出价，再看支付方式和起充金额；先小额充值试过速度和稳定性再加钱。
+先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 160 家里，支付宝能充 33 家、写明能开发票 29 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
 
 ---
 
-网页版：[Grok中转站推荐 2026：160+ 家Grok API价格对比](https://findbestapi.github.io/ai-member-prices/relay/grok/) · [AI 会员代充价格](../README.md) · [甄选 API](https://www.findbestapi.com/) · [模型价格对比](https://www.findbestapi.com/price/)
+网页版：[Grok中转站推荐：160+家Grok API价格对比 2026](https://findbestapi.github.io/ai-member-prices/relay/grok/) · [AI 会员代充价格](../README.md) · [甄选 API](https://www.findbestapi.com/) · [模型价格对比](https://www.findbestapi.com/price/)
 
 <sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-18</sub>

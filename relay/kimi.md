@@ -1,4 +1,4 @@
-# Kimi中转站推荐 2026：110+ 家API价格对比
+# Kimi中转站推荐：110+家API价格对比 2026
 
 [AI 会员代充价格](../README.md) › API 中转站价格 · [全部中转站](README.md) · [GPT / OpenAI](gpt.md) · [Claude](claude.md) · [Gemini](gemini.md) · [Codex](codex.md) · [Grok](grok.md) · [DeepSeek](deepseek.md) · [GLM / 智谱](glm.md) · **Kimi** · [支付宝能充](alipay.md) · [能开发票](invoice.md)
 
@@ -10,16 +10,16 @@
 
 | 站名 | Kimi K3 | 支付方式 | 起充 | 开票 | 入口 |
 |---|---|---|---|---|---|
+| [A6API](https://www.findbestapi.com/site/a6api/) | ¥0.024 / ¥0.122 | — | — | — | [去官网](https://www.findbestapi.com/go/a6api/) |
+| [deepkey](https://www.findbestapi.com/site/deepkey-top/) | ¥6 / ¥30 | 支付宝 / 微信 / USDT / 加密货币 | ¥5 | 可开 | [去官网](https://www.findbestapi.com/go/deepkey-top/) |
+| [PackyCode](https://www.findbestapi.com/site/packyapi-com/) | ¥10 / ¥50 | 信用卡 / App | ¥100 | 可开 | [去官网](https://www.findbestapi.com/go/packyapi-com/) |
+| [RunAPI](https://www.findbestapi.com/site/runapi-co/) | ¥10.05 / ¥50.26 | 支付宝 / 信用卡 | ¥7 | 可开 | [去官网](https://www.findbestapi.com/go/runapi-co/) |
 | [H API](https://www.findbestapi.com/site/h-api/) | ¥12 / ¥60 | 支付宝 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/h-api/) |
+| [CCTQ](https://www.findbestapi.com/site/cctq/) | ¥14 / ¥70 | 支付宝 | ¥1 | — | [去官网](https://www.findbestapi.com/go/cctq/) |
 | [OpenOx](https://www.findbestapi.com/site/openox/) | ¥14 / ¥70 | 支付宝 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/openox/) |
 | [UU API](https://www.findbestapi.com/site/uuapi-net/) | ¥14 / ¥70 | 支付宝 / 微信 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/uuapi-net/) |
 | [APINebula](https://www.findbestapi.com/site/apinebula-com/) | ¥17 / ¥85 | 支付宝 | ¥20 | 可开 | [去官网](https://www.findbestapi.com/go/apinebula-com/) |
 | [LinksAPI](https://www.findbestapi.com/site/linksapi/) | ¥37.5 / ¥187.5 | 支付宝 / 微信 / Stripe | ¥1 | — | [去官网](https://www.findbestapi.com/go/linksapi/) |
-| [RunAPI](https://www.findbestapi.com/site/runapi-co/) | ¥10.05 / ¥50.26 | 支付宝 / 信用卡 | ¥7 | 可开 | [去官网](https://www.findbestapi.com/go/runapi-co/) |
-| [deepkey](https://www.findbestapi.com/site/deepkey-top/) | ¥6 / ¥30 | 支付宝 / 微信 / USDT / 加密货币 | ¥5 | 可开 | [去官网](https://www.findbestapi.com/go/deepkey-top/) |
-| [PackyCode](https://www.findbestapi.com/site/packyapi-com/) | ¥10 / ¥50 | 信用卡 / App | ¥100 | 可开 | [去官网](https://www.findbestapi.com/go/packyapi-com/) |
-| [CCTQ](https://www.findbestapi.com/site/cctq/) | ¥14 / ¥70 | 支付宝 | ¥1 | — | [去官网](https://www.findbestapi.com/go/cctq/) |
-| [A6API](https://www.findbestapi.com/site/a6api/) | ¥0.024 / ¥0.122 | — | — | — | [去官网](https://www.findbestapi.com/go/a6api/) |
 
 ## 全部中转站报价
 
@@ -147,7 +147,7 @@
 
 **Kimi 中转站和月之暗面官方 API 有什么区别？**
 
-月之暗面官方可以直接充值；用中转站的好处是一个 key 同时调用 Kimi、GPT、Claude 等多家模型，账单也在一处。价格各站不同，下表是今天的报价。
+月之暗面官方可以直接充值。走中转站图的是余额和账单合在一处：Kimi、GPT、Claude 共用一份余额，不用每家各充一笔。各站价格不同，下表是今天的报价。
 
 **Kimi 中转站怎么接入？**
 
@@ -155,10 +155,10 @@
 
 **怎么挑 Kimi 中转站？**
 
-先比下表的输入、输出价，再看支付方式和起充金额；先小额充值试过速度和稳定性再加钱。
+先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 115 家里，支付宝能充 26 家、写明能开发票 25 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
 
 ---
 
-网页版：[Kimi中转站推荐 2026：110+ 家API价格对比](https://findbestapi.github.io/ai-member-prices/relay/kimi/) · [AI 会员代充价格](../README.md) · [甄选 API](https://www.findbestapi.com/) · [模型价格对比](https://www.findbestapi.com/price/)
+网页版：[Kimi中转站推荐：110+家API价格对比 2026](https://findbestapi.github.io/ai-member-prices/relay/kimi/) · [AI 会员代充价格](../README.md) · [甄选 API](https://www.findbestapi.com/) · [模型价格对比](https://www.findbestapi.com/price/)
 
 <sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-18</sub>

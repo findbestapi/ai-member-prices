@@ -1,4 +1,4 @@
-# GPT中转站推荐 2026：280+ 家OpenAI中转站价格对比
+# GPT中转站推荐：280+家OpenAI中转站价格对比 2026
 
 [AI 会员代充价格](../README.md) › API 中转站价格 · [全部中转站](README.md) · **GPT / OpenAI** · [Claude](claude.md) · [Gemini](gemini.md) · [Codex](codex.md) · [Grok](grok.md) · [DeepSeek](deepseek.md) · [GLM / 智谱](glm.md) · [Kimi](kimi.md) · [支付宝能充](alipay.md) · [能开发票](invoice.md)
 
@@ -10,15 +10,15 @@
 
 | 站名 | GPT-6.2 Sol | GPT-6.1 Sol | GPT-6.2 Astra | 支付方式 | 起充 | 开票 | 入口 |
 |---|---|---|---|---|---|---|---|
-| [H API](https://www.findbestapi.com/site/h-api/) | ¥0.36 / ¥1.8 | ¥0.36 / ¥1.8 | ¥1.44 / ¥7.2 | 支付宝 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/h-api/) |
+| [ai98pro](https://www.findbestapi.com/site/ai98pro/) | ¥0.058 / ¥0.29 | ¥0.058 / ¥0.29 | ¥0.232 / ¥1.16 | — | — | — | [去官网](https://www.findbestapi.com/go/ai98pro/) |
+| [A6API](https://www.findbestapi.com/site/a6api/) | ¥0.065 / ¥0.326 | ¥0.065 / ¥0.326 | ¥0.076 / ¥0.38 | — | — | — | [去官网](https://www.findbestapi.com/go/a6api/) |
+| [黑黑](https://www.findbestapi.com/site/heilovehei/) | ¥0.1 / ¥0.5 | ¥0.1 / ¥0.5 | ¥0.4 / ¥2 | — | — | — | [去官网](https://www.findbestapi.com/go/heilovehei/) |
+| [云影 API](https://www.findbestapi.com/site/yyapi-cloud/) | ¥0.16 / ¥0.8 | ¥0.16 / ¥0.8 | ¥0.64 / ¥3.2 | 支付宝 / 微信 | ¥1 | — | [去官网](https://www.findbestapi.com/go/yyapi-cloud/) |
+| [V-API](https://www.findbestapi.com/site/api-gpt-ge/) | ¥0.2 / ¥1 | ¥0.2 / ¥1 | ¥0.8 / ¥4 | 微信 / USDT | ¥12.5 | 可开 | [去官网](https://www.findbestapi.com/go/api-gpt-ge/) |
+| [deepkey](https://www.findbestapi.com/site/deepkey-top/) | ¥0.24 / ¥1.2 | ¥0.24 / ¥1.2 | ¥0.64 / ¥3.2 | 支付宝 / 微信 / USDT / 加密货币 | ¥5 | 可开 | [去官网](https://www.findbestapi.com/go/deepkey-top/) |
 | [OpenOx](https://www.findbestapi.com/site/openox/) | ¥0.24 / ¥1.2 | ¥0.24 / ¥1.2 | ¥0.961 / ¥4.8 | 支付宝 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/openox/) |
-| [UU API](https://www.findbestapi.com/site/uuapi-net/) | ¥0.4 / ¥2 | ¥0.4 / ¥2 | ¥1.6 / ¥8 | 支付宝 / 微信 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/uuapi-net/) |
-| [APINebula](https://www.findbestapi.com/site/apinebula-com/) | ¥0.78 / ¥3.9 | ¥0.78 / ¥3.9 | ¥3.12 / ¥15.6 | 支付宝 | ¥20 | 可开 | [去官网](https://www.findbestapi.com/go/apinebula-com/) |
-| [LinkAI](https://www.findbestapi.com/site/linkai/) | ¥0.4 / ¥2 | ¥0.4 / ¥2 | ¥1.6 / ¥8 | 支付宝 | ¥5 | 可开 | [去官网](https://www.findbestapi.com/go/linkai/) |
-| [LinksAPI](https://www.findbestapi.com/site/linksapi/) | ¥1.4 / ¥7 | ¥1.4 / ¥8.4 | ¥2.8 / ¥14 | 支付宝 / 微信 / Stripe | ¥1 | — | [去官网](https://www.findbestapi.com/go/linksapi/) |
-| [boxying](https://www.findbestapi.com/site/boxying/) | ¥0.6 / ¥3 | ¥0.6 / ¥3 | ¥2.4 / ¥12 | 支付宝 / 微信 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/boxying/) |
-| [SSSAICode](https://www.findbestapi.com/site/sssaicode-com/) | ¥0.8 / ¥4 | ¥0.8 / ¥4 | ¥3.2 / ¥16 | 支付宝 / USDT | ¥10 | 可开 | [去官网](https://www.findbestapi.com/go/sssaicode-com/) |
-| [RunAPI](https://www.findbestapi.com/site/runapi-co/) | ¥1 / ¥5 | ¥1 / ¥5 | ¥4 / ¥20 | 支付宝 / 信用卡 | ¥7 | 可开 | [去官网](https://www.findbestapi.com/go/runapi-co/) |
+| [jojocode](https://www.findbestapi.com/site/jojocode/) | ¥0.34 / ¥1.7 | ¥0.34 / ¥1.7 | ¥1.36 / ¥6.8 | Stripe | — | — | [去官网](https://www.findbestapi.com/go/jojocode/) |
+| [H API](https://www.findbestapi.com/site/h-api/) | ¥0.36 / ¥1.8 | ¥0.36 / ¥1.8 | ¥1.44 / ¥7.2 | 支付宝 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/h-api/) |
 | [ByteCat](https://www.findbestapi.com/site/bytecatcode-org/) | ¥0.4 / ¥2 | ¥0.4 / ¥2 | ¥1.6 / ¥8 | 支付宝 | ¥10 | 可开 | [去官网](https://www.findbestapi.com/go/bytecatcode-org/) |
 
 ## 全部中转站报价
@@ -328,10 +328,10 @@
 
 **怎么挑 GPT 中转站？**
 
-先看你要用的那一款 GPT 在下表的输入、输出价，再看支付方式和起充金额；先小额充值试过速度和稳定性再加钱。
+先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 284 家里，支付宝能充 65 家、写明能开发票 41 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
 
 ---
 
-网页版：[GPT中转站推荐 2026：280+ 家OpenAI中转站价格对比](https://findbestapi.github.io/ai-member-prices/relay/gpt/) · [AI 会员代充价格](../README.md) · [甄选 API](https://www.findbestapi.com/) · [模型价格对比](https://www.findbestapi.com/price/)
+网页版：[GPT中转站推荐：280+家OpenAI中转站价格对比 2026](https://findbestapi.github.io/ai-member-prices/relay/gpt/) · [AI 会员代充价格](../README.md) · [甄选 API](https://www.findbestapi.com/) · [模型价格对比](https://www.findbestapi.com/price/)
 
 <sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-18</sub>

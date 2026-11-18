@@ -1,4 +1,4 @@
-# DeepSeek中转站推荐 2026：140+ 家API价格对比
+# DeepSeek中转站推荐：140+家API价格对比 2026
 
 [AI 会员代充价格](../README.md) › API 中转站价格 · [全部中转站](README.md) · [GPT / OpenAI](gpt.md) · [Claude](claude.md) · [Gemini](gemini.md) · [Codex](codex.md) · [Grok](grok.md) · **DeepSeek** · [GLM / 智谱](glm.md) · [Kimi](kimi.md) · [支付宝能充](alipay.md) · [能开发票](invoice.md)
 
@@ -10,16 +10,16 @@
 
 | 站名 | DeepSeek V4.1 Flash | DeepSeek V4 Pro | 支付方式 | 起充 | 开票 | 入口 |
 |---|---|---|---|---|---|---|
-| [H API](https://www.findbestapi.com/site/h-api/) | ¥0.6 / ¥2.4 | ¥2.7 / ¥8.1 | 支付宝 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/h-api/) |
-| [OpenOx](https://www.findbestapi.com/site/openox/) | ¥1.26 / ¥5.04 | ¥5.54 / ¥16.63 | 支付宝 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/openox/) |
-| [UU API](https://www.findbestapi.com/site/uuapi-net/) | ¥0.65 / ¥2.6 | ¥3.37 / ¥10.12 | 支付宝 / 微信 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/uuapi-net/) |
-| [LinksAPI](https://www.findbestapi.com/site/linksapi/) | ¥3 / ¥12 | ¥13.5 / ¥40.5 | 支付宝 / 微信 / Stripe | ¥1 | — | [去官网](https://www.findbestapi.com/go/linksapi/) |
-| [SSSAICode](https://www.findbestapi.com/site/sssaicode-com/) | ¥2 / ¥8 | ¥9 / ¥27 | 支付宝 / USDT | ¥10 | 可开 | [去官网](https://www.findbestapi.com/go/sssaicode-com/) |
-| [RunAPI](https://www.findbestapi.com/site/runapi-co/) | ¥0.503 / ¥2.01 | ¥4.52 / ¥13.57 | 支付宝 / 信用卡 | ¥7 | 可开 | [去官网](https://www.findbestapi.com/go/runapi-co/) |
+| [A6API](https://www.findbestapi.com/site/a6api/) | ¥0.012 / ¥0.047 | ¥0.065 / ¥0.195 | — | — | — | [去官网](https://www.findbestapi.com/go/a6api/) |
 | [deepkey](https://www.findbestapi.com/site/deepkey-top/) | ¥0.5 / ¥2 | ¥2.25 / ¥6.75 | 支付宝 / 微信 / USDT / 加密货币 | ¥5 | 可开 | [去官网](https://www.findbestapi.com/go/deepkey-top/) |
 | [PackyCode](https://www.findbestapi.com/site/packyapi-com/) | ¥0.5 / ¥2 | ¥2.25 / ¥6.75 | 信用卡 / App | ¥100 | 可开 | [去官网](https://www.findbestapi.com/go/packyapi-com/) |
+| [RunAPI](https://www.findbestapi.com/site/runapi-co/) | ¥0.503 / ¥2.01 | ¥4.52 / ¥13.57 | 支付宝 / 信用卡 | ¥7 | 可开 | [去官网](https://www.findbestapi.com/go/runapi-co/) |
+| [H API](https://www.findbestapi.com/site/h-api/) | ¥0.6 / ¥2.4 | ¥2.7 / ¥8.1 | 支付宝 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/h-api/) |
+| [UU API](https://www.findbestapi.com/site/uuapi-net/) | ¥0.65 / ¥2.6 | ¥3.37 / ¥10.12 | 支付宝 / 微信 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/uuapi-net/) |
+| [OpenOx](https://www.findbestapi.com/site/openox/) | ¥1.26 / ¥5.04 | ¥5.54 / ¥16.63 | 支付宝 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/openox/) |
 | [CCTQ](https://www.findbestapi.com/site/cctq/) | ¥1.4 / ¥5.6 | — | 支付宝 | ¥1 | — | [去官网](https://www.findbestapi.com/go/cctq/) |
-| [A6API](https://www.findbestapi.com/site/a6api/) | ¥0.012 / ¥0.047 | ¥0.065 / ¥0.195 | — | — | — | [去官网](https://www.findbestapi.com/go/a6api/) |
+| [SSSAICode](https://www.findbestapi.com/site/sssaicode-com/) | ¥2 / ¥8 | ¥9 / ¥27 | 支付宝 / USDT | ¥10 | 可开 | [去官网](https://www.findbestapi.com/go/sssaicode-com/) |
+| [LinksAPI](https://www.findbestapi.com/site/linksapi/) | ¥3 / ¥12 | ¥13.5 / ¥40.5 | 支付宝 / 微信 / Stripe | ¥1 | — | [去官网](https://www.findbestapi.com/go/linksapi/) |
 
 ## 全部中转站报价
 
@@ -181,7 +181,7 @@
 
 **DeepSeek 中转站和 DeepSeek 官方 API 有什么区别？**
 
-DeepSeek 官方可以直接充值；用中转站的好处是一个 key 同时调用 DeepSeek、GPT、Claude 等多家模型，账单也在一处。价格各站不同，下表是今天的报价。
+DeepSeek 官方可以直接充值。走中转站图的是余额和账单合在一处：DeepSeek、GPT、Claude 共用一份余额，不用每家各充一笔。各站价格不同，下表是今天的报价。
 
 **DeepSeek 中转站怎么接入？**
 
@@ -189,10 +189,10 @@ DeepSeek 官方可以直接充值；用中转站的好处是一个 key 同时调
 
 **怎么挑 DeepSeek 中转站？**
 
-先比下表的输入、输出价，再看支付方式和起充金额；先小额充值试过速度和稳定性再加钱。
+先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 149 家里，支付宝能充 28 家、写明能开发票 27 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
 
 ---
 
-网页版：[DeepSeek中转站推荐 2026：140+ 家API价格对比](https://findbestapi.github.io/ai-member-prices/relay/deepseek/) · [AI 会员代充价格](../README.md) · [甄选 API](https://www.findbestapi.com/) · [模型价格对比](https://www.findbestapi.com/price/)
+网页版：[DeepSeek中转站推荐：140+家API价格对比 2026](https://findbestapi.github.io/ai-member-prices/relay/deepseek/) · [AI 会员代充价格](../README.md) · [甄选 API](https://www.findbestapi.com/) · [模型价格对比](https://www.findbestapi.com/price/)
 
 <sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-18</sub>
