@@ -60,6 +60,7 @@
 | [RunAPI](https://www.findbestapi.com/site/runapi-co/) | runapi.host | ¥1 / ¥5 | ¥3.17 / ¥15.83 | ¥2.85 / ¥14.25 | 支付宝 / 信用卡 | ¥7 |
 | MoleAPI | home.moleapi.com | ¥1.36 / ¥6.79 | ¥8.14 / ¥40.71 | ¥10.86 / ¥54.28 | 支付宝 / 微信 / 加密支付 / 全球支付 | $1（实付¥6.8） |
 | PingCode | pingcode.ai | ¥1.4 / ¥7 | ¥4.2 / ¥21 | — | 微信 / 支付宝 | ¥9.9 |
+| CoreCode | corecode.live | ¥1.4 / ¥7 | ¥7.6 / ¥38 | — | — | ¥10 |
 | OmniaKey | omniakey.com | ¥1.53 / ¥7.63 | ¥7.6 / ¥38 | ¥5.43 / ¥27.14 | 支付宝 / Stripe | ¥5 |
 | 卡皮巴拉API | kapibala.asia | ¥2 / ¥10 | ¥2.4 / ¥12 | — | 支付宝 | ¥3 |
 | 维塔斯 AI | aiwts.com | ¥2 / ¥10 | ¥4 / ¥20 | ¥5.25 / ¥26.25 | 支付宝 / 微信 | ¥10 |

@@ -1,4 +1,4 @@
-# DeepSeek中转站推荐：140+家API价格对比 2026
+# DeepSeek中转站推荐：150+家API价格对比 2026
 
 [AI 会员代充价格](../README.md) › API 中转站价格 · [全部中转站](README.md) · [GPT / OpenAI](gpt.md) · [Claude](claude.md) · [Gemini](gemini.md) · [Codex](codex.md) · [Grok](grok.md) · **DeepSeek** · [GLM / 智谱](glm.md) · [Kimi](kimi.md) · [支付宝能充](alipay.md) · [能开发票](invoice.md)
 
@@ -80,7 +80,7 @@
 | [PackyCode](https://www.findbestapi.com/site/packyapi-com/) | packyapi.ai | ¥0.5 / ¥2 | ¥2.25 / ¥6.75 | 信用卡 / App | ¥100 | 可开 |
 | apikl.ai | apikl.ai | ¥0.5 / ¥2 | ¥2.31 / ¥6.93 | — | — | 可开 |
 | STA1N API | cdn.sta1n.cn | ¥0.5 / ¥2 | ¥3.6 / ¥10.8 | — | — | — |
-| GoAI | goai.im | ¥0.5 / ¥1 | ¥6 / ¥12 | 易支付 / Stripe | ¥1 | — |
+| GoAI | goai.im | ¥0.5 / ¥1 | ¥6 / ¥12 | Stripe / 易支付 | ¥1 | — |
 | [RunAPI](https://www.findbestapi.com/site/runapi-co/) | runapi.host | ¥0.503 / ¥2.01 | ¥4.52 / ¥13.57 | 支付宝 / 信用卡 | ¥7 | 可开 |
 | 佛爷API | 988665.xyz | ¥0.543 / ¥2.17 | ¥2.44 / ¥7.33 | — | — | — |
 | V-API | v-api.de5.net | ¥0.547 / ¥2.19 | ¥2.41 / ¥7.23 | — | — | — |
@@ -144,6 +144,7 @@
 | Getezo中转 | getezo.com | ¥2.04 / ¥8.14 | ¥9.16 / ¥27.48 | — | — | — |
 | OfoxAI | ofox.io | ¥2.04 / ¥8.14 | — | — | — | — |
 | Api.Airforce | api.airforce | ¥2.24 / ¥8.96 | ¥6.79 / ¥13.5 | — | — | — |
+| 枢码AI | hubcodex.fun | ¥2.4 / ¥9.6 | ¥10.8 / ¥32.4 | 易支付 | ¥1 | — |
 | Kuaipao API | kuaipao.pro | ¥2.52 / ¥9.9 | ¥18 / ¥54 | — | — | — |
 | Meinianda AI | meinianda.top | ¥2.71 / ¥10.86 | ¥4.07 / ¥8.14 | — | — | — |
 | 刀刀刀 | codexapis.com | ¥2.71 / ¥10.86 | ¥12 / ¥36.1 | Stripe / 信用卡 | — | — |
@@ -189,10 +190,10 @@ DeepSeek 官方可以直接充值。走中转站图的是余额和账单合在�
 
 **怎么挑 DeepSeek 中转站？**
 
-先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 149 家里，支付宝能充 28 家、写明能开发票 27 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
+先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 150 家里，支付宝能充 28 家、写明能开发票 27 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
 
 ---
 
-网页版：[DeepSeek中转站推荐：140+家API价格对比 2026](https://findbestapi.github.io/ai-member-prices/relay/deepseek/) · [AI 会员代充价格](../README.md) · [甄选 API](https://www.findbestapi.com/) · [模型价格对比](https://www.findbestapi.com/price/)
+网页版：[DeepSeek中转站推荐：150+家API价格对比 2026](https://findbestapi.github.io/ai-member-prices/relay/deepseek/) · [AI 会员代充价格](../README.md) · [甄选 API](https://www.findbestapi.com/) · [模型价格对比](https://www.findbestapi.com/price/)
 
 <sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-18</sub>

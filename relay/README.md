@@ -174,6 +174,7 @@ ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推
 | island AI Coding | codex789.com | ¥0.8 / ¥4 | ¥0.8 / ¥1.2 | — | — | 支付宝 | ¥10 |
 | OpenToken | otokapi.com | ¥0.8 / ¥4 | ¥0.8 / ¥1.2 | — | — | — | — |
 | 土豆 | 2dou.net | ¥0.8 / ¥4 | ¥0.8 / ¥1.2 | — | — | 易支付 / 支付宝 / 微信 | ¥1 |
+| 枢码AI | hubcodex.fun | ¥0.8 / ¥4 | ¥2 / ¥3 | — | — | 易支付 | ¥1 |
 | GPTeam | portal.gpteamservices.com | ¥0.814 / ¥4.07 | ¥0.814 / ¥4.07 | ¥3.26 / ¥16.29 | ¥4.07 / ¥20.36 | 支付宝 / 微信 | ¥7 |
 | AIPM | emtf.aipm9527.site | ¥0.882 / ¥4.41 | ¥0.882 / ¥4.41 | ¥3.53 / ¥17.64 | ¥4.41 / ¥22.05 | — | — |
 | For API | foropencode.com | ¥0.882 / ¥4.41 | ¥0.882 / ¥4.41 | ¥3.53 / ¥17.64 | ¥4.41 / ¥22.05 | 支付宝 | — |
@@ -236,7 +237,7 @@ ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推
 | 147 AI | 147ai.com | ¥2 / ¥10 | ¥2 / ¥10 | ¥8 / ¥40 | ¥10 / ¥50 | — | — |
 | AI8 | ai8.my | ¥2 / ¥10 | ¥2 / ¥10 | ¥8 / ¥40 | ¥10 / ¥50 | — | — |
 | Apilio | apilio.ai | ¥2 / ¥10 | ¥2 / ¥10 | ¥8 / ¥40 | ¥10 / ¥50 | — | — |
-| BMCCA | cca.maya.today | ¥2 / ¥10 | ¥2 / ¥10 | ¥8 / ¥40 | ¥10 / ¥50 | — | — |
+| BMCCA | cca.maya.today | ¥2 / ¥10 | ¥2 / ¥10 | ¥8 / ¥40 | ¥10 / ¥50 | 支付宝 / 微信 | ¥1 |
 | Code0.ai | code0.ai | ¥2 / ¥10 | ¥2 / ¥10 | ¥8 / ¥40 | ¥10 / ¥50 | 支付宝 / 微信 / Stripe | ¥1 |
 | comfly | ai.comfly.org | ¥2 / ¥10 | ¥2 / ¥10 | ¥8 / ¥40 | ¥10 / ¥50 | — | — |
 | Kkaiapi | kkaiapi.com | ¥2 / ¥10 | ¥2 / ¥10 | ¥8 / ¥40 | ¥10 / ¥50 | — | — |
@@ -446,6 +447,7 @@ ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推
 | DawCode | dawcode.ai | ¥1.8 / ¥9 | ¥8 / ¥40 | ¥10 / ¥50 | ¥0.9 / ¥4.5 | 微信 | ¥100 |
 | 4Router | 4router.net | ¥1.8 / ¥9 | ¥9.6 / ¥48 | ¥12 / ¥60 | ¥0.9 / ¥4.5 | — | — |
 | ZeroCat | zero.cat | ¥1.8 / ¥9 | ¥12 / ¥60 | ¥15 / ¥75 | ¥0.9 / ¥4.5 | — | — |
+| 枢码AI | hubcodex.fun | ¥2 / ¥10 | ¥4 / ¥20 | ¥1.25 / ¥6.25 | ¥1 / ¥5 | 易支付 | ¥1 |
 | synterolink | synterolink.com | ¥2 / ¥10 | ¥4 / ¥20 | ¥5 / ¥25 | ¥0.667 / ¥3.33 | 支付宝 / 微信 / USDT | ¥20 |
 | Claude API | claude-api.org | ¥2 / ¥10 | ¥4 / ¥20 | ¥5 / ¥25 | ¥1 / ¥5 | 易支付 / nowpayments | — |
 | [LinkAPI](https://www.findbestapi.com/site/linkapi-ai/) | linkapi.ai | ¥2 / ¥10 | ¥4 / ¥20 | ¥5 / ¥25 | ¥1 / ¥5 | 支付宝 / 微信 | ¥1 |
@@ -503,7 +505,7 @@ ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推
 | 聪明AI | congmingai.com | ¥4 / ¥20 | ¥8 / ¥40 | ¥10 / ¥50 | ¥2 / ¥10 | 易支付 / 支付宝 | ¥100 |
 | chatfire | api.chatfire.cn | ¥4 / ¥20 | ¥8 / ¥40 | ¥10 / ¥50 | — | — | — |
 | lyapunov-api | api.lyapunov-vector.com | ¥4 / ¥20 | ¥8 / ¥40 | ¥10 / ¥50 | — | — | — |
-| BMCCA | cca.maya.today | ¥4 / ¥20 | ¥8 / ¥40 | — | ¥2 / ¥10 | — | — |
+| BMCCA | cca.maya.today | ¥4 / ¥20 | ¥8 / ¥40 | — | ¥2 / ¥10 | 支付宝 / 微信 | ¥1 |
 | 小马API | xiaoma.best | ¥4 / ¥20 | ¥20 / ¥100 | ¥25 / ¥125 | ¥1.33 / ¥6.67 | 微信 | ¥1 |
 | Kkaiapi | kkaiapi.com | ¥4 / ¥20 | — | — | ¥2 / ¥10 | — | — |
 | ClaudeCN | claudecn.top | ¥4 / ¥20 | — | — | — | — | — |
@@ -833,6 +835,7 @@ ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推
 | USA-零 | usa0.top | — | — | ¥1.6 / ¥9.6 | — | 易支付 | ¥1 |
 | Yunbay | yunbay.xyz | — | — | ¥2 / ¥12 | — | — | ¥1 |
 | Grox | mcgrox.top | — | — | ¥4 / ¥24 | — | 支付宝 | ¥1 |
+| 枢码AI | hubcodex.fun | — | — | ¥4 / ¥16 | — | 易支付 | ¥1 |
 | DIT.ai | dit.ai | — | — | ¥5.43 / ¥32.57 | — | — | — |
 | 147 AI | 147ai.com | — | — | ¥8 / ¥48 | ¥3 / ¥15 | — | — |
 | AiHao - AI智能体的加油站 | aihao.ai | — | — | ¥13.57 / ¥81.43 | ¥5.09 / ¥25.45 | — | — |
@@ -956,12 +959,13 @@ ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推
 | Wokey | wokey.ai | ¥1.9 / ¥5.7 | — | — |
 | Apilio | apilio.ai | ¥2 / ¥6 | — | — |
 | Ark API | windhub.cc | ¥2 / ¥6 | — | — |
-| BMCCA | cca.maya.today | ¥2 / ¥6 | — | — |
+| BMCCA | cca.maya.today | ¥2 / ¥6 | 支付宝 / 微信 | ¥1 |
 | comfly | ai.comfly.org | ¥2 / ¥6 | — | — |
 | Die Ge | diegeai.com | ¥2 / ¥6 | 微信 | ¥10 |
 | Kkaiapi | kkaiapi.com | ¥2 / ¥6 | — | — |
 | Uiuihao API | api.uiuihao.com | ¥2 / ¥6 | — | — |
 | 小水管 | api.pie-xian.com | ¥2 / ¥6 | — | — |
+| 枢码AI | hubcodex.fun | ¥2 / ¥6 | 易支付 | ¥1 |
 | aicost API | aicost.me | ¥2.04 / ¥6.11 | 微信 | — |
 | For API | foropencode.com | ¥2.04 / ¥6.11 | 支付宝 | — |
 | HaoAI | hao.ai | ¥2.04 / ¥6.11 | — | — |
@@ -1078,7 +1082,7 @@ ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推
 | [PackyCode](https://www.findbestapi.com/site/packyapi-com/) | packyapi.ai | ¥0.5 / ¥2 | ¥2.25 / ¥6.75 | 信用卡 / App | ¥100 |
 | apikl.ai | apikl.ai | ¥0.5 / ¥2 | ¥2.31 / ¥6.93 | — | — |
 | STA1N API | cdn.sta1n.cn | ¥0.5 / ¥2 | ¥3.6 / ¥10.8 | — | — |
-| GoAI | goai.im | ¥0.5 / ¥1 | ¥6 / ¥12 | 易支付 / Stripe | ¥1 |
+| GoAI | goai.im | ¥0.5 / ¥1 | ¥6 / ¥12 | Stripe / 易支付 | ¥1 |
 | [RunAPI](https://www.findbestapi.com/site/runapi-co/) | runapi.host | ¥0.503 / ¥2.01 | ¥4.52 / ¥13.57 | 支付宝 / 信用卡 | ¥7 |
 | 佛爷API | 988665.xyz | ¥0.543 / ¥2.17 | ¥2.44 / ¥7.33 | — | — |
 | V-API | v-api.de5.net | ¥0.547 / ¥2.19 | ¥2.41 / ¥7.23 | — | — |
@@ -1142,6 +1146,7 @@ ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推
 | Getezo中转 | getezo.com | ¥2.04 / ¥8.14 | ¥9.16 / ¥27.48 | — | — |
 | OfoxAI | ofox.io | ¥2.04 / ¥8.14 | — | — | — |
 | Api.Airforce | api.airforce | ¥2.24 / ¥8.96 | ¥6.79 / ¥13.5 | — | — |
+| 枢码AI | hubcodex.fun | ¥2.4 / ¥9.6 | ¥10.8 / ¥32.4 | 易支付 | ¥1 |
 | Kuaipao API | kuaipao.pro | ¥2.52 / ¥9.9 | ¥18 / ¥54 | — | — |
 | Meinianda AI | meinianda.top | ¥2.71 / ¥10.86 | ¥4.07 / ¥8.14 | — | — |
 | 刀刀刀 | codexapis.com | ¥2.71 / ¥10.86 | ¥12 / ¥36.1 | Stripe / 信用卡 | — |
@@ -1282,6 +1287,7 @@ ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推
 | 元衡 API | meta-api.vip | ¥34.65 / ¥173.25 | — | — |
 | ZZ OneAPI Console | zzone.cc.cd | ¥35.28 / ¥176.42 | — | — |
 | [LinksAPI](https://www.findbestapi.com/site/linksapi/) | linksapi.cn | ¥37.5 / ¥187.5 | 支付宝 / 微信 / Stripe | ¥1 |
+| 枢码AI | hubcodex.fun | ¥40 / ¥200 | 易支付 | ¥1 |
 | Rainbow Gate AI | rainbowgate.top | ¥40.71 / ¥203.56 | 支付宝 | — |
 | 星期天AI | weekly-day.top | ¥40.71 / ¥203.56 | — | — |
 | 迈威AI | mxwell.ai | ¥47.5 / ¥237.49 | — | — |
@@ -1406,6 +1412,7 @@ ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推
 | 元衡 API | meta-api.vip | ¥14 / ¥49 | — | — |
 | ZZ OneAPI Console | zzone.cc.cd | ¥14.11 / ¥49.4 | — | — |
 | Kuaipao API | kuaipao.pro | ¥14.4 / ¥50.4 | — | — |
+| 枢码AI | hubcodex.fun | ¥16 / ¥56 | 易支付 | ¥1 |
 | 星期天AI | weekly-day.top | ¥16.29 / ¥57 | — | — |
 | CC中转 | yancc.cloud | ¥21.71 / ¥76 | — | — |
 | 刀刀刀 | codexapis.com | ¥21.71 / ¥76 | Stripe / 信用卡 | — |

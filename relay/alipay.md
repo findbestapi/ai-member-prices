@@ -1,8 +1,8 @@
-# 支付宝能充的API中转站 2026：70+ 家起充金额对比
+# 支付宝能充的API中转站 2026：80+ 家起充金额对比
 
 [AI 会员代充价格](../README.md) › API 中转站价格 · [全部中转站](README.md) · [GPT / OpenAI](gpt.md) · [Claude](claude.md) · [Gemini](gemini.md) · [Codex](codex.md) · [Grok](grok.md) · [DeepSeek](deepseek.md) · [GLM / 智谱](glm.md) · [Kimi](kimi.md) · **支付宝能充** · [能开发票](invoice.md)
 
-今天能用支付宝充值的 API 中转站有 70+ 家，起充最低 ¥1。最低价（每百万 token）：GPT-6.2 Sol 输入 ¥0.08 / 输出 ¥0.4（合聚API）。
+今天能用支付宝充值的 API 中转站有 80+ 家，起充最低 ¥1。最低价（每百万 token）：GPT-6.2 Sol 输入 ¥0.08 / 输出 ¥0.4（合聚API）。
 
 今天能用支付宝充值的 API 中转站，按起充金额从低到高排，同时列出主流模型的报价。
 
@@ -53,6 +53,7 @@
 | Taomu | taomu.xyz | ¥1.1 / ¥5.5 | ¥0.48 / ¥2.4 | — | ¥1 | — |
 | 智元API | chaozhiyuanai.com | ¥1.2 / ¥6 | ¥3.2 / ¥16 | — | ¥1 | — |
 | [LinksAPI](https://www.findbestapi.com/site/linksapi/) | linksapi.cn | ¥1.4 / ¥7 | ¥0.95 / ¥4.75 | ¥1.3 / ¥6.5 | ¥1 | — |
+| BMCCA | cca.maya.today | ¥2 / ¥10 | ¥4 / ¥20 | — | ¥1 | — |
 | Code0.ai | code0.ai | ¥2 / ¥10 | ¥6 / ¥30 | ¥3 / ¥15 | ¥1 | 可开 |
 | ccgo | ccgoai.club | ¥3.5 / ¥17.5 | ¥6.6 / ¥33 | — | ¥1 | — |
 | Grox | mcgrox.top | ¥10 / ¥50 | ¥4 / ¥20 | — | ¥1 | — |
@@ -111,7 +112,7 @@
 
 **哪些 API 中转站能用支付宝充值？**
 
-下表就是今天支持支付宝的 70+ 家，按起充金额从低到高排，起充一样的再按 GPT 价格排。
+下表就是今天支持支付宝的 80+ 家，按起充金额从低到高排，起充一样的再按 GPT 价格排。
 
 **支付宝最低充多少？**
 
@@ -123,6 +124,6 @@
 
 ---
 
-网页版：[支付宝能充的API中转站 2026：70+ 家起充金额对比](https://findbestapi.github.io/ai-member-prices/relay/alipay/) · [AI 会员代充价格](../README.md) · [甄选 API](https://www.findbestapi.com/) · [模型价格对比](https://www.findbestapi.com/price/)
+网页版：[支付宝能充的API中转站 2026：80+ 家起充金额对比](https://findbestapi.github.io/ai-member-prices/relay/alipay/) · [AI 会员代充价格](../README.md) · [甄选 API](https://www.findbestapi.com/) · [模型价格对比](https://www.findbestapi.com/price/)
 
 <sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-18</sub>

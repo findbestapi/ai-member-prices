@@ -8,10 +8,10 @@
 | [Gemini](relay/gemini.md) | 210+ 家 | Gemini 4 Argon ¥0.147 / ¥0.735 |
 | [Codex](relay/codex.md) | 110+ 家 | GPT-6.2 Sol ¥0.058 / ¥0.29 |
 | [Grok](relay/grok.md) | 160+ 家 | Grok 4.7 ¥0.002 / ¥0.006 |
-| [DeepSeek](relay/deepseek.md) | 140+ 家 | DeepSeek V4.1 Flash ¥0.009 / ¥0.026 |
+| [DeepSeek](relay/deepseek.md) | 150+ 家 | DeepSeek V4.1 Flash ¥0.009 / ¥0.026 |
 | [GLM / 智谱](relay/glm.md) | 120+ 家 | GLM-5.3 ¥0.065 / ¥0.205 |
 | [Kimi](relay/kimi.md) | 110+ 家 | Kimi K3 ¥0.024 / ¥0.122 |
-| [支付宝能充](relay/alipay.md) | 70+ 家 | GPT-6.2 Sol ¥0.08 / ¥0.4 |
+| [支付宝能充](relay/alipay.md) | 80+ 家 | GPT-6.2 Sol ¥0.08 / ¥0.4 |
 | [能开发票](relay/invoice.md) | 40+ 家 | GPT-6.2 Sol ¥0.08 / ¥0.4 |
 | [全部中转站](relay/README.md) | 360+ 家 | GPT、Claude、Gemini、Grok、DeepSeek、Kimi、GLM 分厂商列全 |
 

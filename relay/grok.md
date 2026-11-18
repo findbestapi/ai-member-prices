@@ -125,12 +125,13 @@
 | Wokey | wokey.ai | ¥1.9 / ¥5.7 | — | — | — |
 | Apilio | apilio.ai | ¥2 / ¥6 | — | — | — |
 | Ark API | windhub.cc | ¥2 / ¥6 | — | — | — |
-| BMCCA | cca.maya.today | ¥2 / ¥6 | — | — | — |
+| BMCCA | cca.maya.today | ¥2 / ¥6 | 支付宝 / 微信 | ¥1 | — |
 | comfly | ai.comfly.org | ¥2 / ¥6 | — | — | — |
 | Die Ge | diegeai.com | ¥2 / ¥6 | 微信 | ¥10 | 可开 |
 | Kkaiapi | kkaiapi.com | ¥2 / ¥6 | — | — | — |
 | Uiuihao API | api.uiuihao.com | ¥2 / ¥6 | — | — | — |
 | 小水管 | api.pie-xian.com | ¥2 / ¥6 | — | — | — |
+| 枢码AI | hubcodex.fun | ¥2 / ¥6 | 易支付 | ¥1 | — |
 | aicost API | aicost.me | ¥2.04 / ¥6.11 | 微信 | — | — |
 | For API | foropencode.com | ¥2.04 / ¥6.11 | 支付宝 | — | — |
 | HaoAI | hao.ai | ¥2.04 / ¥6.11 | — | — | — |
@@ -138,7 +139,7 @@
 | Moyuu | moyuu.cc | ¥2.04 / ¥6.11 | — | — | — |
 | 刀刀刀 | codexapis.com | ¥2.04 / ¥6.11 | Stripe / 信用卡 | — | — |
 | AIAPI World | aiapi.world | ¥2.08 / ¥6.24 | — | — | — |
-| CoreCode | corecode.live | ¥2.4 / ¥7.2 | — | ¥10 | — |
+| CoreCode | corecode.live | ¥2.4 / ¥7.2 | — | ¥10 | 可开 |
 | Getezo中转 | getezo.com | ¥2.44 / ¥7.33 | — | — | — |
 | 龙虾计划 | openclawplan.com | ¥2.54 / ¥5.09 | — | — | — |
 | CC中转 | yancc.cloud | ¥2.71 / ¥8.14 | — | — | — |
@@ -204,7 +205,7 @@
 
 **怎么挑 Grok 中转站？**
 
-先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 160 家里，支付宝能充 33 家、写明能开发票 29 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
+先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 161 家里，支付宝能充 34 家、写明能开发票 30 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
 
 ---
 
