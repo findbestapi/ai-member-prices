@@ -18,12 +18,12 @@
 | [CCTQ](https://www.findbestapi.com/site/cctq/) | ¥14 / ¥70 | 支付宝 | ¥1 | — | [去官网](https://www.findbestapi.com/go/cctq/) |
 | [OpenOx](https://www.findbestapi.com/site/openox/) | ¥14 / ¥70 | 支付宝 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/openox/) |
 | [UU API](https://www.findbestapi.com/site/uuapi-net/) | ¥14 / ¥70 | 支付宝 / 微信 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/uuapi-net/) |
+| [Cooper-API](https://www.findbestapi.com/site/cooper-api-com/) | ¥14.25 / ¥71.25 | 微信 | ¥7 | — | [去官网](https://www.findbestapi.com/go/cooper-api-com/) |
 | [APINebula](https://www.findbestapi.com/site/apinebula-com/) | ¥17 / ¥85 | 支付宝 | ¥20 | 可开 | [去官网](https://www.findbestapi.com/go/apinebula-com/) |
-| [LinksAPI](https://www.findbestapi.com/site/linksapi/) | ¥37.5 / ¥187.5 | 支付宝 / 微信 / Stripe | ¥1 | — | [去官网](https://www.findbestapi.com/go/linksapi/) |
 
 ## 全部中转站报价
 
-<sub>¥/百万 token，输入 / 输出，2026-11-18 更新</sub>
+<sub>¥/百万 token，输入 / 输出，2026-11-19 更新</sub>
 
 | 站名 | 域名 | Kimi K3 | 支付方式 | 起充 | 开票 |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | 云枢 API | nextpro.top | ¥4 / ¥20 | — | — | — |
 | 深空 API | xkrelay.com | ¥4 / ¥20 | — | — | — |
 | 菜鸟AI | buddybackend.cloud | ¥4 / ¥20 | — | — | — |
+| OmniaKey | omniakey.com | ¥4.07 / ¥20.36 | 支付宝 / Stripe | ¥5 | 可开 |
 | Wokey | wokey.ai | ¥4.07 / ¥20.36 | — | — | — |
 | Luxery API | luxerycaseglobal.com | ¥4.5 / ¥22.5 | 支付宝 / 微信 | — | 可开 |
 | 可乐AI | code28.ccwu.cc | ¥5 / ¥25.01 | — | — | — |
@@ -96,6 +97,7 @@
 | comfly | ai.comfly.org | ¥14 / ¥70 | — | — | — |
 | [OpenOx](https://www.findbestapi.com/site/openox/) | openox.tech | ¥14 / ¥70 | 支付宝 | ¥1 | 可开 |
 | [UU API](https://www.findbestapi.com/site/uuapi-net/) | uuapi.io | ¥14 / ¥70 | 支付宝 / 微信 | ¥1 | 可开 |
+| [Cooper-API](https://www.findbestapi.com/site/cooper-api-com/) | cooper-api.com | ¥14.25 / ¥71.25 | 微信 | ¥7 | — |
 | ToAPIs | toapis.cn | ¥14.25 / ¥71.25 | — | — | — |
 | Xcode | xcode.best | ¥15 / ¥75 | 支付宝 | ¥1 | 可开 |
 | 聚星AI | juxingai.xyz | ¥15 / ¥75 | 支付宝 / 微信 | ¥10 | 可开 |
@@ -104,7 +106,6 @@
 | AIsa | aisa.one | ¥16.29 / ¥81.43 | — | $10 | — |
 | APIB | apib.ai | ¥16.29 / ¥81.43 | — | — | — |
 | Kie.ai | kie.ai | ¥16.29 / ¥81.43 | — | — | — |
-| OmniaKey | omniakey.com | ¥16.29 / ¥81.43 | 支付宝 / Stripe | ¥5 | 可开 |
 | SU8 Codes | su8.codes | ¥16.29 / ¥81.43 | — | — | — |
 | [APINebula](https://www.findbestapi.com/site/apinebula-com/) | apinebula.ai | ¥17 / ¥85 | 支付宝 | ¥20 | 可开 |
 | LantAPI | lantapi.top | ¥18 / ¥90 | 微信 | ¥10 | 可开 |
@@ -156,10 +157,10 @@
 
 **怎么挑 Kimi 中转站？**
 
-先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 116 家里，支付宝能充 26 家、写明能开发票 25 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
+先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 117 家里，支付宝能充 26 家、写明能开发票 25 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
 
 ---
 
 网页版：[Kimi中转站推荐：110+家API价格对比 2026](https://findbestapi.github.io/ai-member-prices/relay/kimi/) · [AI 会员代充价格](../README.md) · [甄选 API](https://www.findbestapi.com/) · [模型价格对比](https://www.findbestapi.com/price/)
 
-<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-18</sub>
+<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-19</sub>

@@ -1,11 +1,11 @@
 <!-- relay:start（scripts/ghrelay/gen.py 生成，别手改） -->
 **[API 中转站价格](relay/README.md)** ｜ **[AI 会员代充价格](#ai-会员代充价格每日更新)**
 
-| API 中转站 | 站数 | 今日最低（¥/百万 token，输入 / 输出）· 2026-11-18 |
+| API 中转站 | 站数 | 今日最低（¥/百万 token，输入 / 输出）· 2026-11-19 |
 |---|---|---|
 | [GPT / OpenAI](relay/gpt.md) | 280+ 家 | GPT-6.2 Sol ¥0.033 / ¥0.164 |
 | [Claude](relay/claude.md) | 300+ 家 | Claude Opus 5.5 ¥0.12 / ¥0.6 |
-| [Gemini](relay/gemini.md) | 210+ 家 | Gemini 4 Argon ¥0.147 / ¥0.735 |
+| [Gemini](relay/gemini.md) | 210+ 家 | Gemini 4 Neon ¥0.11 / ¥0.552 |
 | [Codex](relay/codex.md) | 110+ 家 | GPT-6.2 Sol ¥0.058 / ¥0.29 |
 | [Grok](relay/grok.md) | 160+ 家 | Grok 4.7 ¥0.002 / ¥0.006 |
 | [DeepSeek](relay/deepseek.md) | 150+ 家 | DeepSeek V4.1 Flash ¥0.009 / ¥0.026 |

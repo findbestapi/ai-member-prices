@@ -2,24 +2,24 @@
 
 [AI 会员代充价格](../README.md) › API 中转站价格 · **全部中转站** · [GPT / OpenAI](gpt.md) · [Claude](claude.md) · [Gemini](gemini.md) · [Codex](codex.md) · [Grok](grok.md) · [DeepSeek](deepseek.md) · [GLM / 智谱](glm.md) · [Kimi](kimi.md) · [支付宝能充](alipay.md) · [能开发票](invoice.md)
 
-今天中转最低价（每百万 token）：GPT-6.2 Sol 输入 ¥0.033 / 输出 ¥0.164（SixthSense LLM），Claude Opus 5.5 输入 ¥0.12 / 输出 ¥0.6（Kun-Api），Gemini 4 Argon 输入 ¥0.147 / 输出 ¥0.735（OpenLux）。
+今天中转最低价（每百万 token）：GPT-6.2 Sol 输入 ¥0.033 / 输出 ¥0.164（SixthSense LLM），Claude Opus 5.5 输入 ¥0.12 / 输出 ¥0.6（Kun-Api），Gemini 4 Neon 输入 ¥0.11 / 输出 ¥0.552（OpenLux）。
 
 按厂商分节列出各家 API 中转站（AI 中转站）今天的模型报价，甄选推荐放在最前，全部中转站在后面按价格从低到高排。
 
 ## 甄选推荐
 
-| 站名 | GPT-6.2 Sol | Claude Opus 5.5 | Gemini 4 Argon | 支付方式 | 起充 | 开票 | 入口 |
+| 站名 | GPT-6.2 Sol | Claude Opus 5.5 | Gemini 4 Neon | 支付方式 | 起充 | 开票 | 入口 |
 |---|---|---|---|---|---|---|---|
 | [ai98pro](https://www.findbestapi.com/site/ai98pro/) | ¥0.058 / ¥0.29 | ¥0.48 / ¥2.4 | — | — | — | — | [去官网](https://www.findbestapi.com/go/ai98pro/) |
-| [A6API](https://www.findbestapi.com/site/a6api/) | ¥0.065 / ¥0.326 | ¥0.266 / ¥1.33 | ¥0.277 / ¥1.38 | — | — | — | [去官网](https://www.findbestapi.com/go/a6api/) |
+| [A6API](https://www.findbestapi.com/site/a6api/) | ¥0.065 / ¥0.326 | ¥0.266 / ¥1.33 | ¥0.242 / ¥1.21 | — | — | — | [去官网](https://www.findbestapi.com/go/a6api/) |
 | [黑黑](https://www.findbestapi.com/site/heilovehei/) | ¥0.1 / ¥0.5 | ¥0.4 / ¥2 | — | — | — | — | [去官网](https://www.findbestapi.com/go/heilovehei/) |
-| [云影 API](https://www.findbestapi.com/site/yyapi-cloud/) | ¥0.16 / ¥0.8 | ¥0.6 / ¥3 | ¥1.4 / ¥7 | 支付宝 / 微信 | ¥1 | — | [去官网](https://www.findbestapi.com/go/yyapi-cloud/) |
-| [V-API](https://www.findbestapi.com/site/api-gpt-ge/) | ¥0.2 / ¥1 | ¥0.28 / ¥1.4 | ¥0.2 / ¥1 | 微信 / USDT | ¥12.5 | 可开 | [去官网](https://www.findbestapi.com/go/api-gpt-ge/) |
-| [deepkey](https://www.findbestapi.com/site/deepkey-top/) | ¥0.24 / ¥1.2 | ¥1.6 / ¥8 | ¥0.6 / ¥3 | 支付宝 / 微信 / USDT / 加密货币 | ¥5 | 可开 | [去官网](https://www.findbestapi.com/go/deepkey-top/) |
-| [OpenOx](https://www.findbestapi.com/site/openox/) | ¥0.24 / ¥1.2 | ¥3.2 / ¥16 | ¥2 / ¥10 | 支付宝 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/openox/) |
+| [云影 API](https://www.findbestapi.com/site/yyapi-cloud/) | ¥0.16 / ¥0.8 | ¥0.6 / ¥3 | ¥2.1 / ¥10.5 | 支付宝 / 微信 | ¥1 | — | [去官网](https://www.findbestapi.com/go/yyapi-cloud/) |
+| [V-API](https://www.findbestapi.com/site/api-gpt-ge/) | ¥0.2 / ¥1 | ¥0.28 / ¥1.4 | ¥0.3 / ¥1.5 | 微信 / USDT | ¥12.5 | 可开 | [去官网](https://www.findbestapi.com/go/api-gpt-ge/) |
+| [LinksAPI](https://www.findbestapi.com/site/linksapi/) | ¥0.2 / ¥1 | ¥0.95 / ¥4.75 | ¥2.44 / ¥12.19 | 支付宝 / 微信 / Stripe | ¥1 | — | [去官网](https://www.findbestapi.com/go/linksapi/) |
+| [deepkey](https://www.findbestapi.com/site/deepkey-top/) | ¥0.24 / ¥1.2 | ¥1.6 / ¥8 | ¥0.45 / ¥2.25 | 支付宝 / 微信 / USDT / 加密货币 | ¥5 | 可开 | [去官网](https://www.findbestapi.com/go/deepkey-top/) |
 | [jojocode](https://www.findbestapi.com/site/jojocode/) | ¥0.34 / ¥1.7 | ¥1.2 / ¥6 | — | Stripe | — | — | [去官网](https://www.findbestapi.com/go/jojocode/) |
-| [H API](https://www.findbestapi.com/site/h-api/) | ¥0.36 / ¥1.8 | ¥1.2 / ¥6 | ¥0.9 / ¥4.5 | 支付宝 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/h-api/) |
-| [ByteCat](https://www.findbestapi.com/site/bytecatcode-org/) | ¥0.4 / ¥2 | ¥0.4 / ¥2 | ¥1.6 / ¥8 | 支付宝 | ¥10 | 可开 | [去官网](https://www.findbestapi.com/go/bytecatcode-org/) |
+| [H API](https://www.findbestapi.com/site/h-api/) | ¥0.36 / ¥1.8 | ¥1.2 / ¥6 | ¥0.675 / ¥3.38 | 支付宝 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/h-api/) |
+| [OpenOx](https://www.findbestapi.com/site/openox/) | ¥0.4 / ¥2 | ¥1.16 / ¥5.79 | ¥3 / ¥15 | 支付宝 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/openox/) |
 
 ## 会员和中转哪个划算
 
@@ -33,7 +33,7 @@ ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推
 
 ### GPT 中转站报价
 
-<sub>¥/百万 token，输入 / 输出，2026-11-18 更新</sub>
+<sub>¥/百万 token，输入 / 输出，2026-11-19 更新</sub>
 
 | 站名 | 域名 | GPT-6.2 Sol | GPT-6.1 Sol | GPT-6.2 Astra | GPT-6 Astra | 支付方式 | 起充 |
 |---|---|---|---|---|---|---|---|
@@ -95,12 +95,12 @@ ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推
 | 高效中转站 | sub2.de5.net | ¥0.2 / ¥1 | ¥0.2 / ¥1 | ¥0.8 / ¥4 | ¥1 / ¥5 | 易支付 / 支付宝 | ¥1 |
 | Kun-Api | kunkun666.com | ¥0.2 / ¥1 | ¥0.2 / ¥0.3 | — | — | 支付宝 | ¥1 |
 | 聪明AI | congmingai.com | ¥0.2 / ¥1 | ¥0.2 / ¥0.3 | — | — | 易支付 / 支付宝 | ¥100 |
+| [LinksAPI](https://www.findbestapi.com/site/linksapi/) | linksapi.cn | ¥0.2 / ¥1 | ¥1.4 / ¥8.4 | ¥0.8 / ¥4 | ¥3.5 / ¥17.5 | 支付宝 / 微信 / Stripe | ¥1 |
 | KiosAPI | kiosapi.com | ¥0.204 / ¥1.02 | ¥0.204 / ¥1.02 | ¥0.814 / ¥4.07 | ¥1.02 / ¥5.09 | — | — |
 | DasuAPI | dasuapi.com | ¥0.21 / ¥1.05 | ¥0.21 / ¥1.05 | ¥0.84 / ¥4.2 | ¥1.05 / ¥5.25 | — | — |
 | [deepkey](https://www.findbestapi.com/site/deepkey-top/) | deepkey.top | ¥0.24 / ¥1.2 | ¥0.24 / ¥1.2 | ¥0.64 / ¥3.2 | ¥0.8 / ¥4 | 支付宝 / 微信 / USDT / 加密货币 | ¥5 |
 | Umiluxury API | umiluxury.com | ¥0.24 / ¥1.2 | ¥0.24 / ¥1.2 | ¥0.96 / ¥4.8 | ¥1.2 / ¥6 | — | — |
 | YM2API 0号机 | yyds.chybenzun.top | ¥0.24 / ¥1.2 | ¥0.24 / ¥1.2 | ¥0.96 / ¥4.8 | ¥1.2 / ¥6 | — | — |
-| [OpenOx](https://www.findbestapi.com/site/openox/) | openox.tech | ¥0.24 / ¥1.2 | ¥0.24 / ¥1.2 | ¥0.961 / ¥4.8 | ¥1.2 / ¥6 | 支付宝 | ¥1 |
 | 云智AI-稳定可靠 | yzcld.com | ¥0.25 / ¥1.25 | ¥0.25 / ¥1.25 | ¥1 / ¥5 | ¥1.25 / ¥6.25 | — | — |
 | CallAI中转 | sub.callai.one | ¥0.26 / ¥1.3 | ¥0.26 / ¥1.3 | ¥0.64 / ¥3.2 | ¥0.8 / ¥4 | — | — |
 | Hi-Code | hi-code.cc | ¥0.26 / ¥1.3 | ¥0.26 / ¥1.3 | ¥1.04 / ¥5.2 | ¥1.3 / ¥6.5 | — | — |
@@ -123,6 +123,7 @@ ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推
 | [H API](https://www.findbestapi.com/site/h-api/) | hapiopen.cc | ¥0.36 / ¥1.8 | ¥0.36 / ¥1.8 | ¥1.44 / ¥7.2 | ¥1.8 / ¥9 | 支付宝 | ¥1 |
 | 云枢 API | nextpro.top | ¥0.36 / ¥1.8 | ¥0.36 / ¥1.8 | ¥1.44 / ¥7.2 | ¥1.8 / ¥9 | — | — |
 | TK API | tkapi.cc.cd | ¥0.39 / ¥1.95 | ¥0.39 / ¥0.585 | ¥0.72 / ¥3.6 | ¥0.9 / ¥4.5 | 易支付 / 支付宝 / 微信 | ¥10 |
+| [OpenOx](https://www.findbestapi.com/site/openox/) | openox.tech | ¥0.4 / ¥2 | ¥0.24 / ¥1.2 | ¥1.6 / ¥8 | ¥1.2 / ¥6 | 支付宝 | ¥1 |
 | 97api | 97api.com | ¥0.4 / ¥2 | ¥0.4 / ¥2 | ¥1.6 / ¥8 | ¥2 / ¥10 | — | — |
 | [ByteCat](https://www.findbestapi.com/site/bytecatcode-org/) | bytecatcode.org | ¥0.4 / ¥2 | ¥0.4 / ¥2 | ¥1.6 / ¥8 | ¥2 / ¥10 | 支付宝 | ¥10 |
 | [CCTQ](https://www.findbestapi.com/site/cctq/) | cctq.ai | ¥0.4 / ¥2 | ¥0.4 / ¥2 | ¥1.6 / ¥8 | ¥2 / ¥10 | 支付宝 | ¥1 |
@@ -167,6 +168,7 @@ ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推
 | [APINebula](https://www.findbestapi.com/site/apinebula-com/) | apinebula.ai | ¥0.78 / ¥3.9 | ¥0.78 / ¥3.9 | ¥3.12 / ¥15.6 | ¥3.9 / ¥19.5 | 支付宝 | ¥20 |
 | AI神鸡 | aishenji.top | ¥0.8 / ¥4 | ¥0.8 / ¥1.2 | ¥0.8 / ¥4 | ¥1 / ¥5 | 易支付 / USDT | ¥1 |
 | EasyAI | easyai.host | ¥0.8 / ¥4 | ¥0.8 / ¥4 | ¥3.2 / ¥16 | ¥4 / ¥20 | — | — |
+| [RightCode](https://www.findbestapi.com/site/right-codes/) | rightapi.io | ¥0.8 / ¥4 | ¥0.8 / ¥4 | ¥3.2 / ¥16 | ¥4 / ¥20 | 支付宝 | — |
 | [SSSAICode](https://www.findbestapi.com/site/sssaicode-com/) | sssaiapi.com | ¥0.8 / ¥4 | ¥0.8 / ¥4 | ¥3.2 / ¥16 | ¥4 / ¥20 | 支付宝 / USDT | ¥10 |
 | Zeus-API | zeusnorun.com | ¥0.8 / ¥4 | ¥0.8 / ¥1.2 | ¥3.2 / ¥16 | ¥4 / ¥20 | 易支付 | ¥1 |
 | 球球Token | qiuqiutoken.net | ¥0.8 / ¥4 | ¥0.8 / ¥4 | ¥3.2 / ¥16 | ¥4 / ¥20 | 支付宝 / 微信 / Stripe | ¥1 |
@@ -195,6 +197,7 @@ ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推
 | USA-零 | usa0.top | ¥1 / ¥5 | ¥1 / ¥1.5 | — | — | 易支付 | ¥1 |
 | XINX | xinx.best | ¥1 / ¥5 | ¥1 / ¥1.5 | — | — | 易支付 | ¥10 |
 | 沃可思 | vvvox.ink | ¥1 / ¥5 | ¥1 / ¥1.5 | — | — | — | ¥1 |
+| 维塔斯 AI | aiwts.com | ¥1 / ¥5 | ¥2 / ¥10 | ¥8 / ¥40 | ¥8 / ¥40 | 支付宝 / 微信 | ¥10 |
 | [RunAPI](https://www.findbestapi.com/site/runapi-co/) | runapi.host | ¥1 / ¥5 | ¥1 / ¥5 | ¥4 / ¥20 | ¥5 / ¥25.02 | 支付宝 / 信用卡 | ¥7 |
 | SU8 Codes | su8.codes | ¥1.01 / ¥5.05 | ¥1.01 / ¥5.05 | ¥4.04 / ¥20.19 | ¥5.05 / ¥25.24 | — | — |
 | Meinianda AI | meinianda.top | ¥1.09 / ¥5.43 | ¥1.09 / ¥5.43 | ¥4.34 / ¥21.71 | ¥5.43 / ¥27.14 | — | — |
@@ -209,14 +212,13 @@ ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推
 | Wokey | wokey.ai | ¥1.22 / ¥6.11 | ¥1.22 / ¥6.11 | ¥2.99 / ¥14.93 | ¥3.73 / ¥18.66 | — | — |
 | DragonAPI | dragon3api.com | ¥1.22 / ¥6.11 | ¥1.22 / ¥6.11 | ¥4.89 / ¥24.43 | ¥6.11 / ¥30.53 | — | — |
 | Getezo中转 | getezo.com | ¥1.22 / ¥6.11 | ¥1.22 / ¥6.11 | ¥4.89 / ¥24.43 | ¥6.11 / ¥30.53 | — | — |
+| OmniaKey | omniakey.com | ¥1.22 / ¥6.11 | ¥1.53 / ¥9.16 | ¥4.89 / ¥24.43 | ¥6.11 / ¥30.53 | 支付宝 / Stripe | ¥5 |
 | aicost API | aicost.me | ¥1.36 / ¥6.79 | ¥1.36 / ¥6.79 | ¥5.43 / ¥27.14 | ¥6.79 / ¥33.93 | 微信 | — |
-| [Cooper-API](https://www.findbestapi.com/site/cooper-api-com/) | cooper-api.com | ¥1.36 / ¥6.79 | ¥1.36 / ¥6.79 | ¥5.43 / ¥27.14 | ¥6.79 / ¥33.93 | 微信 | ¥7 |
 | MoleAPI | home.moleapi.com | ¥1.36 / ¥6.79 | ¥1.36 / ¥6.79 | ¥5.43 / ¥27.14 | ¥6.79 / ¥33.93 | 支付宝 / 微信 / 加密支付 / 全球支付 | $1（实付¥6.8） |
 | ooioo | ooioo.work | ¥1.36 / ¥6.79 | ¥1.36 / ¥6.79 | ¥5.43 / ¥27.14 | ¥6.79 / ¥33.93 | — | — |
 | 刀刀刀 | codexapis.com | ¥1.36 / ¥6.79 | ¥1.36 / ¥6.79 | ¥5.43 / ¥27.14 | ¥6.79 / ¥33.93 | Stripe / 信用卡 | — |
 | 浮生云算 | fushengyunsuan.cn | ¥1.36 / ¥6.79 | ¥1.36 / ¥6.79 | ¥5.43 / ¥27.14 | ¥6.79 / ¥33.93 | — | — |
 | 鱼鱼连线 | yylx.io | ¥1.36 / ¥6.79 | ¥1.36 / ¥6.79 | ¥5.43 / ¥27.14 | ¥6.79 / ¥33.93 | — | — |
-| [LinksAPI](https://www.findbestapi.com/site/linksapi/) | linksapi.cn | ¥1.4 / ¥7 | ¥1.4 / ¥8.4 | ¥2.8 / ¥14 | ¥3.5 / ¥17.5 | 支付宝 / 微信 / Stripe | ¥1 |
 | CoreCode | corecode.live | ¥1.4 / ¥7 | ¥1.4 / ¥7 | ¥5.6 / ¥28 | ¥7 / ¥35 | — | ¥10 |
 | PingCode | pingcode.ai | ¥1.4 / ¥7 | ¥1.4 / ¥7 | ¥5.6 / ¥28 | ¥7 / ¥35 | 微信 / 支付宝 | ¥9.9 |
 | TokOne | tokone.ai | ¥1.4 / ¥7 | ¥1.4 / ¥7 | ¥5.6 / ¥28 | ¥7 / ¥35 | — | — |
@@ -225,15 +227,14 @@ ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推
 | AIFXO | aifxo.com | ¥1.5 / ¥7.5 | ¥1.5 / ¥2.25 | — | — | 易支付 | ¥3 |
 | wakaka | wkkapi.com | ¥1.5 / ¥7.5 | ¥1.5 / ¥2.25 | — | — | Stripe | ¥1 |
 | 元衡 API | meta-api.vip | ¥1.52 / ¥7.59 | ¥1.52 / ¥7.59 | ¥6.07 / ¥30.36 | ¥7.59 / ¥37.95 | — | — |
-| OmniaKey | omniakey.com | ¥1.53 / ¥7.63 | ¥1.53 / ¥9.16 | ¥4.89 / ¥24.43 | ¥6.11 / ¥30.53 | 支付宝 / Stripe | ¥5 |
 | GPT Agent | gpt-agent.cc | ¥1.6 / ¥8 | ¥1.6 / ¥8 | ¥6.4 / ¥32 | ¥8 / ¥40 | — | — |
 | YesCode | co.yes.vg | ¥1.6 / ¥8 | ¥1.6 / ¥8 | ¥6.4 / ¥32 | ¥8 / ¥40 | — | — |
 | 2Y API | yyapis.com | ¥1.63 / ¥8.14 | ¥1.63 / ¥8.14 | ¥6.51 / ¥32.57 | ¥8.14 / ¥40.71 | — | — |
 | Passion8 API | passion8.cc | ¥1.63 / ¥8.14 | ¥1.63 / ¥8.14 | ¥6.51 / ¥32.57 | ¥8.14 / ¥40.71 | — | — |
 | ZZ OneAPI Console | zzone.cc.cd | ¥1.75 / ¥8.75 | ¥1.75 / ¥8.75 | ¥7 / ¥35.01 | ¥8.75 / ¥43.77 | — | — |
+| [Cooper-API](https://www.findbestapi.com/site/cooper-api-com/) | cooper-api.com | ¥1.76 / ¥8.82 | ¥1.36 / ¥6.79 | ¥7.06 / ¥35.28 | ¥6.79 / ¥33.93 | 微信 | ¥7 |
 | To-Tokens | totokens.cc | ¥1.78 / ¥8.9 | ¥1.78 / ¥2.67 | ¥4 / ¥20 | ¥5 / ¥25 | 易支付 | ¥10 |
 | RayinAPI | rayinai.com | ¥1.9 / ¥9.5 | ¥1.9 / ¥2.85 | ¥3.6 / ¥18 | ¥4.5 / ¥22.5 | 易支付 / 支付宝 / Stripe / 微信 | ¥10 |
-| 维塔斯 AI | aiwts.com | ¥2 / ¥10 | ¥2 / ¥10 | ¥6.4 / ¥32 | ¥8 / ¥40 | 支付宝 / 微信 | ¥10 |
 | 147 AI | 147ai.com | ¥2 / ¥10 | ¥2 / ¥10 | ¥8 / ¥40 | ¥10 / ¥50 | — | — |
 | AI8 | ai8.my | ¥2 / ¥10 | ¥2 / ¥10 | ¥8 / ¥40 | ¥10 / ¥50 | — | — |
 | Apilio | apilio.ai | ¥2 / ¥10 | ¥2 / ¥10 | ¥8 / ¥40 | ¥10 / ¥50 | — | — |
@@ -321,7 +322,7 @@ ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推
 
 ### Claude 中转站报价
 
-<sub>¥/百万 token，输入 / 输出，2026-11-18 更新</sub>
+<sub>¥/百万 token，输入 / 输出，2026-11-19 更新</sub>
 
 | 站名 | 域名 | Claude Opus 5.5 | Claude Fable 5.2 | Claude Fable 5.1 | Claude Sonnet 5.5 | 支付方式 | 起充 |
 |---|---|---|---|---|---|---|---|
@@ -402,7 +403,7 @@ ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推
 | 华龙算力 | hualong.online | ¥0.8 / ¥4 | ¥12 / ¥60 | ¥15 / ¥75 | ¥0.4 / ¥2 | — | — |
 | ZeroCode | zerocode.sbs | ¥0.8 / ¥4 | ¥12 / ¥60 | ¥15 / ¥75 | — | — | — |
 | Code-Plan（内部站点） | o-ai.me | ¥0.8 / ¥4 | — | — | ¥0.4 / ¥2 | — | — |
-| [LinksAPI](https://www.findbestapi.com/site/linksapi/) | linksapi.cn | ¥0.95 / ¥4.75 | ¥3.2 / ¥16 | ¥4 / ¥20 | ¥3.75 / ¥18.75 | 支付宝 / 微信 / Stripe | ¥1 |
+| [LinksAPI](https://www.findbestapi.com/site/linksapi/) | linksapi.cn | ¥0.95 / ¥4.75 | ¥6.5 / ¥32.5 | ¥4 / ¥20 | ¥1.62 / ¥8.12 | 支付宝 / 微信 / Stripe | ¥1 |
 | Zeus-API | zeusnorun.com | ¥1 / ¥5 | ¥2 / ¥10 | ¥2.5 / ¥12.5 | ¥0.5 / ¥2.5 | 易支付 | ¥1 |
 | 嘀嘀嘀 AI | dddai.dev | ¥1 / ¥5 | ¥2 / ¥10 | ¥2.5 / ¥12.5 | ¥0.5 / ¥2.5 | — | — |
 | 皮卡丘token商店 | sub.pikaqiu.shop | ¥1 / ¥5 | ¥2 / ¥10 | ¥2.5 / ¥12.5 | ¥0.5 / ¥2.5 | — | ¥1 |
@@ -415,6 +416,7 @@ ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推
 | CodeRelay | coderelay.cn | ¥1 / ¥5 | — | — | — | — | — |
 | Square API | api.squarefaceicon.org | ¥1 / ¥5 | — | — | — | 支付宝 | ¥1 |
 | 哈基米biu | o10.top | ¥1.12 / ¥5.6 | — | — | — | — | — |
+| [OpenOx](https://www.findbestapi.com/site/openox/) | openox.tech | ¥1.16 / ¥5.79 | ¥4.54 / ¥22.71 | ¥3.33 / ¥16.66 | ¥0.579 / ¥2.9 | 支付宝 | ¥1 |
 | [H API](https://www.findbestapi.com/site/h-api/) | hapiopen.cc | ¥1.2 / ¥6 | ¥2.4 / ¥12 | ¥3 / ¥15 | ¥0.4 / ¥2 | 支付宝 | ¥1 |
 | Rehdasu API | rehdasu.cn | ¥1.2 / ¥6 | ¥2.4 / ¥12 | ¥3 / ¥15 | ¥0.4 / ¥2 | — | — |
 | AI神鸡 | aishenji.top | ¥1.2 / ¥6 | ¥2.4 / ¥12 | ¥3 / ¥15 | ¥0.6 / ¥3 | 易支付 / USDT | ¥1 |
@@ -424,6 +426,7 @@ ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推
 | 云枢 API | nextpro.top | ¥1.2 / ¥6 | ¥2.4 / ¥12 | ¥3 / ¥15 | ¥0.6 / ¥3 | — | — |
 | 菜鸟AI | buddybackend.cloud | ¥1.2 / ¥6 | ¥2.4 / ¥12 | ¥3 / ¥15 | ¥1.65 / ¥3 | — | — |
 | [LinkAI](https://www.findbestapi.com/site/linkai/) | linkai.pics | ¥1.2 / ¥6 | ¥2.4 / ¥12 | ¥3 / ¥15 | — | 支付宝 | ¥5 |
+| [RightCode](https://www.findbestapi.com/site/right-codes/) | rightapi.io | ¥1.2 / ¥6 | ¥12 / ¥60 | ¥15 / ¥75 | ¥0.4 / ¥2 | 支付宝 | — |
 | [boxying](https://www.findbestapi.com/site/boxying/) | boxying.com | ¥1.2 / ¥6 | ¥16 / ¥80 | ¥20 / ¥100 | ¥4 / ¥20 | 支付宝 / 微信 | ¥1 |
 | [jojocode](https://www.findbestapi.com/site/jojocode/) | jojocode.com | ¥1.2 / ¥6 | — | — | ¥0.4 / ¥2 | Stripe | — |
 | 不吃坤肉 | img.yunfei.best | ¥1.2 / ¥6 | — | — | ¥0.6 / ¥3 | — | — |
@@ -456,7 +459,6 @@ ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推
 | GINKA API | api.ginka.cloud | ¥2 / ¥10 | ¥10.4 / ¥52 | ¥13 / ¥65 | ¥2.6 / ¥13 | — | — |
 | SoleAPI | soleapi.com | ¥2 / ¥10 | ¥12 / ¥60 | ¥15 / ¥75 | ¥1 / ¥5 | — | — |
 | [APINebula](https://www.findbestapi.com/site/apinebula-com/) | apinebula.ai | ¥2 / ¥10 | ¥13.6 / ¥68 | ¥17 / ¥85 | ¥3.2 / ¥16 | 支付宝 | ¥20 |
-| FK Claude | fkclaude.xyz | ¥2 / ¥10 | ¥14.8 / ¥74 | ¥18.5 / ¥92.5 | — | — | — |
 | Handsfreeclub API | handsfreeclub.com | ¥2 / ¥10 | — | — | — | — | — |
 | Global AI | globalai.vip | ¥2.2 / ¥11 | ¥4.4 / ¥22 | ¥5.5 / ¥27.5 | ¥1.1 / ¥5.5 | 支付宝 | ¥1 |
 | To-Tokens | totokens.cc | ¥2.2 / ¥11 | ¥4.4 / ¥22 | ¥5.5 / ¥27.5 | ¥1.1 / ¥5.5 | 易支付 | ¥10 |
@@ -479,7 +481,6 @@ ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推
 | Kuaipao API | kuaipao.pro | ¥3 / ¥15 | ¥6 / ¥30 | ¥7.5 / ¥37.5 | ¥1 / ¥5 | — | — |
 | geekai | geekai.co | ¥3 / ¥15 | ¥12 / ¥60 | ¥15 / ¥75 | — | — | — |
 | [RunAPI](https://www.findbestapi.com/site/runapi-co/) | runapi.host | ¥3.17 / ¥15.83 | ¥16.29 / ¥81.43 | ¥20.36 / ¥101.78 | ¥1.58 / ¥7.92 | 支付宝 / 信用卡 | ¥7 |
-| [OpenOx](https://www.findbestapi.com/site/openox/) | openox.tech | ¥3.2 / ¥16 | ¥2.67 / ¥13.33 | ¥3.33 / ¥16.66 | ¥0.666 / ¥3.33 | 支付宝 | ¥1 |
 | Kedaya AI 中转站 | kedaya.ai | ¥3.2 / ¥16 | ¥6.4 / ¥32 | ¥8 / ¥40 | ¥1.6 / ¥8 | — | — |
 | LantAPI | lantapi.top | ¥3.2 / ¥16 | ¥6.4 / ¥32 | ¥8 / ¥40 | ¥1.6 / ¥8 | 微信 | ¥10 |
 | 智元API | chaozhiyuanai.com | ¥3.2 / ¥16 | ¥6.4 / ¥32 | ¥8 / ¥40 | ¥1.6 / ¥8 | 支付宝 / 微信 / 易支付 | ¥1 |
@@ -497,7 +498,7 @@ ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推
 | SHUAI API | api.shuaiapi.com | ¥3.6 / ¥18 | ¥7.2 / ¥36 | ¥9 / ¥45 | ¥2 / ¥10 | — | — |
 | aixj | aixj.vip | ¥3.6 / ¥18 | ¥44 / ¥220 | ¥55 / ¥275 | ¥11 / ¥55 | — | ¥1 |
 | AIAPI World | aiapi.world | ¥3.99 / ¥19.93 | ¥6.38 / ¥31.89 | ¥7.97 / ¥39.86 | ¥1.99 / ¥9.96 | — | — |
-| 维塔斯 AI | aiwts.com | ¥4 / ¥20 | ¥4 / ¥20 | ¥5 / ¥25 | ¥3 / ¥15 | 支付宝 / 微信 | ¥10 |
+| 维塔斯 AI | aiwts.com | ¥4 / ¥20 | ¥6 / ¥30 | ¥5 / ¥25 | ¥3 / ¥15 | 支付宝 / 微信 | ¥10 |
 | Apilio | apilio.ai | ¥4 / ¥20 | ¥6.4 / ¥32 | ¥8 / ¥40 | ¥1.6 / ¥8 | — | — |
 | comfly | ai.comfly.org | ¥4 / ¥20 | ¥6.4 / ¥32 | ¥8 / ¥40 | ¥1.6 / ¥8 | — | — |
 | Xyusec API | xyusec.com | ¥4 / ¥20 | ¥8 / ¥40 | ¥10 / ¥40 | ¥1.67 / ¥8.33 | — | — |
@@ -514,8 +515,8 @@ ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推
 | Moniker | aimoniker.top | ¥4.07 / ¥20.36 | ¥8.14 / ¥40.71 | ¥10.18 / ¥50.89 | ¥2.04 / ¥10.18 | — | — |
 | 星期天AI | weekly-day.top | ¥4.07 / ¥20.36 | ¥8.14 / ¥40.71 | ¥10.18 / ¥50.89 | ¥2.04 / ¥10.18 | — | — |
 | Wokey | wokey.ai | ¥4.07 / ¥20.36 | ¥12.97 / ¥64.87 | ¥16.22 / ¥81.09 | ¥2.04 / ¥10.18 | — | — |
+| [Cooper-API](https://www.findbestapi.com/site/cooper-api-com/) | cooper-api.com | ¥4.07 / ¥20.36 | ¥16.29 / ¥81.43 | — | ¥4.07 / ¥20.36 | 微信 | ¥7 |
 | [Pateway](https://www.findbestapi.com/site/pateway/) | pateway.ai | ¥4.07 / ¥20.36 | — | — | ¥1.36 / ¥6.79 | — | — |
-| [Cooper-API](https://www.findbestapi.com/site/cooper-api-com/) | cooper-api.com | ¥4.07 / ¥20.36 | — | — | — | 微信 | ¥7 |
 | WorldBase.ai | worldbase.ai | ¥4.07 / ¥20.36 | — | — | — | 支付宝 | ¥10 |
 | PingCode | pingcode.ai | ¥4.2 / ¥21 | ¥22.4 / ¥112 | ¥28 / ¥140 | ¥2.1 / ¥10.5 | 微信 / 支付宝 | ¥9.9 |
 | [OhMyGPT](https://www.findbestapi.com/site/x-dogenet-win/) | x.dogenet.win | ¥4.4 / ¥22 | ¥8.8 / ¥44 | ¥11 / ¥55 | — | — | — |
@@ -558,7 +559,7 @@ ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推
 | [AiXor](https://www.findbestapi.com/site/aixor-org/) | aixor.dev | ¥7.2 / ¥36 | ¥54.4 / ¥272 | ¥68 / ¥340 | ¥3.6 / ¥18 | 支付宝 | ¥1 |
 | LingxiCode | new.050602.xyz | ¥7.2 / ¥36 | — | — | — | 支付宝 / 微信 | ¥10 |
 | DeRouter | derouter.ai | ¥7.38 / ¥36.91 | ¥14.77 / ¥73.83 | ¥18.46 / ¥92.15 | — | 支付宝 | — |
-| OmniaKey | omniakey.com | ¥7.6 / ¥38 | ¥15.2 / ¥76 | ¥19 / ¥95 | ¥3.8 / ¥19 | 支付宝 / Stripe | ¥5 |
+| OmniaKey | omniakey.com | ¥7.6 / ¥38 | ¥19 / ¥95 | ¥19 / ¥95 | ¥3.8 / ¥19 | 支付宝 / Stripe | ¥5 |
 | CoreCode | corecode.live | ¥7.6 / ¥38 | ¥22.8 / ¥114 | ¥28.5 / ¥142.5 | ¥3.8 / ¥19 | — | ¥10 |
 | yibuapi | yibuapi.com | ¥8 / ¥40 | ¥16 / ¥80 | ¥20 / ¥100 | — | — | — |
 | HaoAI | hao.ai | ¥8.14 / ¥40.71 | ¥16.29 / ¥81.43 | ¥20.36 / ¥101.78 | ¥4.07 / ¥20.36 | — | — |
@@ -635,229 +636,233 @@ ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推
 
 ### Gemini 中转站报价
 
-<sub>¥/百万 token，输入 / 输出，2026-11-18 更新</sub>
+<sub>¥/百万 token，输入 / 输出，2026-11-19 更新</sub>
 
-| 站名 | 域名 | Gemini 4 Argon | Gemini 4 Carbon | Gemini 3.1 Pro | Gemini 3.8 Flash | 支付方式 | 起充 |
+| 站名 | 域名 | Gemini 4 Neon | Gemini 4 Argon | Gemini 4 Carbon | Gemini 3.1 Pro | 支付方式 | 起充 |
 |---|---|---|---|---|---|---|---|
-| OpenLux | openlux.ai | ¥0.147 / ¥0.735 | ¥0.147 / ¥0.735 | ¥0.353 / ¥2.12 | ¥0.055 / ¥0.276 | — | — |
-| RPG8 | api.rpg8.cn | ¥0.2 / ¥1 | ¥0.2 / ¥1 | ¥0.2 / ¥12 | — | — | — |
-| [V-API](https://www.findbestapi.com/site/api-gpt-ge/) | api.gpt.ge | ¥0.2 / ¥1 | ¥0.2 / ¥1 | ¥0.2 / ¥1.2 | — | 微信 / USDT | ¥12.5 |
-| Z-API | api.zicc.cc | ¥0.2 / ¥1 | ¥0.2 / ¥1 | ¥0.2 / ¥1.2 | — | 支付宝 / 微信 | — |
-| VideoCaptioner API | videocaptioner.cn | ¥0.221 / ¥1.1 | ¥0.221 / ¥1.1 | ¥0.529 / ¥3.18 | ¥0.083 / ¥0.414 | — | — |
-| 旺旺中转站 | api.bbww.top | ¥0.222 / ¥1.11 | ¥0.222 / ¥1.11 | ¥0.222 / ¥1.33 | — | USDT / Stripe | ¥1 |
-| poloai | poloai.top | ¥0.274 / ¥1.37 | ¥0.274 / ¥1.37 | ¥0.274 / ¥1.64 | — | — | — |
-| [A6API](https://www.findbestapi.com/site/a6api/) | a6api.com | ¥0.277 / ¥1.38 | ¥0.277 / ¥1.38 | ¥0.277 / ¥1.66 | ¥0.121 / ¥0.606 | — | — |
-| Rehdasu API | rehdasu.cn | ¥0.3 / ¥1.5 | ¥0.3 / ¥1.5 | ¥0.3 / ¥1.8 | — | — | — |
-| Kedaya AI 中转站 | kedaya.ai | ¥0.3 / ¥1.5 | ¥0.3 / ¥1.5 | — | ¥0.113 / ¥0.562 | — | — |
-| PRY API | bearlab.ai | ¥0.4 / ¥2 | ¥0.4 / ¥2 | ¥0.4 / ¥2.4 | ¥0.15 / ¥0.75 | 支付宝 / 微信 | ¥10 |
-| 汪汪の中转站 | api.hyhawang.com | ¥0.4 / ¥2 | ¥0.4 / ¥2 | ¥0.4 / ¥2.4 | ¥0.15 / ¥0.75 | — | — |
-| ByteClaude | claude.bestswifter.com | ¥0.4 / ¥2 | ¥0.4 / ¥2 | ¥0.4 / ¥2.4 | — | — | — |
-| OneChats | chatapi.onechats.top | ¥0.4 / ¥2 | ¥0.4 / ¥2 | ¥0.4 / ¥2.4 | — | 支付宝 | ¥1 |
-| 合聚API | hejuapi.com | ¥0.5 / ¥2.5 | ¥0.5 / ¥2.5 | ¥0.5 / ¥3 | ¥0.188 / ¥0.938 | 支付宝 / 微信 | ¥5 |
-| NikoAPI | nikoapi.xyz | ¥0.5 / ¥2.5 | ¥0.5 / ¥2.5 | ¥2.2 / ¥13.2 | ¥0.188 / ¥0.938 | — | — |
-| GGUU AI | gguuai.com | ¥0.5 / ¥2.5 | ¥0.5 / ¥2.5 | — | ¥0.188 / ¥0.938 | — | — |
-| LMU AI · 灵眸 | api.lmuai.ai | ¥0.505 / ¥2.52 | ¥0.505 / ¥2.52 | ¥0.505 / ¥3.03 | ¥0.189 / ¥0.947 | 支付宝 / 微信 | ¥10 |
-| API VibeCoding | apiclaude.cc | ¥0.583 / ¥2.92 | ¥0.583 / ¥2.92 | ¥0.583 / ¥3.5 | ¥0.219 / ¥1.09 | 易支付 | ¥1 |
-| apikl.ai | apikl.ai | ¥0.6 / ¥3 | ¥0.6 / ¥3 | ¥0.6 / ¥3.6 | ¥0.225 / ¥1.12 | — | — |
-| Bot Compute Fabric | botcf.com | ¥0.6 / ¥3 | ¥0.6 / ¥3 | ¥0.6 / ¥3.6 | ¥0.225 / ¥1.12 | — | — |
-| [deepkey](https://www.findbestapi.com/site/deepkey-top/) | deepkey.top | ¥0.6 / ¥3 | ¥0.6 / ¥3 | ¥0.6 / ¥3.6 | ¥0.225 / ¥1.12 | 支付宝 / 微信 / USDT / 加密货币 | ¥5 |
-| 云枢 API | nextpro.top | ¥0.6 / ¥3 | ¥0.6 / ¥3 | ¥0.6 / ¥3.6 | ¥0.225 / ¥1.12 | — | — |
-| 嘀嘀嘀 AI | dddai.dev | ¥0.6 / ¥3 | ¥0.6 / ¥3 | ¥0.6 / ¥3.6 | ¥0.225 / ¥1.12 | — | — |
-| Ruoli API | ruoli.dev | ¥0.6 / ¥3 | ¥0.6 / ¥3 | ¥0.6 / ¥3.6 | — | — | — |
-| SparkCode | sparkcode.top | ¥0.6 / ¥3 | ¥0.6 / ¥3 | ¥0.6 / ¥3.6 | — | — | — |
-| 寒鹤的小破站 | api.hanhegufei.online | ¥0.6 / ¥3 | ¥0.6 / ¥3 | ¥0.6 / ¥3.6 | — | — | — |
-| FastAI | fastaitoken.com | ¥0.6 / ¥3 | ¥0.6 / ¥3 | — | ¥0.225 / ¥1.12 | 易支付 / 加密货币 | ¥10 |
-| nexfaro 探索科技 | nexfaro.com | ¥0.6 / ¥3 | ¥0.6 / ¥3 | — | ¥0.225 / ¥1.12 | — | — |
-| Openai_ | aiooapi.com | ¥0.6 / ¥3 | ¥0.6 / ¥3 | — | ¥0.225 / ¥1.12 | — | — |
-| 云智AI-稳定可靠 | yzcld.com | ¥0.6 / ¥3 | ¥0.6 / ¥3 | — | ¥0.225 / ¥1.12 | — | — |
-| 鑫旺Neko API | 790053500.com | ¥0.6 / ¥3 | ¥0.6 / ¥3 | — | ¥0.225 / ¥1.12 | — | — |
-| [LinkAPI](https://www.findbestapi.com/site/linkapi-ai/) | linkapi.ai | ¥0.63 / ¥3.15 | ¥0.63 / ¥3.15 | ¥0.63 / ¥2.5 | — | 支付宝 / 微信 | ¥1 |
-| WAWA ZZ API | wawazz.xyz | ¥0.7 / ¥3.5 | ¥0.7 / ¥3.5 | ¥0.7 / ¥4.2 | ¥0.263 / ¥1.31 | — | — |
-| luciferai | luciferai.cc | ¥0.7 / ¥3.5 | ¥0.7 / ¥3.5 | — | ¥0.142 / ¥0.713 | — | — |
-| XINGYI API | xingyi888.com | ¥0.7 / ¥3.5 | ¥0.7 / ¥3.5 | — | ¥0.263 / ¥1.31 | — | — |
-| Jasper | api.yjs.im | ¥0.8 / ¥4 | ¥0.8 / ¥4 | ¥0.5 / ¥3 | ¥0.188 / ¥0.938 | — | — |
-| SHUAI API | api.shuaiapi.com | ¥0.8 / ¥4 | ¥0.8 / ¥4 | ¥0.8 / ¥4.8 | ¥0.3 / ¥1.5 | — | — |
-| Yourapi | yourapi.cn | ¥0.8 / ¥4 | ¥0.8 / ¥4 | ¥0.8 / ¥4.8 | — | — | — |
-| 深空 API | xkrelay.com | ¥0.8 / ¥4 | ¥0.8 / ¥4 | — | ¥0.3 / ¥1.5 | — | — |
-| Codex For | blackaicoding.com | ¥0.811 / ¥4.05 | ¥0.811 / ¥4.05 | — | — | 易支付 | ¥1 |
-| KiosAPI | kiosapi.com | ¥0.814 / ¥4.07 | ¥0.814 / ¥4.07 | — | ¥0.611 / ¥3.05 | — | — |
-| [H API](https://www.findbestapi.com/site/h-api/) | hapiopen.cc | ¥0.9 / ¥4.5 | ¥0.9 / ¥4.5 | ¥0.9 / ¥5.4 | ¥0.338 / ¥1.69 | 支付宝 | ¥1 |
-| ZeroCat | zero.cat | ¥1 / ¥5 | ¥1 / ¥5 | ¥0.5 / ¥3 | ¥0.188 / ¥0.938 | — | — |
-| Nova AI | 2api.novai.su | ¥1 / ¥5 | ¥1 / ¥5 | ¥1 / ¥6 | ¥0.25 / ¥1.5 | — | — |
-| TokenSOS | tokensos.net | ¥1 / ¥5 | ¥1 / ¥5 | ¥1 / ¥6 | ¥0.375 / ¥1.88 | — | — |
-| [UU API](https://www.findbestapi.com/site/uuapi-net/) | uuapi.io | ¥1 / ¥5 | ¥1 / ¥5 | ¥1 / ¥6 | ¥0.375 / ¥1.88 | 支付宝 / 微信 | ¥1 |
-| xiaojing | open.xiaojingai.com | ¥1 / ¥5 | ¥1 / ¥5 | ¥1 / ¥6 | ¥0.375 / ¥1.88 | 支付宝 / 微信 / PayPal | ¥1 |
-| Die Ge | diegeai.com | ¥1 / ¥5 | ¥1 / ¥5 | ¥1 / ¥6 | — | 微信 | ¥10 |
-| 换API | huanapi.com | ¥1 / ¥5 | ¥1 / ¥5 | ¥1 / ¥6 | — | — | — |
-| 白鸟 | bnwu.top | ¥1 / ¥5 | ¥1 / ¥5 | ¥1 / ¥1 | — | — | — |
-| 小丁AI | xdcn.top | ¥1 / ¥5 | — | — | ¥0.375 / ¥1.88 | 支付宝 | ¥1 |
-| GINKA API | api.ginka.cloud | ¥1.1 / ¥5.5 | ¥1.1 / ¥5.5 | — | ¥0.412 / ¥2.06 | — | — |
-| [LinkAI](https://www.findbestapi.com/site/linkai/) | linkai.pics | ¥1.2 / ¥6 | ¥1.2 / ¥6 | ¥1.2 / ¥7.2 | ¥0.45 / ¥2.25 | 支付宝 | ¥5 |
-| 12API | api.12ai.org | ¥1.2 / ¥6 | ¥1.2 / ¥6 | ¥1.2 / ¥7.2 | ¥0.9 / ¥4.5 | — | — |
-| DasuAPI | dasuapi.com | ¥1.2 / ¥6 | ¥1.2 / ¥6 | — | ¥0.9 / ¥5.4 | — | — |
-| [LinksAPI](https://www.findbestapi.com/site/linksapi/) | linksapi.cn | ¥1.3 / ¥6.5 | ¥1.3 / ¥6.5 | ¥1.62 / ¥9.75 | ¥1.22 / ¥6.09 | 支付宝 / 微信 / Stripe | ¥1 |
-| YeToken | yetoken.vip | ¥1.32 / ¥6.6 | ¥1.32 / ¥6.6 | ¥0.44 / ¥2.64 | ¥0.165 / ¥0.825 | — | — |
-| Top-API | api-top.com | ¥1.36 / ¥6.79 | ¥1.36 / ¥6.79 | ¥1.36 / ¥8.14 | — | 支付宝 / 微信 | ¥7 |
-| TokOne | tokone.ai | ¥1.4 / ¥7 | ¥1.4 / ¥7 | ¥1.4 / ¥8.4 | ¥0.525 / ¥2.62 | — | — |
-| [IKunCode](https://www.findbestapi.com/site/api-ikuncode-cc/) | api.ikuncode.cc | ¥1.4 / ¥7 | ¥1.4 / ¥7 | ¥1.4 / ¥8.4 | — | 支付宝 / 微信 | ¥1 |
-| [云影 API](https://www.findbestapi.com/site/yyapi-cloud/) | yyapi.cloud | ¥1.4 / ¥7 | ¥1.4 / ¥7 | ¥1.4 / ¥8.4 | — | 支付宝 / 微信 | ¥1 |
-| geekai | geekai.co | ¥1.5 / ¥7.5 | ¥1.5 / ¥7.5 | ¥1.5 / ¥9 | — | — | — |
-| [APINebula](https://www.findbestapi.com/site/apinebula-com/) | apinebula.ai | ¥1.6 / ¥8 | ¥1.6 / ¥8 | ¥1.6 / ¥9.6 | ¥0.6 / ¥3 | 支付宝 | ¥20 |
-| [ByteCat](https://www.findbestapi.com/site/bytecatcode-org/) | bytecatcode.org | ¥1.6 / ¥8 | ¥1.6 / ¥8 | ¥1.6 / ¥6.4 | — | 支付宝 | ¥10 |
-| Global AI | globalai.vip | ¥1.6 / ¥8 | ¥1.6 / ¥8 | ¥1.6 / ¥9.6 | — | 支付宝 | ¥1 |
-| LantAPI | lantapi.top | ¥1.6 / ¥8 | ¥1.6 / ¥8 | — | ¥1.6 / ¥6.4 | 微信 | ¥10 |
-| 537 AI | 537-ai.net | ¥1.8 / ¥9 | ¥1.8 / ¥9 | ¥1.8 / ¥10.8 | — | — | — |
-| [OhMyGPT](https://www.findbestapi.com/site/x-dogenet-win/) | x.dogenet.win | ¥1.8 / ¥9 | ¥1.8 / ¥9 | ¥1.8 / ¥10.8 | — | — | — |
-| AIAPI World | aiapi.world | ¥1.99 / ¥9.97 | ¥1.99 / ¥9.97 | ¥1.99 / ¥11.96 | — | — | — |
-| x-llm | x-llm.net | ¥2 / ¥10 | ¥2 / ¥10 | ¥1 / ¥6 | ¥0.375 / ¥1.88 | 支付宝 | — |
-| Apilio | apilio.ai | ¥2 / ¥10 | ¥2 / ¥10 | ¥2 / ¥12 | ¥0.75 / ¥3.75 | — | — |
-| comfly | ai.comfly.org | ¥2 / ¥10 | ¥2 / ¥10 | ¥2 / ¥12 | ¥0.75 / ¥3.75 | — | — |
-| Xcode | xcode.best | ¥2 / ¥10 | ¥2 / ¥10 | ¥2 / ¥12 | ¥0.75 / ¥3.75 | 支付宝 | ¥1 |
-| Kuaipao API | kuaipao.pro | ¥2 / ¥10 | ¥2 / ¥10 | ¥2 / ¥12 | ¥1.5 / ¥7.5 | — | — |
-| chatfire | api.chatfire.cn | ¥2 / ¥10 | ¥2 / ¥10 | ¥2 / ¥12 | — | — | — |
-| DawCode | dawcode.ai | ¥2 / ¥10 | ¥2 / ¥10 | ¥2 / ¥12 | — | 微信 | ¥100 |
-| Dualseason API | dualseason.com | ¥2 / ¥10 | ¥2 / ¥10 | ¥2 / ¥12 | — | — | — |
-| Kkaiapi | kkaiapi.com | ¥2 / ¥10 | ¥2 / ¥10 | ¥2 / ¥12 | — | — | — |
-| lyapunov-api | api.lyapunov-vector.com | ¥2 / ¥10 | ¥2 / ¥10 | ¥2 / ¥8 | — | — | — |
-| [OpenOx](https://www.findbestapi.com/site/openox/) | openox.tech | ¥2 / ¥10 | ¥2 / ¥10 | ¥2 / ¥12 | — | 支付宝 | ¥1 |
-| ToCodex | user.tocodex.com | ¥2 / ¥10 | ¥2 / ¥10 | ¥2 / ¥12 | — | 支付宝 | ¥10 |
-| Uiuihao API | api.uiuihao.com | ¥2 / ¥10 | ¥2 / ¥10 | ¥2 / ¥12 | — | — | — |
-| yinli | yinli.one | ¥2 / ¥10 | ¥2 / ¥10 | ¥2 / ¥12 | — | — | — |
-| LaneAI | api.laneai.dev | ¥2 / ¥9 | ¥2 / ¥10 | — | ¥0.263 / ¥1.31 | — | — |
-| 旋转智能｜Radius to Core | ai.rtoc.cc | ¥2 / ¥10 | ¥2 / ¥10 | — | ¥0.375 / ¥1.88 | — | — |
-| 聚星AI | juxingai.xyz | ¥2.2 / ¥11 | ¥2.2 / ¥11 | ¥2.2 / ¥13.2 | ¥3.85 / ¥19.25 | 支付宝 / 微信 | ¥10 |
-| Moyuu | moyuu.cc | ¥2.44 / ¥12.21 | ¥2.44 / ¥12.21 | — | ¥0.916 / ¥4.58 | — | — |
-| CodingRouter | api.codingrouter.ai | ¥2.71 / ¥13.57 | ¥2.71 / ¥13.57 | ¥2.71 / ¥16.29 | ¥1.02 / ¥5.09 | Stripe | ¥10 |
-| 鱼鱼连线 | yylx.io | ¥2.71 / ¥13.57 | ¥2.71 / ¥13.57 | ¥2.71 / ¥16.29 | ¥1.02 / ¥5.09 | — | — |
-| GPTeam | portal.gpteamservices.com | ¥2.71 / ¥13.57 | ¥2.71 / ¥13.57 | ¥2.71 / ¥16.29 | — | 支付宝 / 微信 | ¥7 |
-| ToAPIs | toapis.cn | ¥2.71 / ¥13.57 | ¥2.71 / ¥13.57 | — | ¥2.04 / ¥10.18 | — | — |
-| [RunAPI](https://www.findbestapi.com/site/runapi-co/) | runapi.host | ¥2.85 / ¥14.25 | ¥2.85 / ¥14.25 | ¥2.92 / ¥17.51 | ¥1.07 / ¥5.34 | 支付宝 / 信用卡 | ¥7 |
-| Bailili API | api.bailili.top | ¥3 / ¥15 | ¥3 / ¥15 | ¥3 / ¥18 | — | 支付宝 / 微信 | — |
-| 无限API | infai.cc | ¥3 / ¥15 | ¥3 / ¥15 | ¥3 / ¥18 | — | 支付宝 / 微信 | — |
-| Code0.ai | code0.ai | ¥3 / ¥15 | ¥3 / ¥15 | ¥5 / ¥30 | ¥1.12 / ¥5.62 | 支付宝 / 微信 / Stripe | ¥1 |
-| 佛爷API | 988665.xyz | ¥3.39 / ¥16.96 | ¥3.39 / ¥16.96 | — | ¥1.27 / ¥6.36 | — | — |
-| STA1N API | cdn.sta1n.cn | ¥3.5 / ¥17.5 | ¥3.5 / ¥17.5 | — | ¥0.3 / ¥1.5 | — | — |
-| ZZ OneAPI Console | zzone.cc.cd | ¥3.53 / ¥17.64 | ¥3.53 / ¥17.64 | — | ¥1.32 / ¥6.62 | — | — |
-| Clauddy API | clauddy.com | ¥3.6 / ¥18 | ¥3.6 / ¥18 | ¥3.6 / ¥21.6 | — | — | — |
-| kksj | cnapi.kksj.org | ¥3.6 / ¥18 | ¥3.6 / ¥18 | ¥3.6 / ¥21.6 | — | — | — |
-| UnoRouter | unorouter.com | ¥3.66 / ¥18.32 | ¥3.66 / ¥18.32 | — | ¥0.763 / ¥3.82 | Card / Google & Apple Pay / 支付宝 / 加密货币 | $1 |
-| 4Router | 4router.net | ¥4 / ¥20 | ¥4 / ¥20 | ¥4 / ¥24 | ¥1.5 / ¥7.5 | — | — |
-| [AiXor](https://www.findbestapi.com/site/aixor-org/) | aixor.dev | ¥4 / ¥20 | ¥4 / ¥20 | ¥4 / ¥24 | — | 支付宝 | ¥1 |
-| 球球Token | qiuqiutoken.net | ¥4 / ¥20 | ¥4 / ¥20 | ¥14.4 / ¥86.4 | ¥1.5 / ¥7.5 | 支付宝 / 微信 / Stripe | ¥1 |
-| [Cooper-API](https://www.findbestapi.com/site/cooper-api-com/) | cooper-api.com | ¥4.07 / ¥20.36 | ¥4.07 / ¥20.36 | ¥4.07 / ¥24.43 | — | 微信 | ¥7 |
-| DragonAPI | dragon3api.com | ¥4.07 / ¥20.36 | ¥4.07 / ¥20.36 | — | ¥1.53 / ¥7.63 | — | — |
-| YCY API | ycyapi.cn | ¥4.07 / ¥20.36 | ¥4.07 / ¥20.36 | — | ¥1.53 / ¥7.63 | — | — |
-| 乾行AI | qianxing.pro | ¥4.07 / ¥20.36 | ¥4.07 / ¥20.36 | — | ¥1.53 / ¥7.63 | 支付宝 | — |
-| 星期天AI | weekly-day.top | ¥4.07 / ¥20.36 | ¥4.07 / ¥20.36 | — | ¥1.53 / ¥7.63 | — | — |
-| 88API-Token聚合平台 | 88api.ai | ¥4.2 / ¥21 | ¥4.2 / ¥21 | ¥4.2 / ¥25.2 | ¥0.525 / ¥2.62 | — | — |
-| Poixe AI | poixe.com | ¥4.23 / ¥21.17 | ¥4.23 / ¥21.17 | ¥4.24 / ¥33.93 | — | 支付宝 / 信用卡 | ¥5 |
-| [Micu](https://www.findbestapi.com/site/micuapi-ai/) | micuapi.ai | ¥4.4 / ¥22 | ¥4.4 / ¥22 | ¥4.4 / ¥26.4 | — | 支付宝 / 微信 | ¥50 |
-| Token云桥 | api.quya.org | ¥4.4 / ¥22 | ¥4.4 / ¥22 | ¥4.4 / ¥26.4 | — | 支付宝 / 微信 / USDT | ¥100 |
-| nekoapi | api.nekoapi.com | ¥5 / ¥25 | ¥5 / ¥25 | ¥5 / ¥30 | — | 支付宝 / 微信 / USDT / Stripe | — |
-| 维塔斯 AI | aiwts.com | ¥5.25 / ¥26.25 | ¥5.25 / ¥26.25 | — | — | 支付宝 / 微信 | ¥10 |
-| api.68886868.xyz | api.68886868.xyz | ¥5.29 / ¥26.46 | ¥5.29 / ¥26.46 | ¥5.29 / ¥31.76 | — | — | — |
-| aicost API | aicost.me | ¥5.43 / ¥27.14 | ¥5.43 / ¥27.14 | ¥5.43 / ¥32.57 | ¥2.04 / ¥10.18 | 微信 | — |
-| OmniaKey | omniakey.com | ¥5.43 / ¥27.14 | ¥5.43 / ¥27.14 | ¥5.43 / ¥32.57 | ¥3.05 / ¥15.27 | 支付宝 / Stripe | ¥5 |
-| Kie.ai | kie.ai | ¥5.43 / ¥27.14 | ¥5.43 / ¥27.14 | — | ¥1.53 / ¥7.63 | — | — |
-| V-API | api.vveai.com | ¥5.43 / ¥27.14 | ¥5.43 / ¥27.14 | — | ¥2.04 / ¥10.18 | — | — |
-| Mirgo | mirgo.top | ¥6.18 / ¥30.89 | ¥6.18 / ¥30.89 | — | — | — | — |
-| SoleAPI | soleapi.com | ¥6.4 / ¥32 | ¥6.4 / ¥32 | ¥3.2 / ¥19.2 | ¥1.2 / ¥6 | — | — |
-| 可乐AI | code28.ccwu.cc | ¥6.79 / ¥33.93 | ¥6.79 / ¥33.93 | ¥6.79 / ¥40.71 | ¥4.58 / ¥22.9 | — | — |
-| ZEN-AI | zen-ai.top | ¥6.79 / ¥33.93 | ¥6.79 / ¥33.93 | ¥6.79 / ¥40.71 | — | — | — |
-| Moniker | aimoniker.top | ¥6.79 / ¥33.93 | ¥6.79 / ¥33.93 | — | ¥1.53 / ¥7.63 | — | — |
-| HUBWAY | hubway.cc | ¥7 / ¥35 | ¥7 / ¥35 | — | — | — | — |
-| ClaudeApi | apito.ai | ¥8.14 / ¥67.85 | ¥8.14 / ¥40.71 | ¥8.14 / ¥48.86 | ¥3.05 / ¥15.27 | Stripe | $1 |
-| corealgos | corealgos.com | ¥8.14 / ¥40.71 | ¥8.14 / ¥40.71 | ¥8.14 / ¥48.86 | ¥3.05 / ¥15.27 | 微信 | ¥1 |
-| Wokey | wokey.ai | ¥8.14 / ¥40.71 | ¥8.14 / ¥40.71 | — | ¥2.04 / ¥10.18 | — | — |
-| 龙虾计划 | openclawplan.com | ¥8.14 / ¥48.86 | ¥8.14 / ¥40.71 | — | ¥2.04 / ¥12.21 | — | — |
-| 2Y API | yyapis.com | ¥8.14 / ¥40.71 | ¥8.14 / ¥40.71 | — | ¥3.05 / ¥15.27 | — | — |
-| Passion8 API | passion8.cc | ¥8.14 / ¥40.71 | ¥8.14 / ¥40.71 | — | — | — | — |
-| Qiny API | openai.chatnewai.com | ¥8.96 / ¥44.78 | ¥8.96 / ¥44.78 | ¥25.45 / ¥152.67 | ¥1.68 / ¥22.39 | — | — |
-| 刀刀刀 | codexapis.com | ¥9.5 / ¥47.5 | ¥9.5 / ¥47.5 | — | — | Stripe / 信用卡 | — |
-| xinsuanai | xinsuanai.com | ¥10 / ¥50 | ¥10 / ¥50 | ¥10 / ¥40 | — | 微信 | — |
-| APIB | apib.ai | ¥10.86 / ¥54.28 | ¥10.86 / ¥54.28 | ¥10.86 / ¥65.14 | ¥4.07 / ¥20.36 | — | — |
-| MoleAPI | home.moleapi.com | ¥10.86 / ¥54.28 | ¥10.86 / ¥54.28 | ¥10.86 / ¥65.14 | — | 支付宝 / 微信 / 加密支付 / 全球支付 | $1（实付¥6.8） |
-| 元衡 API | meta-api.vip | ¥13.32 / ¥66.6 | ¥13.32 / ¥66.6 | ¥66.6 / ¥399.6 | ¥14.98 / ¥74.92 | — | — |
-| APIYI | api.apiyi.com | ¥13.57 / ¥67.85 | ¥13.57 / ¥67.85 | ¥6.79 / ¥40.71 | ¥2.54 / ¥12.72 | — | — |
-| UniAPI | uniapi.ai | ¥13.57 / ¥67.85 | ¥13.57 / ¥67.85 | ¥6.79 / ¥40.71 | ¥5.09 / ¥25.45 | — | — |
-| DMXAPI Global | dmxapi.com | ¥13.57 / ¥67.85 | ¥13.57 / ¥67.85 | ¥13.57 / ¥81.43 | ¥5.09 / ¥25.45 | 微信 / 支付宝 | — |
-| OfoxAI | ofox.io | ¥13.57 / ¥67.85 | ¥13.57 / ¥67.85 | ¥13.57 / ¥81.43 | ¥5.09 / ¥25.45 | — | — |
-| [TryAllAI](https://www.findbestapi.com/site/api-tryallai-com/) | api.tryallai.com | ¥13.57 / ¥67.85 | ¥13.57 / ¥67.85 | ¥13.57 / ¥81.43 | — | — | — |
-| AIsa | aisa.one | ¥13.57 / ¥67.85 | ¥13.57 / ¥67.85 | — | ¥5.09 / ¥25.45 | — | $10 |
-| CherryIN | open.cherryin.ai | ¥13.57 / ¥67.85 | ¥13.57 / ¥67.85 | — | ¥5.09 / ¥25.45 | — | — |
-| CherryIN | cherryin.net | ¥13.57 / ¥67.85 | ¥13.57 / ¥67.85 | — | ¥5.09 / ¥25.45 | — | — |
-| Crazyrouter | crazyrouter.com | ¥13.57 / ¥67.85 | ¥13.57 / ¥67.85 | — | ¥5.09 / ¥25.45 | — | — |
-| OrcaRouter | orcarouter.ai | ¥13.57 / ¥67.85 | ¥13.57 / ¥67.85 | — | ¥5.09 / ¥25.45 | — | — |
-| ClaudeCN | claudecn.top | ¥14 / ¥70 | ¥14 / ¥70 | ¥14 / ¥84 | — | — | — |
-| [PackyCode](https://www.findbestapi.com/site/packyapi-com/) | packyapi.ai | ¥14 / ¥70 | ¥14 / ¥70 | ¥14 / ¥84 | — | 信用卡 / App | ¥100 |
-| 996444 | api.996444.cn | ¥14.93 / ¥74.64 | ¥14.93 / ¥74.64 | ¥14.93 / ¥89.57 | — | — | — |
-| Api.Airforce | api.airforce | ¥14.93 / ¥74.64 | ¥14.93 / ¥74.64 | — | — | — | — |
-| BootToken | boottoken.com | ¥16.5 / ¥82.5 | ¥16.5 / ¥82.5 | ¥16.5 / ¥99 | — | 支付宝 / 微信 | ¥10 |
-| 小红马AIGS | aigs.cc | ¥16.56 / ¥82.8 | ¥16.56 / ¥82.8 | — | ¥5.4 / ¥27 | — | — |
-| [HoHoApi](https://www.findbestapi.com/site/hohoapi/) | hohoapi.com | ¥17.64 / ¥88.21 | ¥17.64 / ¥88.21 | ¥17.64 / ¥105.85 | — | — | — |
-| GPT Agent | gpt-agent.cc | ¥20 / ¥100 | ¥20 / ¥100 | ¥20 / ¥100 | — | — | — |
-| AutoRouter | autorouter.top | ¥27.14 / ¥135.71 | ¥27.14 / ¥135.71 | — | ¥10.18 / ¥50.89 | — | — |
-| HeyRoute | heyroute.ai | ¥27.14 / ¥135.71 | ¥27.14 / ¥135.71 | — | ¥10.18 / ¥50.89 | — | — |
-| OminiGate | ominigate.ai | ¥27.14 / ¥135.71 | ¥27.14 / ¥135.71 | — | — | — | — |
-| Wytkt API | wytkt.cn | ¥75 / ¥375 | ¥75 / ¥375 | ¥75 / ¥300 | — | — | — |
-| Clodex | clodex.xyz | ¥75 / ¥300 | ¥75 / ¥375 | — | ¥75 / ¥300 | — | — |
-| JuAPI 助力企业AI转型 | juapi.net | ¥160 / ¥800 | ¥160 / ¥800 | — | ¥60 / ¥300 | — | — |
-| Getezo中转 | getezo.com | ¥203.56 / ¥814.26 | ¥203.56 / ¥1017.82 | ¥5.43 / ¥32.57 | ¥2.04 / ¥10.18 | — | — |
-| GetGoAPI | getgoapi.com | ¥407.13 / ¥1628.52 | ¥407.13 / ¥2035.64 | ¥10.86 / ¥65.14 | ¥4.07 / ¥20.36 | — | — |
-| SillyDream | wish.sillydream.top | ¥1085.68 / ¥5428.38 | ¥1085.68 / ¥5428.38 | ¥325.7 / ¥1954.22 | ¥244.28 / ¥1221.39 | — | — |
-| 不吃坤肉 | img.yunfei.best | — | — | ¥0.2 / ¥1.2 | ¥0.075 / ¥0.375 | — | — |
-| 哈基米biu | o10.top | — | — | ¥0.3 / ¥1.8 | ¥0.113 / ¥0.562 | — | — |
-| TK API | tkapi.cc.cd | — | — | ¥0.3 / ¥1.8 | — | 易支付 / 支付宝 / 微信 | ¥10 |
-| cicadas | api.cicadas.top | — | — | ¥0.36 / ¥2.16 | — | — | ¥1 |
-| Drag API | dragtokens.com | — | — | ¥0.5 / ¥3 | ¥0.188 / ¥0.938 | 支付宝 | ¥1 |
-| RelayCore | relaycore.cn | — | — | ¥0.5 / ¥3 | — | 微信 / yunmao_shop / 加密货币 | ¥1 |
-| 夯炸了 | hangzhale.com | — | — | ¥0.5 / ¥3 | — | 支付宝 / 微信 | ¥1 |
-| 璃梦API | api.hakanaiktn.com | — | — | ¥0.56 / ¥3.36 | ¥0.21 / ¥1.05 | — | — |
-| BANK OF TOKEN | supply.boft.ai | — | — | ¥0.6 / ¥3.6 | — | 易支付 | ¥1 |
-| OpenToken | otokapi.com | — | — | ¥0.6 / ¥3.6 | — | — | — |
-| xixiapi | xixiapi.cc | — | — | ¥0.6 / ¥3.6 | — | — | ¥1 |
-| 土豆 | 2dou.net | — | — | ¥0.6 / ¥3.6 | — | 易支付 / 支付宝 / 微信 | ¥1 |
-| 沃可思 | vvvox.ink | — | — | ¥0.6 / ¥3.6 | — | — | ¥1 |
-| AI神鸡 | aishenji.top | — | — | ¥0.64 / ¥3.84 | — | 易支付 / USDT | ¥1 |
-| AIHub | aihub.dog | — | — | ¥0.7 / ¥4.2 | — | 易支付 | ¥1 |
-| gods | meisgold.top | — | — | ¥0.7 / ¥4.2 | — | 易支付 | — |
-| 高效中转站 | sub2.de5.net | — | — | ¥0.8 / ¥4.8 | ¥0.3 / ¥1.5 | 易支付 / 支付宝 | ¥1 |
-| Taomu | taomu.xyz | — | — | ¥0.8 / ¥4.8 | — | 支付宝 / 微信 | ¥1 |
-| 吉吉 API | jiji.cc | — | — | ¥0.8 / ¥4.8 | — | 易支付 / Stripe | ¥5 |
-| Zeus-API | zeusnorun.com | — | — | ¥0.86 / ¥5.16 | — | 易支付 | ¥1 |
-| NaMax | namax.ai | — | — | ¥1 / ¥6 | — | 易支付 / 微信 | ¥1 |
-| Claude API | claude-api.org | — | — | ¥1.2 / ¥7.2 | ¥0.375 / ¥1.88 | 易支付 / nowpayments | — |
-| 哟词元 | yostoken.top | — | — | ¥1.2 / ¥7.2 | — | 易支付 | ¥1 |
-| 云渡 | yundu.lol | — | — | ¥1.3 / ¥7.8 | — | 支付宝 / 易支付 / 微信 | ¥10 |
-| 哈基米 API | lanxiu.cc | — | — | ¥1.36 / ¥8.14 | — | — | — |
-| To-Tokens | totokens.cc | — | — | ¥1.4 / ¥8.4 | — | 易支付 | ¥10 |
-| RayinAPI | rayinai.com | — | — | ¥1.5 / ¥9 | — | 易支付 / 支付宝 / Stripe / 微信 | ¥10 |
-| USA-零 | usa0.top | — | — | ¥1.6 / ¥9.6 | — | 易支付 | ¥1 |
-| Yunbay | yunbay.xyz | — | — | ¥2 / ¥12 | — | — | ¥1 |
-| Grox | mcgrox.top | — | — | ¥4 / ¥24 | — | 支付宝 | ¥1 |
-| 枢码AI | hubcodex.fun | — | — | ¥4 / ¥16 | — | 易支付 | ¥1 |
-| DIT.ai | dit.ai | — | — | ¥5.43 / ¥32.57 | — | — | — |
-| 147 AI | 147ai.com | — | — | ¥8 / ¥48 | ¥3 / ¥15 | — | — |
-| AiHao - AI智能体的加油站 | aihao.ai | — | — | ¥13.57 / ¥81.43 | ¥5.09 / ¥25.45 | — | — |
-| PoloAPI | poloapi.com | — | — | ¥13.57 / ¥81.43 | — | — | — |
-| 睿库API | rkapi.com | — | — | ¥67.85 / ¥407.13 | — | — | — |
-| VBCode.io | vbcode.io | — | — | ¥356.24 / ¥1424.95 | — | — | — |
-| 100 Hub | sub.aiboys.xyz | — | — | — | ¥0.113 / ¥0.562 | 易支付 / USDT | ¥10 |
-| MM API | api.slomerex.xyz | — | — | — | ¥0.15 / ¥0.75 | — | — |
-| Walk AI Coding | walkcoding.top | — | — | — | ¥0.15 / ¥0.75 | USDT | ¥1 |
-| MorphAPI | aidjapi.top | — | — | — | ¥0.188 / ¥0.938 | 易支付 / 支付宝 | ¥1 |
-| YM2API 0号机 | yyds.chybenzun.top | — | — | — | ¥0.225 / ¥1.12 | — | — |
-| 菜鸟AI | buddybackend.cloud | — | — | — | ¥0.225 / ¥1.12 | — | — |
-| ApiPorter | apiporter.cn | — | — | — | ¥0.6 / ¥3 | — | — |
-| 三头牛 | 36niu.com | — | — | — | ¥1.02 / ¥5.09 | 微信 | ¥7 |
-| Meinianda AI | meinianda.top | — | — | — | ¥1.43 / ¥7.12 | — | — |
-| 知界API | zjapi.com | — | — | — | ¥5.09 / ¥25.45 | — | — |
-| UNIKEY | getunikey.ai | — | — | — | ¥15 / ¥60 | — | — |
-| 27API | 27api.com | — | — | — | ¥30 / ¥180 | — | ¥1 |
+| OpenLux | openlux.ai | ¥0.11 / ¥0.552 | ¥0.147 / ¥0.735 | ¥0.147 / ¥0.735 | ¥0.353 / ¥2.12 | — | — |
+| 不吃坤肉 | img.yunfei.best | ¥0.15 / ¥0.75 | — | — | ¥0.2 / ¥1.2 | — | — |
+| VideoCaptioner API | videocaptioner.cn | ¥0.165 / ¥0.827 | ¥0.221 / ¥1.1 | ¥0.221 / ¥1.1 | ¥0.529 / ¥3.18 | — | — |
+| Kedaya AI 中转站 | kedaya.ai | ¥0.225 / ¥1.12 | ¥0.3 / ¥1.5 | ¥0.3 / ¥1.5 | — | — | — |
+| 哈基米biu | o10.top | ¥0.225 / ¥1.12 | — | — | ¥0.3 / ¥1.8 | — | — |
+| 100 Hub | sub.aiboys.xyz | ¥0.225 / ¥1.12 | — | — | — | 易支付 / USDT | ¥10 |
+| [A6API](https://www.findbestapi.com/site/a6api/) | a6api.com | ¥0.242 / ¥1.21 | ¥0.277 / ¥1.38 | ¥0.277 / ¥1.38 | ¥0.277 / ¥1.66 | — | — |
+| luciferai | luciferai.cc | ¥0.285 / ¥1.43 | ¥0.7 / ¥3.5 | ¥0.7 / ¥3.5 | — | — | — |
+| RPG8 | api.rpg8.cn | ¥0.3 / ¥1.5 | ¥0.2 / ¥1 | ¥0.2 / ¥1 | ¥0.2 / ¥12 | — | — |
+| [V-API](https://www.findbestapi.com/site/api-gpt-ge/) | api.gpt.ge | ¥0.3 / ¥1.5 | ¥0.2 / ¥1 | ¥0.2 / ¥1 | ¥0.2 / ¥1.2 | 微信 / USDT | ¥12.5 |
+| Z-API | api.zicc.cc | ¥0.3 / ¥1.5 | ¥0.2 / ¥1 | ¥0.2 / ¥1 | ¥0.2 / ¥1.2 | 支付宝 / 微信 | — |
+| PRY API | bearlab.ai | ¥0.3 / ¥1.5 | ¥0.4 / ¥2 | ¥0.4 / ¥2 | ¥0.4 / ¥2.4 | 支付宝 / 微信 | ¥10 |
+| 汪汪の中转站 | api.hyhawang.com | ¥0.3 / ¥1.5 | ¥0.4 / ¥2 | ¥0.4 / ¥2 | ¥0.4 / ¥2.4 | — | — |
+| MM API | api.slomerex.xyz | ¥0.3 / ¥1.5 | — | — | — | — | — |
+| Walk AI Coding | walkcoding.top | ¥0.3 / ¥1.5 | — | — | — | USDT | ¥1 |
+| YeToken | yetoken.vip | ¥0.33 / ¥1.65 | ¥1.32 / ¥6.6 | ¥1.32 / ¥6.6 | ¥0.44 / ¥2.64 | — | — |
+| 旺旺中转站 | api.bbww.top | ¥0.333 / ¥1.67 | ¥0.222 / ¥1.11 | ¥0.222 / ¥1.11 | ¥0.222 / ¥1.33 | USDT / Stripe | ¥1 |
+| 合聚API | hejuapi.com | ¥0.375 / ¥1.88 | ¥0.5 / ¥2.5 | ¥0.5 / ¥2.5 | ¥0.5 / ¥3 | 支付宝 / 微信 | ¥5 |
+| NikoAPI | nikoapi.xyz | ¥0.375 / ¥1.88 | ¥0.5 / ¥2.5 | ¥0.5 / ¥2.5 | ¥2.2 / ¥13.2 | — | — |
+| GGUU AI | gguuai.com | ¥0.375 / ¥1.88 | ¥0.5 / ¥2.5 | ¥0.5 / ¥2.5 | — | — | — |
+| Jasper | api.yjs.im | ¥0.375 / ¥1.88 | ¥0.8 / ¥4 | ¥0.8 / ¥4 | ¥0.5 / ¥3 | — | — |
+| ZeroCat | zero.cat | ¥0.375 / ¥1.88 | ¥1 / ¥5 | ¥1 / ¥5 | ¥0.5 / ¥3 | — | — |
+| Drag API | dragtokens.com | ¥0.375 / ¥1.88 | — | — | ¥0.5 / ¥3 | 支付宝 | ¥1 |
+| MorphAPI | aidjapi.top | ¥0.375 / ¥1.88 | — | — | — | 易支付 / 支付宝 | ¥1 |
+| LMU AI · 灵眸 | api.lmuai.ai | ¥0.379 / ¥1.89 | ¥0.505 / ¥2.52 | ¥0.505 / ¥2.52 | ¥0.505 / ¥3.03 | 支付宝 / 微信 | ¥10 |
+| poloai | poloai.top | ¥0.41 / ¥2.05 | ¥0.274 / ¥1.37 | ¥0.274 / ¥1.37 | ¥0.274 / ¥1.64 | — | — |
+| 璃梦API | api.hakanaiktn.com | ¥0.42 / ¥2.1 | — | — | ¥0.56 / ¥3.36 | — | — |
+| API VibeCoding | apiclaude.cc | ¥0.437 / ¥2.19 | ¥0.583 / ¥2.92 | ¥0.583 / ¥2.92 | ¥0.583 / ¥3.5 | 易支付 | ¥1 |
+| Rehdasu API | rehdasu.cn | ¥0.45 / ¥2.25 | ¥0.3 / ¥1.5 | ¥0.3 / ¥1.5 | ¥0.3 / ¥1.8 | — | — |
+| apikl.ai | apikl.ai | ¥0.45 / ¥2.25 | ¥0.6 / ¥3 | ¥0.6 / ¥3 | ¥0.6 / ¥3.6 | — | — |
+| Bot Compute Fabric | botcf.com | ¥0.45 / ¥2.25 | ¥0.6 / ¥3 | ¥0.6 / ¥3 | ¥0.6 / ¥3.6 | — | — |
+| [deepkey](https://www.findbestapi.com/site/deepkey-top/) | deepkey.top | ¥0.45 / ¥2.25 | ¥0.6 / ¥3 | ¥0.6 / ¥3 | ¥0.6 / ¥3.6 | 支付宝 / 微信 / USDT / 加密货币 | ¥5 |
+| 云枢 API | nextpro.top | ¥0.45 / ¥2.25 | ¥0.6 / ¥3 | ¥0.6 / ¥3 | ¥0.6 / ¥3.6 | — | — |
+| 嘀嘀嘀 AI | dddai.dev | ¥0.45 / ¥2.25 | ¥0.6 / ¥3 | ¥0.6 / ¥3 | ¥0.6 / ¥3.6 | — | — |
+| FastAI | fastaitoken.com | ¥0.45 / ¥2.25 | ¥0.6 / ¥3 | ¥0.6 / ¥3 | — | 易支付 / 加密货币 | ¥10 |
+| nexfaro 探索科技 | nexfaro.com | ¥0.45 / ¥2.25 | ¥0.6 / ¥3 | ¥0.6 / ¥3 | — | — | — |
+| Openai_ | aiooapi.com | ¥0.45 / ¥2.25 | ¥0.6 / ¥3 | ¥0.6 / ¥3 | — | — | — |
+| 云智AI-稳定可靠 | yzcld.com | ¥0.45 / ¥2.25 | ¥0.6 / ¥3 | ¥0.6 / ¥3 | — | — | — |
+| 鑫旺Neko API | 790053500.com | ¥0.45 / ¥2.25 | ¥0.6 / ¥3 | ¥0.6 / ¥3 | — | — | — |
+| TK API | tkapi.cc.cd | ¥0.45 / ¥2.25 | — | — | ¥0.3 / ¥1.8 | 易支付 / 支付宝 / 微信 | ¥10 |
+| YM2API 0号机 | yyds.chybenzun.top | ¥0.45 / ¥2.25 | — | — | — | — | — |
+| 菜鸟AI | buddybackend.cloud | ¥0.45 / ¥2.25 | — | — | — | — | — |
+| Nova AI | 2api.novai.su | ¥0.5 / ¥2.5 | ¥1 / ¥5 | ¥1 / ¥5 | ¥1 / ¥6 | — | — |
+| WAWA ZZ API | wawazz.xyz | ¥0.525 / ¥2.62 | ¥0.7 / ¥3.5 | ¥0.7 / ¥3.5 | ¥0.7 / ¥4.2 | — | — |
+| XINGYI API | xingyi888.com | ¥0.525 / ¥2.62 | ¥0.7 / ¥3.5 | ¥0.7 / ¥3.5 | — | — | — |
+| LaneAI | api.laneai.dev | ¥0.525 / ¥2.62 | ¥2 / ¥9 | ¥2 / ¥10 | — | — | — |
+| cicadas | api.cicadas.top | ¥0.54 / ¥2.7 | — | — | ¥0.36 / ¥2.16 | — | ¥1 |
+| ByteClaude | claude.bestswifter.com | ¥0.6 / ¥3 | ¥0.4 / ¥2 | ¥0.4 / ¥2 | ¥0.4 / ¥2.4 | — | — |
+| OneChats | chatapi.onechats.top | ¥0.6 / ¥3 | ¥0.4 / ¥2 | ¥0.4 / ¥2 | ¥0.4 / ¥2.4 | 支付宝 | ¥1 |
+| SHUAI API | api.shuaiapi.com | ¥0.6 / ¥3 | ¥0.8 / ¥4 | ¥0.8 / ¥4 | ¥0.8 / ¥4.8 | — | — |
+| 深空 API | xkrelay.com | ¥0.6 / ¥3 | ¥0.8 / ¥4 | ¥0.8 / ¥4 | — | — | — |
+| STA1N API | cdn.sta1n.cn | ¥0.6 / ¥3 | ¥3.5 / ¥17.5 | ¥3.5 / ¥17.5 | — | — | — |
+| 高效中转站 | sub2.de5.net | ¥0.6 / ¥3 | — | — | ¥0.8 / ¥4.8 | 易支付 / 支付宝 | ¥1 |
+| [H API](https://www.findbestapi.com/site/h-api/) | hapiopen.cc | ¥0.675 / ¥3.38 | ¥0.9 / ¥4.5 | ¥0.9 / ¥4.5 | ¥0.9 / ¥5.4 | 支付宝 | ¥1 |
+| TokenSOS | tokensos.net | ¥0.75 / ¥3.75 | ¥1 / ¥5 | ¥1 / ¥5 | ¥1 / ¥6 | — | — |
+| [UU API](https://www.findbestapi.com/site/uuapi-net/) | uuapi.io | ¥0.75 / ¥3.75 | ¥1 / ¥5 | ¥1 / ¥5 | ¥1 / ¥6 | 支付宝 / 微信 | ¥1 |
+| xiaojing | open.xiaojingai.com | ¥0.75 / ¥3.75 | ¥1 / ¥5 | ¥1 / ¥5 | ¥1 / ¥6 | 支付宝 / 微信 / PayPal | ¥1 |
+| 小丁AI | xdcn.top | ¥0.75 / ¥3.75 | ¥1 / ¥5 | — | — | 支付宝 | ¥1 |
+| x-llm | x-llm.net | ¥0.75 / ¥3.75 | ¥2 / ¥10 | ¥2 / ¥10 | ¥1 / ¥6 | 支付宝 | — |
+| 旋转智能｜Radius to Core | ai.rtoc.cc | ¥0.75 / ¥3.75 | ¥2 / ¥10 | ¥2 / ¥10 | — | — | — |
+| RelayCore | relaycore.cn | ¥0.75 / ¥3.75 | — | — | ¥0.5 / ¥3 | 微信 / yunmao_shop / 加密货币 | ¥1 |
+| 夯炸了 | hangzhale.com | ¥0.75 / ¥3.75 | — | — | ¥0.5 / ¥3 | 支付宝 / 微信 | ¥1 |
+| Claude API | claude-api.org | ¥0.75 / ¥3.75 | — | — | ¥1.2 / ¥7.2 | 易支付 / nowpayments | — |
+| GINKA API | api.ginka.cloud | ¥0.825 / ¥4.12 | ¥1.1 / ¥5.5 | ¥1.1 / ¥5.5 | — | — | — |
+| Ruoli API | ruoli.dev | ¥0.9 / ¥4.5 | ¥0.6 / ¥3 | ¥0.6 / ¥3 | ¥0.6 / ¥3.6 | — | — |
+| SparkCode | sparkcode.top | ¥0.9 / ¥4.5 | ¥0.6 / ¥3 | ¥0.6 / ¥3 | ¥0.6 / ¥3.6 | — | — |
+| 寒鹤的小破站 | api.hanhegufei.online | ¥0.9 / ¥4.5 | ¥0.6 / ¥3 | ¥0.6 / ¥3 | ¥0.6 / ¥3.6 | — | — |
+| [LinkAI](https://www.findbestapi.com/site/linkai/) | linkai.pics | ¥0.9 / ¥4.5 | ¥1.2 / ¥6 | ¥1.2 / ¥6 | ¥1.2 / ¥7.2 | 支付宝 | ¥5 |
+| [RightCode](https://www.findbestapi.com/site/right-codes/) | rightapi.io | ¥0.9 / ¥4.5 | ¥1.2 / ¥6 | ¥1.2 / ¥6 | ¥1.2 / ¥7.2 | 支付宝 | — |
+| BANK OF TOKEN | supply.boft.ai | ¥0.9 / ¥4.5 | — | — | ¥0.6 / ¥3.6 | 易支付 | ¥1 |
+| OpenToken | otokapi.com | ¥0.9 / ¥4.5 | — | — | ¥0.6 / ¥3.6 | — | — |
+| xixiapi | xixiapi.cc | ¥0.9 / ¥4.5 | — | — | ¥0.6 / ¥3.6 | — | ¥1 |
+| 土豆 | 2dou.net | ¥0.9 / ¥4.5 | — | — | ¥0.6 / ¥3.6 | 易支付 / 支付宝 / 微信 | ¥1 |
+| 沃可思 | vvvox.ink | ¥0.9 / ¥4.5 | — | — | ¥0.6 / ¥3.6 | — | ¥1 |
+| [LinkAPI](https://www.findbestapi.com/site/linkapi-ai/) | linkapi.ai | ¥0.945 / ¥4.72 | ¥0.63 / ¥3.15 | ¥0.63 / ¥3.15 | ¥0.63 / ¥2.5 | 支付宝 / 微信 | ¥1 |
+| AI神鸡 | aishenji.top | ¥0.96 / ¥4.8 | — | — | ¥0.64 / ¥3.84 | 易支付 / USDT | ¥1 |
+| TokOne | tokone.ai | ¥1.05 / ¥5.25 | ¥1.4 / ¥7 | ¥1.4 / ¥7 | ¥1.4 / ¥8.4 | — | — |
+| 88API-Token聚合平台 | 88api.ai | ¥1.05 / ¥5.25 | ¥4.2 / ¥21 | ¥4.2 / ¥21 | ¥4.2 / ¥25.2 | — | — |
+| AIHub | aihub.dog | ¥1.05 / ¥5.25 | — | — | ¥0.7 / ¥4.2 | 易支付 | ¥1 |
+| gods | meisgold.top | ¥1.05 / ¥5.25 | — | — | ¥0.7 / ¥4.2 | 易支付 | — |
+| Yourapi | yourapi.cn | ¥1.2 / ¥6 | ¥0.8 / ¥4 | ¥0.8 / ¥4 | ¥0.8 / ¥4.8 | — | — |
+| [APINebula](https://www.findbestapi.com/site/apinebula-com/) | apinebula.ai | ¥1.2 / ¥6 | ¥1.6 / ¥8 | ¥1.6 / ¥8 | ¥1.6 / ¥9.6 | 支付宝 | ¥20 |
+| Taomu | taomu.xyz | ¥1.2 / ¥6 | — | — | ¥0.8 / ¥4.8 | 支付宝 / 微信 | ¥1 |
+| 吉吉 API | jiji.cc | ¥1.2 / ¥6 | — | — | ¥0.8 / ¥4.8 | 易支付 / Stripe | ¥5 |
+| ApiPorter | apiporter.cn | ¥1.2 / ¥6 | — | — | — | — | — |
+| Codex For | blackaicoding.com | ¥1.22 / ¥6.08 | ¥0.811 / ¥4.05 | ¥0.811 / ¥4.05 | — | 易支付 | ¥1 |
+| KiosAPI | kiosapi.com | ¥1.22 / ¥6.11 | ¥0.814 / ¥4.07 | ¥0.814 / ¥4.07 | — | — | — |
+| Zeus-API | zeusnorun.com | ¥1.29 / ¥6.45 | — | — | ¥0.86 / ¥5.16 | 易支付 | ¥1 |
+| Die Ge | diegeai.com | ¥1.5 / ¥7.5 | ¥1 / ¥5 | ¥1 / ¥5 | ¥1 / ¥6 | 微信 | ¥10 |
+| 换API | huanapi.com | ¥1.5 / ¥7.5 | ¥1 / ¥5 | ¥1 / ¥5 | ¥1 / ¥6 | — | — |
+| 白鸟 | bnwu.top | ¥1.5 / ¥7.5 | ¥1 / ¥5 | ¥1 / ¥5 | ¥1 / ¥1 | — | — |
+| Apilio | apilio.ai | ¥1.5 / ¥7.5 | ¥2 / ¥10 | ¥2 / ¥10 | ¥2 / ¥12 | — | — |
+| comfly | ai.comfly.org | ¥1.5 / ¥7.5 | ¥2 / ¥10 | ¥2 / ¥10 | ¥2 / ¥12 | — | — |
+| Xcode | xcode.best | ¥1.5 / ¥7.5 | ¥2 / ¥10 | ¥2 / ¥10 | ¥2 / ¥12 | 支付宝 | ¥1 |
+| NaMax | namax.ai | ¥1.5 / ¥7.5 | — | — | ¥1 / ¥6 | 易支付 / 微信 | ¥1 |
+| UnoRouter | unorouter.com | ¥1.53 / ¥7.63 | ¥3.66 / ¥18.32 | ¥3.66 / ¥18.32 | — | Card / Google & Apple Pay / 支付宝 / 加密货币 | $1 |
+| 12API | api.12ai.org | ¥1.8 / ¥9 | ¥1.2 / ¥6 | ¥1.2 / ¥6 | ¥1.2 / ¥7.2 | — | — |
+| DasuAPI | dasuapi.com | ¥1.8 / ¥9 | ¥1.2 / ¥6 | ¥1.2 / ¥6 | — | — | — |
+| 哟词元 | yostoken.top | ¥1.8 / ¥9 | — | — | ¥1.2 / ¥7.2 | 易支付 | ¥1 |
+| Moyuu | moyuu.cc | ¥1.83 / ¥9.16 | ¥2.44 / ¥12.21 | ¥2.44 / ¥12.21 | — | — | — |
+| 云渡 | yundu.lol | ¥1.95 / ¥9.75 | — | — | ¥1.3 / ¥7.8 | 支付宝 / 易支付 / 微信 | ¥10 |
+| 维塔斯 AI | aiwts.com | ¥2 / ¥10 | ¥5.25 / ¥26.25 | ¥2 / ¥10 | ¥2 / ¥12 | 支付宝 / 微信 | ¥10 |
+| Top-API | api-top.com | ¥2.04 / ¥10.18 | ¥1.36 / ¥6.79 | ¥1.36 / ¥6.79 | ¥1.36 / ¥8.14 | 支付宝 / 微信 | ¥7 |
+| CodingRouter | api.codingrouter.ai | ¥2.04 / ¥10.18 | ¥2.71 / ¥13.57 | ¥2.71 / ¥13.57 | ¥2.71 / ¥16.29 | Stripe | ¥10 |
+| 鱼鱼连线 | yylx.io | ¥2.04 / ¥10.18 | ¥2.71 / ¥13.57 | ¥2.71 / ¥13.57 | ¥2.71 / ¥16.29 | — | — |
+| 哈基米 API | lanxiu.cc | ¥2.04 / ¥10.18 | — | — | ¥1.36 / ¥8.14 | — | — |
+| 三头牛 | 36niu.com | ¥2.04 / ¥10.18 | — | — | — | 微信 | ¥7 |
+| [IKunCode](https://www.findbestapi.com/site/api-ikuncode-cc/) | api.ikuncode.cc | ¥2.1 / ¥10.5 | ¥1.4 / ¥7 | ¥1.4 / ¥7 | ¥1.4 / ¥8.4 | 支付宝 / 微信 | ¥1 |
+| [云影 API](https://www.findbestapi.com/site/yyapi-cloud/) | yyapi.cloud | ¥2.1 / ¥10.5 | ¥1.4 / ¥7 | ¥1.4 / ¥7 | ¥1.4 / ¥8.4 | 支付宝 / 微信 | ¥1 |
+| To-Tokens | totokens.cc | ¥2.1 / ¥10.5 | — | — | ¥1.4 / ¥8.4 | 易支付 | ¥10 |
+| [RunAPI](https://www.findbestapi.com/site/runapi-co/) | runapi.host | ¥2.14 / ¥10.69 | ¥2.85 / ¥14.25 | ¥2.85 / ¥14.25 | ¥2.92 / ¥17.51 | 支付宝 / 信用卡 | ¥7 |
+| geekai | geekai.co | ¥2.25 / ¥11.25 | ¥1.5 / ¥7.5 | ¥1.5 / ¥7.5 | ¥1.5 / ¥9 | — | — |
+| Code0.ai | code0.ai | ¥2.25 / ¥11.25 | ¥3 / ¥15 | ¥3 / ¥15 | ¥5 / ¥30 | 支付宝 / 微信 / Stripe | ¥1 |
+| RayinAPI | rayinai.com | ¥2.25 / ¥11.25 | — | — | ¥1.5 / ¥9 | 易支付 / 支付宝 / Stripe / 微信 | ¥10 |
+| [ByteCat](https://www.findbestapi.com/site/bytecatcode-org/) | bytecatcode.org | ¥2.4 / ¥12 | ¥1.6 / ¥8 | ¥1.6 / ¥8 | ¥1.6 / ¥6.4 | 支付宝 | ¥10 |
+| Global AI | globalai.vip | ¥2.4 / ¥12 | ¥1.6 / ¥8 | ¥1.6 / ¥8 | ¥1.6 / ¥9.6 | 支付宝 | ¥1 |
+| SoleAPI | soleapi.com | ¥2.4 / ¥12 | ¥6.4 / ¥32 | ¥6.4 / ¥32 | ¥3.2 / ¥19.2 | — | — |
+| USA-零 | usa0.top | ¥2.4 / ¥12 | — | — | ¥1.6 / ¥9.6 | 易支付 | ¥1 |
+| [LinksAPI](https://www.findbestapi.com/site/linksapi/) | linksapi.cn | ¥2.44 / ¥12.19 | ¥2.6 / ¥13 | ¥2.6 / ¥13 | ¥1.62 / ¥9.75 | 支付宝 / 微信 / Stripe | ¥1 |
+| 佛爷API | 988665.xyz | ¥2.54 / ¥12.72 | ¥3.39 / ¥16.96 | ¥3.39 / ¥16.96 | — | — | — |
+| ZZ OneAPI Console | zzone.cc.cd | ¥2.65 / ¥13.23 | ¥3.53 / ¥17.64 | ¥3.53 / ¥17.64 | — | — | — |
+| 537 AI | 537-ai.net | ¥2.7 / ¥13.5 | ¥1.8 / ¥9 | ¥1.8 / ¥9 | ¥1.8 / ¥10.8 | — | — |
+| [OhMyGPT](https://www.findbestapi.com/site/x-dogenet-win/) | x.dogenet.win | ¥2.7 / ¥13.5 | ¥1.8 / ¥9 | ¥1.8 / ¥9 | ¥1.8 / ¥10.8 | — | — |
+| Meinianda AI | meinianda.top | ¥2.85 / ¥14.25 | — | — | — | — | — |
+| [OpenOx](https://www.findbestapi.com/site/openox/) | openox.tech | ¥3 / ¥15 | ¥0.6 / ¥3 | ¥2 / ¥10 | ¥0.6 / ¥3.6 | 支付宝 | ¥1 |
+| chatfire | api.chatfire.cn | ¥3 / ¥15 | ¥2 / ¥10 | ¥2 / ¥10 | ¥2 / ¥12 | — | — |
+| DawCode | dawcode.ai | ¥3 / ¥15 | ¥2 / ¥10 | ¥2 / ¥10 | ¥2 / ¥12 | 微信 | ¥100 |
+| Dualseason API | dualseason.com | ¥3 / ¥15 | ¥2 / ¥10 | ¥2 / ¥10 | ¥2 / ¥12 | — | — |
+| Kkaiapi | kkaiapi.com | ¥3 / ¥15 | ¥2 / ¥10 | ¥2 / ¥10 | ¥2 / ¥12 | — | — |
+| Kuaipao API | kuaipao.pro | ¥3 / ¥15 | ¥2 / ¥10 | ¥2 / ¥10 | ¥2 / ¥12 | — | — |
+| lyapunov-api | api.lyapunov-vector.com | ¥3 / ¥15 | ¥2 / ¥10 | ¥2 / ¥10 | ¥2 / ¥8 | — | — |
+| ToCodex | user.tocodex.com | ¥3 / ¥15 | ¥2 / ¥10 | ¥2 / ¥10 | ¥2 / ¥12 | 支付宝 | ¥10 |
+| Uiuihao API | api.uiuihao.com | ¥3 / ¥15 | ¥2 / ¥10 | ¥2 / ¥10 | ¥2 / ¥12 | — | — |
+| yinli | yinli.one | ¥3 / ¥15 | ¥2 / ¥10 | ¥2 / ¥10 | ¥2 / ¥12 | — | — |
+| 4Router | 4router.net | ¥3 / ¥15 | ¥4 / ¥20 | ¥4 / ¥20 | ¥4 / ¥24 | — | — |
+| 球球Token | qiuqiutoken.net | ¥3 / ¥15 | ¥4 / ¥20 | ¥4 / ¥20 | ¥14.4 / ¥86.4 | 支付宝 / 微信 / Stripe | ¥1 |
+| Yunbay | yunbay.xyz | ¥3 / ¥15 | — | — | ¥2 / ¥12 | — | ¥1 |
+| yibuapi | yibuapi.com | ¥3 / ¥15 | — | — | — | — | — |
+| AIAPI World | aiapi.world | ¥3 / ¥15 | ¥1.99 / ¥9.97 | ¥1.99 / ¥9.97 | ¥1.99 / ¥11.96 | — | — |
+| DragonAPI | dragon3api.com | ¥3.05 / ¥15.27 | ¥4.07 / ¥20.36 | ¥4.07 / ¥20.36 | — | — | — |
+| YCY API | ycyapi.cn | ¥3.05 / ¥15.27 | ¥4.07 / ¥20.36 | ¥4.07 / ¥20.36 | — | — | — |
+| 乾行AI | qianxing.pro | ¥3.05 / ¥15.27 | ¥4.07 / ¥20.36 | ¥4.07 / ¥20.36 | — | 支付宝 | — |
+| 星期天AI | weekly-day.top | ¥3.05 / ¥15.27 | ¥4.07 / ¥20.36 | ¥4.07 / ¥20.36 | — | — | — |
+| Kie.ai | kie.ai | ¥3.05 / ¥15.27 | ¥5.43 / ¥27.14 | ¥5.43 / ¥27.14 | — | — | — |
+| Moniker | aimoniker.top | ¥3.05 / ¥15.27 | ¥6.79 / ¥33.93 | ¥6.79 / ¥33.93 | — | — | — |
+| LantAPI | lantapi.top | ¥3.2 / ¥16 | ¥1.6 / ¥8 | ¥1.6 / ¥8 | — | 微信 | ¥10 |
+| Qiny API | openai.chatnewai.com | ¥3.36 / ¥16.79 | ¥8.96 / ¥44.78 | ¥8.96 / ¥44.78 | ¥25.45 / ¥152.67 | — | — |
+| GPTeam | portal.gpteamservices.com | ¥4.07 / ¥20.36 | ¥2.71 / ¥13.57 | ¥2.71 / ¥13.57 | ¥2.71 / ¥16.29 | 支付宝 / 微信 | ¥7 |
+| ToAPIs | toapis.cn | ¥4.07 / ¥20.36 | ¥2.71 / ¥13.57 | ¥2.71 / ¥13.57 | — | — | — |
+| aicost API | aicost.me | ¥4.07 / ¥20.36 | ¥5.43 / ¥27.14 | ¥5.43 / ¥27.14 | ¥5.43 / ¥32.57 | 微信 | — |
+| V-API | api.vveai.com | ¥4.07 / ¥20.36 | ¥5.43 / ¥27.14 | ¥5.43 / ¥27.14 | — | — | — |
+| Wokey | wokey.ai | ¥4.07 / ¥20.36 | ¥8.14 / ¥40.71 | ¥8.14 / ¥40.71 | — | — | — |
+| 龙虾计划 | openclawplan.com | ¥4.07 / ¥20.36 | ¥8.14 / ¥48.86 | ¥8.14 / ¥40.71 | — | — | — |
+| Getezo中转 | getezo.com | ¥4.07 / ¥20.36 | ¥203.56 / ¥814.26 | ¥203.56 / ¥1017.82 | ¥5.43 / ¥32.57 | — | — |
+| Bailili API | api.bailili.top | ¥4.5 / ¥22.5 | ¥3 / ¥15 | ¥3 / ¥15 | ¥3 / ¥18 | 支付宝 / 微信 | — |
+| 无限API | infai.cc | ¥4.5 / ¥22.5 | ¥3 / ¥15 | ¥3 / ¥15 | ¥3 / ¥18 | 支付宝 / 微信 | — |
+| APIYI | api.apiyi.com | ¥5.09 / ¥25.45 | ¥13.57 / ¥67.85 | ¥13.57 / ¥67.85 | ¥6.79 / ¥40.71 | — | — |
+| Clauddy API | clauddy.com | ¥5.4 / ¥27 | ¥3.6 / ¥18 | ¥3.6 / ¥18 | ¥3.6 / ¥21.6 | — | — |
+| kksj | cnapi.kksj.org | ¥5.4 / ¥27 | ¥3.6 / ¥18 | ¥3.6 / ¥18 | ¥3.6 / ¥21.6 | — | — |
+| [AiXor](https://www.findbestapi.com/site/aixor-org/) | aixor.dev | ¥6 / ¥30 | ¥4 / ¥20 | ¥4 / ¥20 | ¥4 / ¥24 | 支付宝 | ¥1 |
+| Grox | mcgrox.top | ¥6 / ¥30 | — | — | ¥4 / ¥24 | 支付宝 | ¥1 |
+| 枢码AI | hubcodex.fun | ¥6 / ¥30 | — | — | ¥4 / ¥16 | 易支付 | ¥1 |
+| 147 AI | 147ai.com | ¥6 / ¥30 | — | — | ¥8 / ¥48 | — | — |
+| [Cooper-API](https://www.findbestapi.com/site/cooper-api-com/) | cooper-api.com | ¥6.11 / ¥30.53 | ¥4.07 / ¥20.36 | ¥4.07 / ¥20.36 | ¥4.07 / ¥24.43 | 微信 | ¥7 |
+| ClaudeApi | apito.ai | ¥6.11 / ¥30.53 | ¥8.14 / ¥67.85 | ¥8.14 / ¥40.71 | ¥8.14 / ¥48.86 | Stripe | $1 |
+| corealgos | corealgos.com | ¥6.11 / ¥30.53 | ¥8.14 / ¥40.71 | ¥8.14 / ¥40.71 | ¥8.14 / ¥48.86 | 微信 | ¥1 |
+| 2Y API | yyapis.com | ¥6.11 / ¥30.53 | ¥8.14 / ¥40.71 | ¥8.14 / ¥40.71 | — | — | — |
+| Poixe AI | poixe.com | ¥6.35 / ¥31.76 | ¥4.23 / ¥21.17 | ¥4.23 / ¥21.17 | ¥4.24 / ¥33.93 | 支付宝 / 信用卡 | ¥5 |
+| [Micu](https://www.findbestapi.com/site/micuapi-ai/) | micuapi.ai | ¥6.6 / ¥33 | ¥4.4 / ¥22 | ¥4.4 / ¥22 | ¥4.4 / ¥26.4 | 支付宝 / 微信 | ¥50 |
+| Token云桥 | api.quya.org | ¥6.6 / ¥33 | ¥4.4 / ¥22 | ¥4.4 / ¥22 | ¥4.4 / ¥26.4 | 支付宝 / 微信 / USDT | ¥100 |
+| nekoapi | api.nekoapi.com | ¥7.5 / ¥37.5 | ¥5 / ¥25 | ¥5 / ¥25 | ¥5 / ¥30 | 支付宝 / 微信 / USDT / Stripe | — |
+| 聚星AI | juxingai.xyz | ¥7.7 / ¥38.5 | ¥2.2 / ¥11 | ¥2.2 / ¥11 | ¥2.2 / ¥13.2 | 支付宝 / 微信 | ¥10 |
+| api.68886868.xyz | api.68886868.xyz | ¥7.94 / ¥39.7 | ¥5.29 / ¥26.46 | ¥5.29 / ¥26.46 | ¥5.29 / ¥31.76 | — | — |
+| APIB | apib.ai | ¥8.14 / ¥40.71 | ¥10.86 / ¥54.28 | ¥10.86 / ¥54.28 | ¥10.86 / ¥65.14 | — | — |
+| GetGoAPI | getgoapi.com | ¥8.14 / ¥40.71 | ¥407.13 / ¥1628.52 | ¥407.13 / ¥2035.64 | ¥10.86 / ¥65.14 | — | — |
+| DIT.ai | dit.ai | ¥8.14 / ¥40.71 | — | — | ¥5.43 / ¥32.57 | — | — |
+| 可乐AI | code28.ccwu.cc | ¥9.16 / ¥45.8 | ¥6.79 / ¥33.93 | ¥6.79 / ¥33.93 | ¥6.79 / ¥40.71 | — | — |
+| Mirgo | mirgo.top | ¥9.27 / ¥46.33 | ¥6.18 / ¥30.89 | ¥6.18 / ¥30.89 | — | — | — |
+| ZEN-AI | zen-ai.top | ¥10.18 / ¥50.89 | ¥6.79 / ¥33.93 | ¥6.79 / ¥33.93 | ¥6.79 / ¥40.71 | — | — |
+| UniAPI | uniapi.ai | ¥10.18 / ¥50.89 | ¥13.57 / ¥67.85 | ¥13.57 / ¥67.85 | ¥6.79 / ¥40.71 | — | — |
+| DMXAPI Global | dmxapi.com | ¥10.18 / ¥50.89 | ¥13.57 / ¥67.85 | ¥13.57 / ¥67.85 | ¥13.57 / ¥81.43 | 微信 / 支付宝 | — |
+| OfoxAI | ofox.io | ¥10.18 / ¥50.89 | ¥13.57 / ¥67.85 | ¥13.57 / ¥67.85 | ¥13.57 / ¥81.43 | — | — |
+| AIsa | aisa.one | ¥10.18 / ¥50.89 | ¥13.57 / ¥67.85 | ¥13.57 / ¥67.85 | — | — | $10 |
+| CherryIN | open.cherryin.ai | ¥10.18 / ¥50.89 | ¥13.57 / ¥67.85 | ¥13.57 / ¥67.85 | — | — | — |
+| CherryIN | cherryin.net | ¥10.18 / ¥50.89 | ¥13.57 / ¥67.85 | ¥13.57 / ¥67.85 | — | — | — |
+| Crazyrouter | crazyrouter.com | ¥10.18 / ¥50.89 | ¥13.57 / ¥67.85 | ¥13.57 / ¥67.85 | — | — | — |
+| OrcaRouter | orcarouter.ai | ¥10.18 / ¥50.89 | ¥13.57 / ¥67.85 | ¥13.57 / ¥67.85 | — | — | — |
+| AiHao - AI智能体的加油站 | aihao.ai | ¥10.18 / ¥50.89 | — | — | ¥13.57 / ¥81.43 | — | — |
+| 知界API | zjapi.com | ¥10.18 / ¥50.89 | — | — | — | — | — |
+| HUBWAY | hubway.cc | ¥10.5 / ¥52.5 | ¥7 / ¥35 | ¥7 / ¥35 | — | — | — |
+| 小红马AIGS | aigs.cc | ¥10.8 / ¥54 | ¥16.56 / ¥82.8 | ¥16.56 / ¥82.8 | — | — | — |
+| OmniaKey | omniakey.com | ¥10.86 / ¥54.28 | ¥5.43 / ¥27.14 | ¥5.43 / ¥27.14 | ¥5.43 / ¥32.57 | 支付宝 / Stripe | ¥5 |
+| Passion8 API | passion8.cc | ¥12.21 / ¥61.07 | ¥8.14 / ¥40.71 | ¥8.14 / ¥40.71 | — | — | — |
+| 刀刀刀 | codexapis.com | ¥14.25 / ¥71.25 | ¥9.5 / ¥47.5 | ¥9.5 / ¥47.5 | — | Stripe / 信用卡 | — |
+| xinsuanai | xinsuanai.com | ¥15 / ¥75 | ¥10 / ¥50 | ¥10 / ¥50 | ¥10 / ¥40 | 微信 | — |
+| MoleAPI | home.moleapi.com | ¥16.29 / ¥81.43 | ¥10.86 / ¥54.28 | ¥10.86 / ¥54.28 | ¥10.86 / ¥65.14 | 支付宝 / 微信 / 加密支付 / 全球支付 | $1（实付¥6.8） |
+| 元衡 API | meta-api.vip | ¥19.98 / ¥99.9 | ¥13.32 / ¥66.6 | ¥13.32 / ¥66.6 | ¥66.6 / ¥399.6 | — | — |
+| [TryAllAI](https://www.findbestapi.com/site/api-tryallai-com/) | api.tryallai.com | ¥20.36 / ¥101.78 | ¥13.57 / ¥67.85 | ¥13.57 / ¥67.85 | ¥13.57 / ¥81.43 | — | — |
+| AutoRouter | autorouter.top | ¥20.36 / ¥101.78 | ¥27.14 / ¥135.71 | ¥27.14 / ¥135.71 | — | — | — |
+| HeyRoute | heyroute.ai | ¥20.36 / ¥101.78 | ¥27.14 / ¥135.71 | ¥27.14 / ¥135.71 | — | — | — |
+| PoloAPI | poloapi.com | ¥20.36 / ¥101.78 | — | — | ¥13.57 / ¥81.43 | — | — |
+| ClaudeCN | claudecn.top | ¥21 / ¥105 | ¥14 / ¥70 | ¥14 / ¥70 | ¥14 / ¥84 | — | — |
+| [PackyCode](https://www.findbestapi.com/site/packyapi-com/) | packyapi.ai | ¥21 / ¥105 | ¥14 / ¥70 | ¥14 / ¥70 | ¥14 / ¥84 | 信用卡 / App | ¥100 |
+| Api.Airforce | api.airforce | ¥22.39 / ¥111.96 | ¥14.93 / ¥74.64 | ¥14.93 / ¥74.64 | — | — | — |
+| GPT Agent | gpt-agent.cc | ¥24 / ¥120 | ¥20 / ¥100 | ¥20 / ¥100 | ¥20 / ¥100 | — | — |
+| BootToken | boottoken.com | ¥24.75 / ¥123.75 | ¥16.5 / ¥82.5 | ¥16.5 / ¥82.5 | ¥16.5 / ¥99 | 支付宝 / 微信 | ¥10 |
+| ai.bytonsec.com | ai.bytonsec.com | ¥25.45 / ¥127.23 | — | — | — | — | — |
+| [HoHoApi](https://www.findbestapi.com/site/hohoapi/) | hohoapi.com | ¥26.46 / ¥132.32 | ¥17.64 / ¥88.21 | ¥17.64 / ¥88.21 | ¥17.64 / ¥105.85 | — | — |
+| UNIKEY | getunikey.ai | ¥30 / ¥150 | — | — | — | — | — |
+| MaynorAPI | apipro.maynor1024.live | ¥30.53 / ¥152.67 | — | — | — | — | — |
+| OminiGate | ominigate.ai | ¥40.71 / ¥203.56 | ¥27.14 / ¥135.71 | ¥27.14 / ¥135.71 | — | — | — |
+| 27API | 27api.com | ¥60 / ¥300 | — | — | — | — | ¥1 |
+| 睿库API | rkapi.com | ¥101.78 / ¥508.91 | — | — | ¥67.85 / ¥407.13 | — | — |
+| Wytkt API | wytkt.cn | ¥112.5 / ¥562.5 | ¥75 / ¥375 | ¥75 / ¥375 | ¥75 / ¥300 | — | — |
+| JuAPI 助力企业AI转型 | juapi.net | ¥120 / ¥600 | ¥160 / ¥800 | ¥160 / ¥800 | — | — | — |
+| Clodex | clodex.xyz | ¥150 / ¥750 | ¥75 / ¥300 | ¥75 / ¥375 | — | — | — |
+| SillyDream | wish.sillydream.top | ¥488.55 / ¥2442.77 | ¥1085.68 / ¥5428.38 | ¥1085.68 / ¥5428.38 | ¥325.7 / ¥1954.22 | — | — |
+| VBCode.io | vbcode.io | ¥534.36 / ¥2671.78 | — | — | ¥356.24 / ¥1424.95 | — | — |
+| 996444 | api.996444.cn | ¥895.68 / ¥4478.42 | ¥14.93 / ¥74.64 | ¥14.93 / ¥74.64 | ¥14.93 / ¥89.57 | — | — |
 
 ### Grok 中转站报价
 
-<sub>¥/百万 token，输入 / 输出，2026-11-18 更新</sub>
+<sub>¥/百万 token，输入 / 输出，2026-11-19 更新</sub>
 
 | 站名 | 域名 | Grok 4.7 | 支付方式 | 起充 |
 |---|---|---|---|---|
@@ -880,8 +885,10 @@ ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推
 | 合租 Ink | hezubus.cc | ¥0.16 / ¥0.48 | — | — |
 | LMU AI · 灵眸 | api.lmuai.ai | ¥0.162 / ¥0.485 | 支付宝 / 微信 | ¥10 |
 | UnoRouter | unorouter.com | ¥0.163 / ¥0.489 | Card / Google & Apple Pay / 支付宝 / 加密货币 | $1 |
+| [OpenOx](https://www.findbestapi.com/site/openox/) | openox.tech | ¥0.2 / ¥0.599 | 支付宝 | ¥1 |
 | Jasper | api.yjs.im | ¥0.2 / ¥0.6 | — | — |
 | [PackyCode](https://www.findbestapi.com/site/packyapi-com/) | packyapi.ai | ¥0.2 / ¥0.6 | 信用卡 / App | ¥100 |
+| [RightCode](https://www.findbestapi.com/site/right-codes/) | rightapi.io | ¥0.2 / ¥0.6 | 支付宝 | — |
 | SuperCodes | supercodes.vip | ¥0.2 / ¥0.6 | — | — |
 | xiaojing | open.xiaojingai.com | ¥0.2 / ¥0.6 | 支付宝 / 微信 / PayPal | ¥1 |
 | XINGYI API | xingyi888.com | ¥0.2 / ¥0.6 | — | — |
@@ -930,7 +937,6 @@ ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推
 | 88API-Token聚合平台 | 88api.ai | ¥0.7 / ¥2.1 | — | — |
 | Drag API | dragtokens.com | ¥0.8 / ¥2.4 | 支付宝 | ¥1 |
 | [H API](https://www.findbestapi.com/site/h-api/) | hapiopen.cc | ¥0.8 / ¥2.4 | 支付宝 | ¥1 |
-| [OpenOx](https://www.findbestapi.com/site/openox/) | openox.tech | ¥0.8 / ¥2.4 | 支付宝 | ¥1 |
 | SoleAPI | soleapi.com | ¥0.8 / ¥2.4 | — | — |
 | [UU API](https://www.findbestapi.com/site/uuapi-net/) | uuapi.io | ¥0.8 / ¥2.4 | 支付宝 / 微信 | ¥1 |
 | 小丁AI | xdcn.top | ¥0.8 / ¥2.4 | 支付宝 | ¥1 |
@@ -998,6 +1004,7 @@ ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推
 | Lanln | ai.venlacy.com | ¥5.6 / ¥16.8 | — | — |
 | hiapi | hiapi.ai | ¥5.7 / ¥17.1 | — | — |
 | GPT Agent | gpt-agent.cc | ¥6 / ¥18 | — | — |
+| [Cooper-API](https://www.findbestapi.com/site/cooper-api-com/) | cooper-api.com | ¥6.79 / ¥20.36 | 微信 | ¥7 |
 | UniAPI | uniapi.ai | ¥6.79 / ¥20.36 | — | — |
 | [TryAllAI](https://www.findbestapi.com/site/api-tryallai-com/) | api.tryallai.com | ¥8.14 / ¥24.43 | — | — |
 | 147 AI | 147ai.com | ¥10 / ¥30 | — | — |
@@ -1025,7 +1032,7 @@ ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推
 
 ### DeepSeek 中转站报价
 
-<sub>¥/百万 token，输入 / 输出，2026-11-18 更新</sub>
+<sub>¥/百万 token，输入 / 输出，2026-11-19 更新</sub>
 
 | 站名 | 域名 | DeepSeek V4.1 Flash | DeepSeek V4 Pro | 支付方式 | 起充 |
 |---|---|---|---|---|---|
@@ -1094,6 +1101,7 @@ ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推
 | MoleAPI | home.moleapi.com | ¥0.611 / ¥2.44 | ¥8.96 / ¥27.14 | 支付宝 / 微信 / 加密支付 / 全球支付 | $1（实付¥6.8） |
 | SoleAPI | soleapi.com | ¥0.65 / ¥2.6 | ¥2.93 / ¥8.78 | — | — |
 | [UU API](https://www.findbestapi.com/site/uuapi-net/) | uuapi.io | ¥0.65 / ¥2.6 | ¥3.37 / ¥10.12 | 支付宝 / 微信 | ¥1 |
+| [OpenOx](https://www.findbestapi.com/site/openox/) | openox.tech | ¥0.672 / ¥2.69 | ¥2.96 / ¥8.87 | 支付宝 | ¥1 |
 | VBCode.io | vbcode.io | ¥0.678 / ¥2.71 | ¥7.63 / ¥22.9 | — | — |
 | AIsa | aisa.one | ¥0.678 / ¥3.39 | ¥7.94 / ¥16.01 | — | $10 |
 | SHUAI API | api.shuaiapi.com | ¥0.7 / ¥2.8 | ¥3.15 / ¥9.45 | — | — |
@@ -1122,7 +1130,6 @@ ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推
 | Bot Compute Fabric | botcf.com | ¥1.2 / ¥4.8 | ¥5.4 / ¥16.2 | — | — |
 | 旋转智能｜Radius to Core | ai.rtoc.cc | ¥1.2 / ¥4.8 | ¥5.4 / ¥16.2 | — | — |
 | 神稳AI | shenwenai.com | ¥1.22 / ¥4.9 | — | — | ¥30（入账$30） |
-| [OpenOx](https://www.findbestapi.com/site/openox/) | openox.tech | ¥1.26 / ¥5.04 | ¥5.54 / ¥16.63 | 支付宝 | ¥1 |
 | For API | foropencode.com | ¥1.36 / ¥5.43 | ¥1.79 / ¥5.37 | 支付宝 | — |
 | 星期天AI | weekly-day.top | ¥1.36 / ¥5.43 | ¥6.11 / ¥18.32 | — | — |
 | DMXAPI Global | dmxapi.com | ¥1.36 / ¥2.71 | — | 微信 / 支付宝 | — |
@@ -1138,6 +1145,7 @@ ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推
 | 三头牛 | 36niu.com | ¥1.84 / ¥7.37 | ¥8.29 / ¥24.86 | 微信 | ¥7 |
 | CodingRouter | api.codingrouter.ai | ¥1.9 / ¥7.6 | ¥8.96 / ¥26.87 | Stripe | ¥10 |
 | APIYI | api.apiyi.com | ¥1.93 / ¥7.74 | ¥8.51 / ¥25.53 | — | — |
+| [Cooper-API](https://www.findbestapi.com/site/cooper-api-com/) | cooper-api.com | ¥1.94 / ¥7.76 | ¥8.72 / ¥26.17 | 微信 | ¥7 |
 | [SSSAICode](https://www.findbestapi.com/site/sssaicode-com/) | sssaiapi.com | ¥2 / ¥8 | ¥9 / ¥27 | 支付宝 / USDT | ¥10 |
 | 球球Token | qiuqiutoken.net | ¥2 / ¥8 | ¥12 / ¥24 | 支付宝 / 微信 / Stripe | ¥1 |
 | Crazyrouter | crazyrouter.com | ¥2.03 / ¥8.1 | ¥9.09 / ¥27.14 | — | — |
@@ -1182,7 +1190,7 @@ ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推
 
 ### Kimi 中转站报价
 
-<sub>¥/百万 token，输入 / 输出，2026-11-18 更新</sub>
+<sub>¥/百万 token，输入 / 输出，2026-11-19 更新</sub>
 
 | 站名 | 域名 | Kimi K3 | 支付方式 | 起充 |
 |---|---|---|---|---|
@@ -1221,6 +1229,7 @@ ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推
 | 云枢 API | nextpro.top | ¥4 / ¥20 | — | — |
 | 深空 API | xkrelay.com | ¥4 / ¥20 | — | — |
 | 菜鸟AI | buddybackend.cloud | ¥4 / ¥20 | — | — |
+| OmniaKey | omniakey.com | ¥4.07 / ¥20.36 | 支付宝 / Stripe | ¥5 |
 | Wokey | wokey.ai | ¥4.07 / ¥20.36 | — | — |
 | Luxery API | luxerycaseglobal.com | ¥4.5 / ¥22.5 | 支付宝 / 微信 | — |
 | 可乐AI | code28.ccwu.cc | ¥5 / ¥25.01 | — | — |
@@ -1255,6 +1264,7 @@ ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推
 | comfly | ai.comfly.org | ¥14 / ¥70 | — | — |
 | [OpenOx](https://www.findbestapi.com/site/openox/) | openox.tech | ¥14 / ¥70 | 支付宝 | ¥1 |
 | [UU API](https://www.findbestapi.com/site/uuapi-net/) | uuapi.io | ¥14 / ¥70 | 支付宝 / 微信 | ¥1 |
+| [Cooper-API](https://www.findbestapi.com/site/cooper-api-com/) | cooper-api.com | ¥14.25 / ¥71.25 | 微信 | ¥7 |
 | ToAPIs | toapis.cn | ¥14.25 / ¥71.25 | — | — |
 | Xcode | xcode.best | ¥15 / ¥75 | 支付宝 | ¥1 |
 | 聚星AI | juxingai.xyz | ¥15 / ¥75 | 支付宝 / 微信 | ¥10 |
@@ -1263,7 +1273,6 @@ ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推
 | AIsa | aisa.one | ¥16.29 / ¥81.43 | — | $10 |
 | APIB | apib.ai | ¥16.29 / ¥81.43 | — | — |
 | Kie.ai | kie.ai | ¥16.29 / ¥81.43 | — | — |
-| OmniaKey | omniakey.com | ¥16.29 / ¥81.43 | 支付宝 / Stripe | ¥5 |
 | SU8 Codes | su8.codes | ¥16.29 / ¥81.43 | — | — |
 | [APINebula](https://www.findbestapi.com/site/apinebula-com/) | apinebula.ai | ¥17 / ¥85 | 支付宝 | ¥20 |
 | LantAPI | lantapi.top | ¥18 / ¥90 | 微信 | ¥10 |
@@ -1305,7 +1314,7 @@ ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推
 
 ### GLM 中转站报价
 
-<sub>¥/百万 token，输入 / 输出，2026-11-18 更新</sub>
+<sub>¥/百万 token，输入 / 输出，2026-11-19 更新</sub>
 
 | 站名 | 域名 | GLM-5.3 | 支付方式 | 起充 |
 |---|---|---|---|---|
@@ -1372,6 +1381,7 @@ ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推
 | aicost API | aicost.me | ¥4.89 / ¥17.1 | 微信 | — |
 | 维塔斯 AI | aiwts.com | ¥5 / ¥20 | 支付宝 / 微信 | ¥10 |
 | VBCode.io | vbcode.io | ¥5.43 / ¥19 | — | — |
+| [Cooper-API](https://www.findbestapi.com/site/cooper-api-com/) | cooper-api.com | ¥5.43 / ¥19 | 微信 | ¥7 |
 | 12API | api.12ai.org | ¥5.6 / ¥19.6 | — | — |
 | [CCTQ](https://www.findbestapi.com/site/cctq/) | cctq.ai | ¥5.6 / ¥19.6 | 支付宝 | ¥1 |
 | Code0.ai | code0.ai | ¥5.6 / ¥19.6 | 支付宝 / 微信 / Stripe | ¥1 |
@@ -1457,4 +1467,4 @@ ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推
 
 网页版：[API中转站推荐排行榜：360+家中转站价格大全 2026](https://findbestapi.github.io/ai-member-prices/relay/) · [AI 会员代充价格](../README.md) · [甄选 API](https://www.findbestapi.com/) · [模型价格对比](https://www.findbestapi.com/price/)
 
-<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-18</sub>
+<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-19</sub>

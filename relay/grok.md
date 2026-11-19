@@ -12,18 +12,18 @@
 |---|---|---|---|---|---|
 | [A6API](https://www.findbestapi.com/site/a6api/) | ¥0.008 / ¥0.024 | — | — | — | [去官网](https://www.findbestapi.com/go/a6api/) |
 | [deepkey](https://www.findbestapi.com/site/deepkey-top/) | ¥0.12 / ¥0.36 | 支付宝 / 微信 / USDT / 加密货币 | ¥5 | 可开 | [去官网](https://www.findbestapi.com/go/deepkey-top/) |
+| [OpenOx](https://www.findbestapi.com/site/openox/) | ¥0.2 / ¥0.599 | 支付宝 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/openox/) |
 | [PackyCode](https://www.findbestapi.com/site/packyapi-com/) | ¥0.2 / ¥0.6 | 信用卡 / App | ¥100 | 可开 | [去官网](https://www.findbestapi.com/go/packyapi-com/) |
+| [RightCode](https://www.findbestapi.com/site/right-codes/) | ¥0.2 / ¥0.6 | 支付宝 | — | 可开 | [去官网](https://www.findbestapi.com/go/right-codes/) |
 | [ByteCat](https://www.findbestapi.com/site/bytecatcode-org/) | ¥0.4 / ¥1.2 | 支付宝 | ¥10 | 可开 | [去官网](https://www.findbestapi.com/go/bytecatcode-org/) |
 | [黑黑](https://www.findbestapi.com/site/heilovehei/) | ¥0.4 / ¥1.2 | — | — | — | [去官网](https://www.findbestapi.com/go/heilovehei/) |
 | [LinkAI](https://www.findbestapi.com/site/linkai/) | ¥0.6 / ¥1.8 | 支付宝 | ¥5 | 可开 | [去官网](https://www.findbestapi.com/go/linkai/) |
 | [H API](https://www.findbestapi.com/site/h-api/) | ¥0.8 / ¥2.4 | 支付宝 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/h-api/) |
-| [OpenOx](https://www.findbestapi.com/site/openox/) | ¥0.8 / ¥2.4 | 支付宝 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/openox/) |
 | [UU API](https://www.findbestapi.com/site/uuapi-net/) | ¥0.8 / ¥2.4 | 支付宝 / 微信 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/uuapi-net/) |
-| [RunAPI](https://www.findbestapi.com/site/runapi-co/) | ¥0.95 / ¥2.85 | 支付宝 / 信用卡 | ¥7 | 可开 | [去官网](https://www.findbestapi.com/go/runapi-co/) |
 
 ## 全部中转站报价
 
-<sub>¥/百万 token，输入 / 输出，2026-11-18 更新</sub>
+<sub>¥/百万 token，输入 / 输出，2026-11-19 更新</sub>
 
 | 站名 | 域名 | Grok 4.7 | 支付方式 | 起充 | 开票 |
 |---|---|---|---|---|---|
@@ -46,8 +46,10 @@
 | 合租 Ink | hezubus.cc | ¥0.16 / ¥0.48 | — | — | — |
 | LMU AI · 灵眸 | api.lmuai.ai | ¥0.162 / ¥0.485 | 支付宝 / 微信 | ¥10 | 可开 |
 | UnoRouter | unorouter.com | ¥0.163 / ¥0.489 | Card / Google & Apple Pay / 支付宝 / 加密货币 | $1 | — |
+| [OpenOx](https://www.findbestapi.com/site/openox/) | openox.tech | ¥0.2 / ¥0.599 | 支付宝 | ¥1 | 可开 |
 | Jasper | api.yjs.im | ¥0.2 / ¥0.6 | — | — | — |
 | [PackyCode](https://www.findbestapi.com/site/packyapi-com/) | packyapi.ai | ¥0.2 / ¥0.6 | 信用卡 / App | ¥100 | 可开 |
+| [RightCode](https://www.findbestapi.com/site/right-codes/) | rightapi.io | ¥0.2 / ¥0.6 | 支付宝 | — | 可开 |
 | SuperCodes | supercodes.vip | ¥0.2 / ¥0.6 | — | — | — |
 | xiaojing | open.xiaojingai.com | ¥0.2 / ¥0.6 | 支付宝 / 微信 / PayPal | ¥1 | 可开 |
 | XINGYI API | xingyi888.com | ¥0.2 / ¥0.6 | — | — | — |
@@ -96,7 +98,6 @@
 | 88API-Token聚合平台 | 88api.ai | ¥0.7 / ¥2.1 | — | — | — |
 | Drag API | dragtokens.com | ¥0.8 / ¥2.4 | 支付宝 | ¥1 | — |
 | [H API](https://www.findbestapi.com/site/h-api/) | hapiopen.cc | ¥0.8 / ¥2.4 | 支付宝 | ¥1 | 可开 |
-| [OpenOx](https://www.findbestapi.com/site/openox/) | openox.tech | ¥0.8 / ¥2.4 | 支付宝 | ¥1 | 可开 |
 | SoleAPI | soleapi.com | ¥0.8 / ¥2.4 | — | — | — |
 | [UU API](https://www.findbestapi.com/site/uuapi-net/) | uuapi.io | ¥0.8 / ¥2.4 | 支付宝 / 微信 | ¥1 | 可开 |
 | 小丁AI | xdcn.top | ¥0.8 / ¥2.4 | 支付宝 | ¥1 | — |
@@ -164,6 +165,7 @@
 | Lanln | ai.venlacy.com | ¥5.6 / ¥16.8 | — | — | — |
 | hiapi | hiapi.ai | ¥5.7 / ¥17.1 | — | — | — |
 | GPT Agent | gpt-agent.cc | ¥6 / ¥18 | — | — | — |
+| [Cooper-API](https://www.findbestapi.com/site/cooper-api-com/) | cooper-api.com | ¥6.79 / ¥20.36 | 微信 | ¥7 | — |
 | UniAPI | uniapi.ai | ¥6.79 / ¥20.36 | — | — | — |
 | [TryAllAI](https://www.findbestapi.com/site/api-tryallai-com/) | api.tryallai.com | ¥8.14 / ¥24.43 | — | — | 可开 |
 | 147 AI | 147ai.com | ¥10 / ¥30 | — | — | — |
@@ -205,10 +207,10 @@
 
 **怎么挑 Grok 中转站？**
 
-先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 161 家里，支付宝能充 34 家、写明能开发票 30 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
+先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 163 家里，支付宝能充 35 家、写明能开发票 31 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
 
 ---
 
 网页版：[Grok中转站推荐：160+家Grok API价格对比 2026](https://findbestapi.github.io/ai-member-prices/relay/grok/) · [AI 会员代充价格](../README.md) · [甄选 API](https://www.findbestapi.com/) · [模型价格对比](https://www.findbestapi.com/price/)
 
-<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-18</sub>
+<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-19</sub>

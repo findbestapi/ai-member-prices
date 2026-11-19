@@ -16,14 +16,14 @@
 | [RunAPI](https://www.findbestapi.com/site/runapi-co/) | ¥0.503 / ¥2.01 | ¥4.52 / ¥13.57 | 支付宝 / 信用卡 | ¥7 | 可开 | [去官网](https://www.findbestapi.com/go/runapi-co/) |
 | [H API](https://www.findbestapi.com/site/h-api/) | ¥0.6 / ¥2.4 | ¥2.7 / ¥8.1 | 支付宝 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/h-api/) |
 | [UU API](https://www.findbestapi.com/site/uuapi-net/) | ¥0.65 / ¥2.6 | ¥3.37 / ¥10.12 | 支付宝 / 微信 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/uuapi-net/) |
-| [OpenOx](https://www.findbestapi.com/site/openox/) | ¥1.26 / ¥5.04 | ¥5.54 / ¥16.63 | 支付宝 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/openox/) |
+| [OpenOx](https://www.findbestapi.com/site/openox/) | ¥0.672 / ¥2.69 | ¥2.96 / ¥8.87 | 支付宝 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/openox/) |
 | [CCTQ](https://www.findbestapi.com/site/cctq/) | ¥1.4 / ¥5.6 | — | 支付宝 | ¥1 | — | [去官网](https://www.findbestapi.com/go/cctq/) |
+| [Cooper-API](https://www.findbestapi.com/site/cooper-api-com/) | ¥1.94 / ¥7.76 | ¥8.72 / ¥26.17 | 微信 | ¥7 | — | [去官网](https://www.findbestapi.com/go/cooper-api-com/) |
 | [SSSAICode](https://www.findbestapi.com/site/sssaicode-com/) | ¥2 / ¥8 | ¥9 / ¥27 | 支付宝 / USDT | ¥10 | 可开 | [去官网](https://www.findbestapi.com/go/sssaicode-com/) |
-| [LinksAPI](https://www.findbestapi.com/site/linksapi/) | ¥3 / ¥12 | ¥13.5 / ¥40.5 | 支付宝 / 微信 / Stripe | ¥1 | — | [去官网](https://www.findbestapi.com/go/linksapi/) |
 
 ## 全部中转站报价
 
-<sub>¥/百万 token，输入 / 输出，2026-11-18 更新</sub>
+<sub>¥/百万 token，输入 / 输出，2026-11-19 更新</sub>
 
 | 站名 | 域名 | DeepSeek V4.1 Flash | DeepSeek V4 Pro | 支付方式 | 起充 | 开票 |
 |---|---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | MoleAPI | home.moleapi.com | ¥0.611 / ¥2.44 | ¥8.96 / ¥27.14 | 支付宝 / 微信 / 加密支付 / 全球支付 | $1（实付¥6.8） | 可开 |
 | SoleAPI | soleapi.com | ¥0.65 / ¥2.6 | ¥2.93 / ¥8.78 | — | — | — |
 | [UU API](https://www.findbestapi.com/site/uuapi-net/) | uuapi.io | ¥0.65 / ¥2.6 | ¥3.37 / ¥10.12 | 支付宝 / 微信 | ¥1 | 可开 |
+| [OpenOx](https://www.findbestapi.com/site/openox/) | openox.tech | ¥0.672 / ¥2.69 | ¥2.96 / ¥8.87 | 支付宝 | ¥1 | 可开 |
 | VBCode.io | vbcode.io | ¥0.678 / ¥2.71 | ¥7.63 / ¥22.9 | — | — | — |
 | AIsa | aisa.one | ¥0.678 / ¥3.39 | ¥7.94 / ¥16.01 | — | $10 | — |
 | SHUAI API | api.shuaiapi.com | ¥0.7 / ¥2.8 | ¥3.15 / ¥9.45 | — | — | — |
@@ -120,7 +121,6 @@
 | Bot Compute Fabric | botcf.com | ¥1.2 / ¥4.8 | ¥5.4 / ¥16.2 | — | — | 可开 |
 | 旋转智能｜Radius to Core | ai.rtoc.cc | ¥1.2 / ¥4.8 | ¥5.4 / ¥16.2 | — | — | — |
 | 神稳AI | shenwenai.com | ¥1.22 / ¥4.9 | — | — | ¥30（入账$30） | — |
-| [OpenOx](https://www.findbestapi.com/site/openox/) | openox.tech | ¥1.26 / ¥5.04 | ¥5.54 / ¥16.63 | 支付宝 | ¥1 | 可开 |
 | For API | foropencode.com | ¥1.36 / ¥5.43 | ¥1.79 / ¥5.37 | 支付宝 | — | — |
 | 星期天AI | weekly-day.top | ¥1.36 / ¥5.43 | ¥6.11 / ¥18.32 | — | — | — |
 | DMXAPI Global | dmxapi.com | ¥1.36 / ¥2.71 | — | 微信 / 支付宝 | — | — |
@@ -136,6 +136,7 @@
 | 三头牛 | 36niu.com | ¥1.84 / ¥7.37 | ¥8.29 / ¥24.86 | 微信 | ¥7 | 可开 |
 | CodingRouter | api.codingrouter.ai | ¥1.9 / ¥7.6 | ¥8.96 / ¥26.87 | Stripe | ¥10 | — |
 | APIYI | api.apiyi.com | ¥1.93 / ¥7.74 | ¥8.51 / ¥25.53 | — | — | — |
+| [Cooper-API](https://www.findbestapi.com/site/cooper-api-com/) | cooper-api.com | ¥1.94 / ¥7.76 | ¥8.72 / ¥26.17 | 微信 | ¥7 | — |
 | [SSSAICode](https://www.findbestapi.com/site/sssaicode-com/) | sssaiapi.com | ¥2 / ¥8 | ¥9 / ¥27 | 支付宝 / USDT | ¥10 | 可开 |
 | 球球Token | qiuqiutoken.net | ¥2 / ¥8 | ¥12 / ¥24 | 支付宝 / 微信 / Stripe | ¥1 | 可开 |
 | Crazyrouter | crazyrouter.com | ¥2.03 / ¥8.1 | ¥9.09 / ¥27.14 | — | — | — |
@@ -190,10 +191,10 @@ DeepSeek 官方可以直接充值。走中转站图的是余额和账单合在�
 
 **怎么挑 DeepSeek 中转站？**
 
-先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 150 家里，支付宝能充 28 家、写明能开发票 27 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
+先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 151 家里，支付宝能充 28 家、写明能开发票 27 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
 
 ---
 
 网页版：[DeepSeek中转站推荐：150+家API价格对比 2026](https://findbestapi.github.io/ai-member-prices/relay/deepseek/) · [AI 会员代充价格](../README.md) · [甄选 API](https://www.findbestapi.com/) · [模型价格对比](https://www.findbestapi.com/price/)
 
-<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-18</sub>
+<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-19</sub>

@@ -15,15 +15,15 @@
 | [RunAPI](https://www.findbestapi.com/site/runapi-co/) | ¥4.02 / ¥14.07 | 支付宝 / 信用卡 | ¥7 | 可开 | [去官网](https://www.findbestapi.com/go/runapi-co/) |
 | [UU API](https://www.findbestapi.com/site/uuapi-net/) | ¥4.4 / ¥15.4 | 支付宝 / 微信 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/uuapi-net/) |
 | [H API](https://www.findbestapi.com/site/h-api/) | ¥4.8 / ¥16.8 | 支付宝 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/h-api/) |
+| [Cooper-API](https://www.findbestapi.com/site/cooper-api-com/) | ¥5.43 / ¥19 | 微信 | ¥7 | — | [去官网](https://www.findbestapi.com/go/cooper-api-com/) |
 | [CCTQ](https://www.findbestapi.com/site/cctq/) | ¥5.6 / ¥19.6 | 支付宝 | ¥1 | — | [去官网](https://www.findbestapi.com/go/cctq/) |
 | [OpenOx](https://www.findbestapi.com/site/openox/) | ¥5.6 / ¥19.6 | 支付宝 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/openox/) |
 | [APINebula](https://www.findbestapi.com/site/apinebula-com/) | ¥6.8 / ¥23.8 | 支付宝 | ¥20 | 可开 | [去官网](https://www.findbestapi.com/go/apinebula-com/) |
 | [PackyCode](https://www.findbestapi.com/site/packyapi-com/) | ¥8 / ¥28 | 信用卡 / App | ¥100 | 可开 | [去官网](https://www.findbestapi.com/go/packyapi-com/) |
-| [LinksAPI](https://www.findbestapi.com/site/linksapi/) | ¥12 / ¥42 | 支付宝 / 微信 / Stripe | ¥1 | — | [去官网](https://www.findbestapi.com/go/linksapi/) |
 
 ## 全部中转站报价
 
-<sub>¥/百万 token，输入 / 输出，2026-11-18 更新</sub>
+<sub>¥/百万 token，输入 / 输出，2026-11-19 更新</sub>
 
 | 站名 | 域名 | GLM-5.3 | 支付方式 | 起充 | 开票 |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | aicost API | aicost.me | ¥4.89 / ¥17.1 | 微信 | — | — |
 | 维塔斯 AI | aiwts.com | ¥5 / ¥20 | 支付宝 / 微信 | ¥10 | 可开 |
 | VBCode.io | vbcode.io | ¥5.43 / ¥19 | — | — | — |
+| [Cooper-API](https://www.findbestapi.com/site/cooper-api-com/) | cooper-api.com | ¥5.43 / ¥19 | 微信 | ¥7 | — |
 | 12API | api.12ai.org | ¥5.6 / ¥19.6 | — | — | — |
 | [CCTQ](https://www.findbestapi.com/site/cctq/) | cctq.ai | ¥5.6 / ¥19.6 | 支付宝 | ¥1 | — |
 | Code0.ai | code0.ai | ¥5.6 / ¥19.6 | 支付宝 / 微信 / Stripe | ¥1 | 可开 |
@@ -161,10 +162,10 @@
 
 **怎么挑 GLM 中转站？**
 
-先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 121 家里，支付宝能充 25 家、写明能开发票 24 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
+先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 122 家里，支付宝能充 25 家、写明能开发票 24 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
 
 ---
 
 网页版：[GLM中转站推荐：120+家智谱API价格对比 2026](https://findbestapi.github.io/ai-member-prices/relay/glm/) · [AI 会员代充价格](../README.md) · [甄选 API](https://www.findbestapi.com/) · [模型价格对比](https://www.findbestapi.com/price/)
 
-<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-18</sub>
+<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-19</sub>
