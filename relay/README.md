@@ -23,7 +23,7 @@
 
 ## 会员和中转哪个划算
 
-ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推荐站 GPT-6.2 Sol 的中间价（输入 / 输出 ¥0.2 / ¥1）算，约够 50亿输入 token，或 10亿输出 token。
+ChatGPT Pro 20x 代充到自己号最低 ¥994.05 / 月。这笔钱按上面推荐站 GPT-6.2 Sol 的中间价（输入 / 输出 ¥0.2 / ¥1）算，约够 50亿输入 token，或 9.9亿输出 token。
 
 每月用量到不了这个数，中转更省；天天重度用、用量超过它，会员更划算。[看 ChatGPT Pro 20x 代充价格](https://www.findbestapi.com/chatgpt/chatgpt-pro-20x/)
 
@@ -33,7 +33,7 @@ ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推
 
 ### GPT 中转站报价
 
-<sub>¥/百万 token，输入 / 输出，2026-11-19 更新</sub>
+<sub>¥/百万 token，输入 / 输出，2026-11-20 更新</sub>
 
 | 站名 | 域名 | GPT-6.2 Sol | GPT-6.1 Sol | GPT-6.2 Astra | GPT-6 Astra | 支付方式 | 起充 |
 |---|---|---|---|---|---|---|---|
@@ -322,7 +322,7 @@ ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推
 
 ### Claude 中转站报价
 
-<sub>¥/百万 token，输入 / 输出，2026-11-19 更新</sub>
+<sub>¥/百万 token，输入 / 输出，2026-11-20 更新</sub>
 
 | 站名 | 域名 | Claude Opus 5.5 | Claude Fable 5.2 | Claude Fable 5.1 | Claude Sonnet 5.5 | 支付方式 | 起充 |
 |---|---|---|---|---|---|---|---|
@@ -636,7 +636,7 @@ ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推
 
 ### Gemini 中转站报价
 
-<sub>¥/百万 token，输入 / 输出，2026-11-19 更新</sub>
+<sub>¥/百万 token，输入 / 输出，2026-11-20 更新</sub>
 
 | 站名 | 域名 | Gemini 4 Neon | Gemini 4 Argon | Gemini 4 Carbon | Gemini 3.1 Pro | 支付方式 | 起充 |
 |---|---|---|---|---|---|---|---|
@@ -862,7 +862,7 @@ ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推
 
 ### Grok 中转站报价
 
-<sub>¥/百万 token，输入 / 输出，2026-11-19 更新</sub>
+<sub>¥/百万 token，输入 / 输出，2026-11-20 更新</sub>
 
 | 站名 | 域名 | Grok 4.7 | 支付方式 | 起充 |
 |---|---|---|---|---|
@@ -1032,7 +1032,7 @@ ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推
 
 ### DeepSeek 中转站报价
 
-<sub>¥/百万 token，输入 / 输出，2026-11-19 更新</sub>
+<sub>¥/百万 token，输入 / 输出，2026-11-20 更新</sub>
 
 | 站名 | 域名 | DeepSeek V4.1 Flash | DeepSeek V4 Pro | 支付方式 | 起充 |
 |---|---|---|---|---|---|
@@ -1190,7 +1190,7 @@ ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推
 
 ### Kimi 中转站报价
 
-<sub>¥/百万 token，输入 / 输出，2026-11-19 更新</sub>
+<sub>¥/百万 token，输入 / 输出，2026-11-20 更新</sub>
 
 | 站名 | 域名 | Kimi K3 | 支付方式 | 起充 |
 |---|---|---|---|---|
@@ -1314,7 +1314,7 @@ ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推
 
 ### GLM 中转站报价
 
-<sub>¥/百万 token，输入 / 输出，2026-11-19 更新</sub>
+<sub>¥/百万 token，输入 / 输出，2026-11-20 更新</sub>
 
 | 站名 | 域名 | GLM-5.3 | 支付方式 | 起充 |
 |---|---|---|---|---|
@@ -1467,4 +1467,4 @@ ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推
 
 网页版：[API中转站推荐排行榜：360+家中转站价格大全 2026](https://findbestapi.github.io/ai-member-prices/relay/) · [AI 会员代充价格](../README.md) · [甄选 API](https://www.findbestapi.com/) · [模型价格对比](https://www.findbestapi.com/price/)
 
-<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-19</sub>
+<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-20</sub>

@@ -23,13 +23,13 @@
 
 ## 会员和中转哪个划算
 
-ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推荐站 GPT-6.2 Sol 的中间价（输入 / 输出 ¥0.2 / ¥1）算，约够 50亿输入 token，或 10亿输出 token。
+ChatGPT Pro 20x 代充到自己号最低 ¥994.05 / 月。这笔钱按上面推荐站 GPT-6.2 Sol 的中间价（输入 / 输出 ¥0.2 / ¥1）算，约够 50亿输入 token，或 9.9亿输出 token。
 
 每月用量到不了这个数，中转更省；天天重度用、用量超过它，会员更划算。[看 ChatGPT Pro 20x 代充价格](https://www.findbestapi.com/chatgpt/chatgpt-pro-20x/)
 
 ## 全部中转站报价
 
-<sub>¥/百万 token，输入 / 输出，2026-11-19 更新</sub>
+<sub>¥/百万 token，输入 / 输出，2026-11-20 更新</sub>
 
 | 站名 | 域名 | GPT-6.2 Sol | GPT-6.1 Sol | GPT-6.2 Astra | GPT-6 Astra | 支付方式 | 起充 | 开票 |
 |---|---|---|---|---|---|---|---|---|
@@ -342,4 +342,4 @@ ChatGPT Pro 20x 代充到自己号最低 ¥1005.38 / 月。这笔钱按上面推
 
 网页版：[GPT中转站推荐：280+家OpenAI中转站价格对比 2026](https://findbestapi.github.io/ai-member-prices/relay/gpt/) · [AI 会员代充价格](../README.md) · [甄选 API](https://www.findbestapi.com/) · [模型价格对比](https://www.findbestapi.com/price/)
 
-<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-19</sub>
+<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-20</sub>
