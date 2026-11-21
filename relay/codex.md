@@ -29,7 +29,7 @@ ChatGPT Pro 20x 代充到自己号最低 ¥994.05 / 月。这笔钱按上面推�
 
 ## 全部中转站报价
 
-<sub>¥/百万 token，输入 / 输出，2026-11-20 更新</sub>
+<sub>¥/百万 token，输入 / 输出，2026-11-21 更新</sub>
 
 | 站名 | 域名 | GPT-6.2 Sol | GPT-6.1 Sol | GPT-6.2 Astra | GPT-6 Astra | 支付方式 | 起充 | 开票 |
 |---|---|---|---|---|---|---|---|---|
@@ -87,7 +87,6 @@ ChatGPT Pro 20x 代充到自己号最低 ¥994.05 / 月。这笔钱按上面推�
 | 星链 AI | aixlau.me | ¥0.72 / ¥3.6 | ¥0.72 / ¥3.6 | ¥2.59 / ¥12.96 | ¥3.24 / ¥14.4 | haozpay / nineplus / 支付宝 | ¥10 | — |
 | Mirgo | mirgo.top | ¥0.765 / ¥3.82 | ¥0.765 / ¥3.82 | ¥3.06 / ¥15.29 | ¥3.82 / ¥19.12 | — | — | — |
 | [APINebula](https://www.findbestapi.com/site/apinebula-com/) | apinebula.ai | ¥0.78 / ¥3.9 | ¥0.78 / ¥3.9 | ¥3.12 / ¥15.6 | ¥3.9 / ¥19.5 | 支付宝 | ¥20 | 可开 |
-| FHL | fhl.mom | ¥0.8 / ¥4 | ¥0.8 / ¥4 | ¥3.2 / ¥16 | ¥4 / ¥20 | — | — | — |
 | [RightCode](https://www.findbestapi.com/site/right-codes/) | rightapi.io | ¥0.8 / ¥4 | ¥0.8 / ¥4 | ¥3.2 / ¥16 | ¥4 / ¥20 | 支付宝 | — | 可开 |
 | 球球Token | qiuqiutoken.net | ¥0.8 / ¥4 | ¥0.8 / ¥4 | ¥3.2 / ¥16 | ¥4 / ¥20 | 支付宝 / 微信 / Stripe | ¥1 | 可开 |
 | RelayCore | relaycore.cn | ¥0.8 / ¥4 | ¥0.8 / ¥1.2 | — | — | 微信 / yunmao_shop / 加密货币 | ¥1 | — |
@@ -165,10 +164,10 @@ ChatGPT Pro 20x 代充到自己号最低 ¥994.05 / 月。这笔钱按上面推�
 
 **怎么挑 Codex 中转站？**
 
-先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 115 家里，支付宝能充 38 家、写明能开发票 25 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
+先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 114 家里，支付宝能充 38 家、写明能开发票 25 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
 
 ---
 
 网页版：[Codex中转站推荐：110+家Codex线路价格对比 2026](https://findbestapi.github.io/ai-member-prices/relay/codex/) · [AI 会员代充价格](../README.md) · [甄选 API](https://www.findbestapi.com/) · [模型价格对比](https://www.findbestapi.com/price/)
 
-<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-20</sub>
+<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-21</sub>

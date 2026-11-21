@@ -23,7 +23,7 @@
 
 ## 全部中转站报价
 
-<sub>¥/百万 token，输入 / 输出，2026-11-19 更新</sub>
+<sub>¥/百万 token，输入 / 输出，2026-11-21 更新</sub>
 
 | 站名 | 域名 | Claude Opus 5.5 | Claude Fable 5.2 | Claude Fable 5.1 | Claude Sonnet 5.5 | 支付方式 | 起充 | 开票 |
 |---|---|---|---|---|---|---|---|---|
@@ -121,7 +121,6 @@
 | [H API](https://www.findbestapi.com/site/h-api/) | hapiopen.cc | ¥1.2 / ¥6 | ¥2.4 / ¥12 | ¥3 / ¥15 | ¥0.4 / ¥2 | 支付宝 | ¥1 | 可开 |
 | Rehdasu API | rehdasu.cn | ¥1.2 / ¥6 | ¥2.4 / ¥12 | ¥3 / ¥15 | ¥0.4 / ¥2 | — | — | — |
 | AI神鸡 | aishenji.top | ¥1.2 / ¥6 | ¥2.4 / ¥12 | ¥3 / ¥15 | ¥0.6 / ¥3 | 易支付 / USDT | ¥1 | — |
-| FHL | fhl.mom | ¥1.2 / ¥6 | ¥2.4 / ¥12 | ¥3 / ¥15 | ¥0.6 / ¥3 | — | — | — |
 | RayinAPI | rayinai.com | ¥1.2 / ¥6 | ¥2.4 / ¥12 | ¥3 / ¥15 | ¥0.6 / ¥3 | 易支付 / 支付宝 / Stripe / 微信 | ¥10 | — |
 | wakaka | wkkapi.com | ¥1.2 / ¥6 | ¥2.4 / ¥12 | ¥3 / ¥15 | ¥0.6 / ¥3 | Stripe | ¥1 | — |
 | 云枢 API | nextpro.top | ¥1.2 / ¥6 | ¥2.4 / ¥12 | ¥3 / ¥15 | ¥0.6 / ¥3 | — | — | — |
@@ -352,10 +351,10 @@
 
 **怎么挑 Claude 中转站？**
 
-先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 308 家里，支付宝能充 80 家、写明能开发票 49 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
+先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 307 家里，支付宝能充 80 家、写明能开发票 49 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
 
 ---
 
 网页版：[Claude中转站推荐：300+家Claude API价格对比 2026](https://findbestapi.github.io/ai-member-prices/relay/claude/) · [AI 会员代充价格](../README.md) · [甄选 API](https://www.findbestapi.com/) · [模型价格对比](https://www.findbestapi.com/price/)
 
-<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-19</sub>
+<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-21</sub>
