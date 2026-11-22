@@ -23,7 +23,7 @@
 
 ## 全部中转站报价
 
-<sub>¥/百万 token，输入 / 输出，2026-11-19 更新</sub>
+<sub>¥/百万 token，输入 / 输出，2026-11-22 更新</sub>
 
 | 站名 | 域名 | GPT-6.2 Sol | Claude Opus 5.5 | Gemini 4 Neon | 起充 | 开票 |
 |---|---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [SSSAICode](https://www.findbestapi.com/site/sssaicode-com/) | sssaiapi.com | ¥0.8 / ¥4 | ¥2.8 / ¥14 | — | ¥10 | 可开 |
 | 维塔斯 AI | aiwts.com | ¥1 / ¥5 | ¥4 / ¥20 | ¥2 / ¥10 | ¥10 | 可开 |
 | RayinAPI | rayinai.com | ¥1.9 / ¥9.5 | ¥1.2 / ¥6 | ¥2.25 / ¥11.25 | ¥10 | — |
+| itaiapi | itaiapi.com | — | ¥0.6 / ¥3 | — | ¥10 | 可开 |
 | 云渡 | yundu.lol | — | ¥2 / ¥10 | ¥1.95 / ¥9.75 | ¥10 | — |
 | BootToken | boottoken.com | — | ¥2.4 / ¥12 | ¥24.75 / ¥123.75 | ¥10 | 可开 |
 | 菜菜中转站 | rapi.asia | — | ¥2.4 / ¥12 | — | ¥10 | — |
@@ -127,4 +128,4 @@
 
 网页版：[支付宝能充的API中转站 2026：80+ 家起充金额对比](https://findbestapi.github.io/ai-member-prices/relay/alipay/) · [AI 会员代充价格](../README.md) · [甄选 API](https://www.findbestapi.com/) · [模型价格对比](https://www.findbestapi.com/price/)
 
-<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-19</sub>
+<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-22</sub>

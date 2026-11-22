@@ -1,8 +1,8 @@
-# 能开发票的API中转站 2026：40+ 家价格对比
+# 能开发票的API中转站 2026：50+ 家价格对比
 
 [AI 会员代充价格](../README.md) › API 中转站价格 · [全部中转站](README.md) · [GPT / OpenAI](gpt.md) · [Claude](claude.md) · [Gemini](gemini.md) · [Codex](codex.md) · [Grok](grok.md) · [DeepSeek](deepseek.md) · [GLM / 智谱](glm.md) · [Kimi](kimi.md) · [支付宝能充](alipay.md) · **能开发票**
 
-今天能开发票的 API 中转站有 40+ 家。最低价（每百万 token）：GPT-6.2 Sol 输入 ¥0.08 / 输出 ¥0.4（合聚API），Claude Opus 5.5 输入 ¥0.16 / 输出 ¥0.8（YeToken）。
+今天能开发票的 API 中转站有 50+ 家。最低价（每百万 token）：GPT-6.2 Sol 输入 ¥0.08 / 输出 ¥0.4（合聚API），Claude Opus 5.5 输入 ¥0.16 / 输出 ¥0.8（YeToken）。
 
 今天写明能开发票的 API 中转站，按 GPT 价格从低到高排，同时列出支付方式和起充金额。
 
@@ -23,7 +23,7 @@
 
 ## 全部中转站报价
 
-<sub>¥/百万 token，输入 / 输出，2026-11-19 更新</sub>
+<sub>¥/百万 token，输入 / 输出，2026-11-22 更新</sub>
 
 | 站名 | 域名 | GPT-6.2 Sol | Claude Opus 5.5 | Gemini 4 Neon | 支付方式 | 起充 |
 |---|---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | 三头牛 | 36niu.com | ¥2.71 / ¥13.57 | ¥4.07 / ¥20.36 | ¥2.04 / ¥10.18 | 微信 | ¥7 |
 | [TryAllAI](https://www.findbestapi.com/site/api-tryallai-com/) | api.tryallai.com | ¥8.14 / ¥40.71 | ¥16.29 / ¥81.43 | ¥20.36 / ¥101.78 | — | — |
 | ClaudeApi | apito.ai | ¥8.82 / ¥44.11 | ¥21.71 / ¥108.57 | ¥6.11 / ¥30.53 | Stripe | $1 |
+| itaiapi | itaiapi.com | — | ¥0.6 / ¥3 | — | 支付宝 | ¥10 |
 | [IKunCode](https://www.findbestapi.com/site/api-ikuncode-cc/) | api.ikuncode.cc | — | ¥1.6 / ¥8 | ¥2.1 / ¥10.5 | 支付宝 / 微信 | ¥1 |
 | [Micu](https://www.findbestapi.com/site/micuapi-ai/) | micuapi.ai | — | ¥1.8 / ¥9 | ¥6.6 / ¥33 | 支付宝 / 微信 | ¥50 |
 | BootToken | boottoken.com | — | ¥2.4 / ¥12 | ¥24.75 / ¥123.75 | 支付宝 / 微信 | ¥10 |
@@ -81,7 +82,7 @@
 
 **哪些 API 中转站能开发票？**
 
-下表是今天写明能开发票的 40+ 家。
+下表是今天写明能开发票的 50+ 家。
 
 **能开增值税专票吗？**
 
@@ -93,6 +94,6 @@
 
 ---
 
-网页版：[能开发票的API中转站 2026：40+ 家价格对比](https://findbestapi.github.io/ai-member-prices/relay/invoice/) · [AI 会员代充价格](../README.md) · [甄选 API](https://www.findbestapi.com/) · [模型价格对比](https://www.findbestapi.com/price/)
+网页版：[能开发票的API中转站 2026：50+ 家价格对比](https://findbestapi.github.io/ai-member-prices/relay/invoice/) · [AI 会员代充价格](../README.md) · [甄选 API](https://www.findbestapi.com/) · [模型价格对比](https://www.findbestapi.com/price/)
 
-<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-19</sub>
+<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-22</sub>

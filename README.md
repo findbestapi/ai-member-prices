@@ -1,7 +1,7 @@
 <!-- relay:start（scripts/ghrelay/gen.py 生成，别手改） -->
 **[API 中转站价格](relay/README.md)** ｜ **[AI 会员代充价格](#ai-会员代充价格每日更新)**
 
-| API 中转站 | 站数 | 今日最低（¥/百万 token，输入 / 输出）· 2026-11-19 |
+| API 中转站 | 站数 | 今日最低（¥/百万 token，输入 / 输出）· 2026-11-22 |
 |---|---|---|
 | [GPT / OpenAI](relay/gpt.md) | 280+ 家 | GPT-6.2 Sol ¥0.033 / ¥0.164 |
 | [Claude](relay/claude.md) | 300+ 家 | Claude Opus 5.5 ¥0.12 / ¥0.6 |
@@ -12,7 +12,7 @@
 | [GLM / 智谱](relay/glm.md) | 120+ 家 | GLM-5.3 ¥0.065 / ¥0.205 |
 | [Kimi](relay/kimi.md) | 110+ 家 | Kimi K3 ¥0.024 / ¥0.122 |
 | [支付宝能充](relay/alipay.md) | 80+ 家 | GPT-6.2 Sol ¥0.08 / ¥0.4 |
-| [能开发票](relay/invoice.md) | 40+ 家 | GPT-6.2 Sol ¥0.08 / ¥0.4 |
+| [能开发票](relay/invoice.md) | 50+ 家 | GPT-6.2 Sol ¥0.08 / ¥0.4 |
 | [全部中转站](relay/README.md) | 360+ 家 | GPT、Claude、Gemini、Grok、DeepSeek、Kimi、GLM 分厂商列全 |
 
 ---

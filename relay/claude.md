@@ -23,7 +23,7 @@
 
 ## 全部中转站报价
 
-<sub>¥/百万 token，输入 / 输出，2026-11-21 更新</sub>
+<sub>¥/百万 token，输入 / 输出，2026-11-22 更新</sub>
 
 | 站名 | 域名 | Claude Opus 5.5 | Claude Fable 5.2 | Claude Fable 5.1 | Claude Sonnet 5.5 | 支付方式 | 起充 | 开票 |
 |---|---|---|---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [云影 API](https://www.findbestapi.com/site/yyapi-cloud/) | yyapi.cloud | ¥0.6 / ¥3 | ¥7.2 / ¥36 | ¥9 / ¥45 | ¥0.3 / ¥1.5 | 支付宝 / 微信 | ¥1 | — |
 | 合聚API | hejuapi.com | ¥0.6 / ¥3 | ¥9.6 / ¥48 | ¥12 / ¥60 | ¥0.2 / ¥1 | 支付宝 / 微信 | ¥5 | 可开 |
 | Hi-Code | hi-code.cc | ¥0.6 / ¥3 | ¥11.2 / ¥56 | ¥14 / ¥70 | ¥0.8 / ¥4 | — | — | 可开 |
+| itaiapi | itaiapi.com | ¥0.6 / ¥3 | — | — | — | 支付宝 | ¥10 | 可开 |
 | Aitechflux API | aitechflux.com | ¥0.608 / ¥3.04 | ¥1.44 / ¥7.2 | ¥1.8 / ¥1.8 | ¥0.32 / ¥1.6 | — | — | — |
 | LaneAI | api.laneai.dev | ¥0.64 / ¥3.2 | ¥1.28 / ¥6.4 | ¥1.6 / ¥8 | ¥0.32 / ¥1.6 | — | — | — |
 | xfastapi | xfastapi.ai | ¥0.64 / ¥3.2 | ¥1.28 / ¥6.4 | ¥1.6 / ¥8 | ¥0.32 / ¥1.6 | airwallex / antom / USDT | ¥30 | — |
@@ -351,10 +352,10 @@
 
 **怎么挑 Claude 中转站？**
 
-先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 307 家里，支付宝能充 80 家、写明能开发票 49 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
+先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 308 家里，支付宝能充 81 家、写明能开发票 50 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
 
 ---
 
 网页版：[Claude中转站推荐：300+家Claude API价格对比 2026](https://findbestapi.github.io/ai-member-prices/relay/claude/) · [AI 会员代充价格](../README.md) · [甄选 API](https://www.findbestapi.com/) · [模型价格对比](https://www.findbestapi.com/price/)
 
-<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-21</sub>
+<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-22</sub>
