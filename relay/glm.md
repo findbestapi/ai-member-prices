@@ -23,7 +23,7 @@
 
 ## 全部中转站报价
 
-<sub>¥/百万 token，输入 / 输出，2026-11-19 更新</sub>
+<sub>¥/百万 token，输入 / 输出，2026-11-23 更新</sub>
 
 | 站名 | 域名 | GLM-5.3 | 支付方式 | 起充 | 开票 |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | 元衡 API | meta-api.vip | ¥14 / ¥49 | — | — | — |
 | ZZ OneAPI Console | zzone.cc.cd | ¥14.11 / ¥49.4 | — | — | — |
 | Kuaipao API | kuaipao.pro | ¥14.4 / ¥50.4 | — | — | — |
-| 枢码AI | hubcodex.fun | ¥16 / ¥56 | 易支付 | ¥1 | — |
+| 枢码AI | hubcodex.fun | ¥16 / ¥56 | 易支付 | ¥1 | 可开 |
 | 星期天AI | weekly-day.top | ¥16.29 / ¥57 | — | — | — |
 | CC中转 | yancc.cloud | ¥21.71 / ¥76 | — | — | — |
 | 刀刀刀 | codexapis.com | ¥21.71 / ¥76 | Stripe / 信用卡 | — | — |
@@ -162,10 +162,10 @@
 
 **怎么挑 GLM 中转站？**
 
-先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 122 家里，支付宝能充 25 家、写明能开发票 24 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
+先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 122 家里，支付宝能充 25 家、写明能开发票 25 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
 
 ---
 
 网页版：[GLM中转站推荐：120+家智谱API价格对比 2026](https://findbestapi.github.io/ai-member-prices/relay/glm/) · [AI 会员代充价格](../README.md) · [甄选 API](https://www.findbestapi.com/) · [模型价格对比](https://www.findbestapi.com/price/)
 
-<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-19</sub>
+<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-23</sub>

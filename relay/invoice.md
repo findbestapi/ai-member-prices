@@ -23,7 +23,7 @@
 
 ## 全部中转站报价
 
-<sub>¥/百万 token，输入 / 输出，2026-11-22 更新</sub>
+<sub>¥/百万 token，输入 / 输出，2026-11-23 更新</sub>
 
 | 站名 | 域名 | GPT-6.2 Sol | Claude Opus 5.5 | Gemini 4 Neon | 支付方式 | 起充 |
 |---|---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | Luxery API | luxerycaseglobal.com | ¥0.6 / ¥3 | ¥7.2 / ¥36 | — | 支付宝 / 微信 | — |
 | [APINebula](https://www.findbestapi.com/site/apinebula-com/) | apinebula.ai | ¥0.78 / ¥3.9 | ¥2 / ¥10 | ¥1.2 / ¥6 | 支付宝 | ¥20 |
 | [RightCode](https://www.findbestapi.com/site/right-codes/) | rightapi.io | ¥0.8 / ¥4 | ¥1.2 / ¥6 | ¥0.9 / ¥4.5 | 支付宝 | — |
+| 枢码AI | hubcodex.fun | ¥0.8 / ¥4 | ¥2 / ¥10 | ¥6 / ¥30 | 易支付 | ¥1 |
 | 球球Token | qiuqiutoken.net | ¥0.8 / ¥4 | ¥2.8 / ¥14 | ¥3 / ¥15 | 支付宝 / 微信 / Stripe | ¥1 |
 | [SSSAICode](https://www.findbestapi.com/site/sssaicode-com/) | sssaiapi.com | ¥0.8 / ¥4 | ¥2.8 / ¥14 | — | 支付宝 / USDT | ¥10 |
 | [PackyCode](https://www.findbestapi.com/site/packyapi-com/) | packyapi.ai | ¥1 / ¥5 | ¥3.2 / ¥16 | ¥21 / ¥105 | 信用卡 / App | ¥100 |
@@ -96,4 +97,4 @@
 
 网页版：[能开发票的API中转站 2026：50+ 家价格对比](https://findbestapi.github.io/ai-member-prices/relay/invoice/) · [AI 会员代充价格](../README.md) · [甄选 API](https://www.findbestapi.com/) · [模型价格对比](https://www.findbestapi.com/price/)
 
-<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-22</sub>
+<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-23</sub>

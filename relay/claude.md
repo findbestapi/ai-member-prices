@@ -23,7 +23,7 @@
 
 ## 全部中转站报价
 
-<sub>¥/百万 token，输入 / 输出，2026-11-22 更新</sub>
+<sub>¥/百万 token，输入 / 输出，2026-11-23 更新</sub>
 
 | 站名 | 域名 | Claude Opus 5.5 | Claude Fable 5.2 | Claude Fable 5.1 | Claude Sonnet 5.5 | 支付方式 | 起充 | 开票 |
 |---|---|---|---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | DawCode | dawcode.ai | ¥1.8 / ¥9 | ¥8 / ¥40 | ¥10 / ¥50 | ¥0.9 / ¥4.5 | 微信 | ¥100 | — |
 | 4Router | 4router.net | ¥1.8 / ¥9 | ¥9.6 / ¥48 | ¥12 / ¥60 | ¥0.9 / ¥4.5 | — | — | — |
 | ZeroCat | zero.cat | ¥1.8 / ¥9 | ¥12 / ¥60 | ¥15 / ¥75 | ¥0.9 / ¥4.5 | — | — | — |
-| 枢码AI | hubcodex.fun | ¥2 / ¥10 | ¥4 / ¥20 | ¥1.25 / ¥6.25 | ¥1 / ¥5 | 易支付 | ¥1 | — |
+| 枢码AI | hubcodex.fun | ¥2 / ¥10 | ¥4 / ¥20 | ¥1.25 / ¥6.25 | ¥1 / ¥5 | 易支付 | ¥1 | 可开 |
 | synterolink | synterolink.com | ¥2 / ¥10 | ¥4 / ¥20 | ¥5 / ¥25 | ¥0.667 / ¥3.33 | 支付宝 / 微信 / USDT | ¥20 | — |
 | Claude API | claude-api.org | ¥2 / ¥10 | ¥4 / ¥20 | ¥5 / ¥25 | ¥1 / ¥5 | 易支付 / nowpayments | — | — |
 | [LinkAPI](https://www.findbestapi.com/site/linkapi-ai/) | linkapi.ai | ¥2 / ¥10 | ¥4 / ¥20 | ¥5 / ¥25 | ¥1 / ¥5 | 支付宝 / 微信 | ¥1 | — |
@@ -352,10 +352,10 @@
 
 **怎么挑 Claude 中转站？**
 
-先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 308 家里，支付宝能充 81 家、写明能开发票 50 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
+先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 308 家里，支付宝能充 81 家、写明能开发票 51 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
 
 ---
 
 网页版：[Claude中转站推荐：300+家Claude API价格对比 2026](https://findbestapi.github.io/ai-member-prices/relay/claude/) · [AI 会员代充价格](../README.md) · [甄选 API](https://www.findbestapi.com/) · [模型价格对比](https://www.findbestapi.com/price/)
 
-<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-22</sub>
+<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-23</sub>

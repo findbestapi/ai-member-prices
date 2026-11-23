@@ -23,7 +23,7 @@
 
 ## 全部中转站报价
 
-<sub>¥/百万 token，输入 / 输出，2026-11-19 更新</sub>
+<sub>¥/百万 token，输入 / 输出，2026-11-23 更新</sub>
 
 | 站名 | 域名 | Gemini 4 Neon | Gemini 4 Argon | Gemini 4 Carbon | Gemini 3.1 Pro | 支付方式 | 起充 | 开票 |
 |---|---|---|---|---|---|---|---|---|
@@ -188,7 +188,7 @@
 | kksj | cnapi.kksj.org | ¥5.4 / ¥27 | ¥3.6 / ¥18 | ¥3.6 / ¥18 | ¥3.6 / ¥21.6 | — | — | — |
 | [AiXor](https://www.findbestapi.com/site/aixor-org/) | aixor.dev | ¥6 / ¥30 | ¥4 / ¥20 | ¥4 / ¥20 | ¥4 / ¥24 | 支付宝 | ¥1 | — |
 | Grox | mcgrox.top | ¥6 / ¥30 | — | — | ¥4 / ¥24 | 支付宝 | ¥1 | — |
-| 枢码AI | hubcodex.fun | ¥6 / ¥30 | — | — | ¥4 / ¥16 | 易支付 | ¥1 | — |
+| 枢码AI | hubcodex.fun | ¥6 / ¥30 | — | — | ¥4 / ¥16 | 易支付 | ¥1 | 可开 |
 | 147 AI | 147ai.com | ¥6 / ¥30 | — | — | ¥8 / ¥48 | — | — | — |
 | [Cooper-API](https://www.findbestapi.com/site/cooper-api-com/) | cooper-api.com | ¥6.11 / ¥30.53 | ¥4.07 / ¥20.36 | ¥4.07 / ¥20.36 | ¥4.07 / ¥24.43 | 微信 | ¥7 | — |
 | ClaudeApi | apito.ai | ¥6.11 / ¥30.53 | ¥8.14 / ¥67.85 | ¥8.14 / ¥40.71 | ¥8.14 / ¥48.86 | Stripe | $1 | 可开 |
@@ -263,10 +263,10 @@
 
 **怎么挑 Gemini 中转站？**
 
-先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 219 家里，支付宝能充 53 家、写明能开发票 36 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
+先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 219 家里，支付宝能充 53 家、写明能开发票 37 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
 
 ---
 
 网页版：[Gemini中转站推荐：210+家Gemini API价格对比 2026](https://findbestapi.github.io/ai-member-prices/relay/gemini/) · [AI 会员代充价格](../README.md) · [甄选 API](https://www.findbestapi.com/) · [模型价格对比](https://www.findbestapi.com/price/)
 
-<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-19</sub>
+<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-23</sub>

@@ -23,7 +23,7 @@
 
 ## 全部中转站报价
 
-<sub>¥/百万 token，输入 / 输出，2026-11-19 更新</sub>
+<sub>¥/百万 token，输入 / 输出，2026-11-23 更新</sub>
 
 | 站名 | 域名 | Grok 4.7 | 支付方式 | 起充 | 开票 |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | Kkaiapi | kkaiapi.com | ¥2 / ¥6 | — | — | — |
 | Uiuihao API | api.uiuihao.com | ¥2 / ¥6 | — | — | — |
 | 小水管 | api.pie-xian.com | ¥2 / ¥6 | — | — | — |
-| 枢码AI | hubcodex.fun | ¥2 / ¥6 | 易支付 | ¥1 | — |
+| 枢码AI | hubcodex.fun | ¥2 / ¥6 | 易支付 | ¥1 | 可开 |
 | aicost API | aicost.me | ¥2.04 / ¥6.11 | 微信 | — | — |
 | For API | foropencode.com | ¥2.04 / ¥6.11 | 支付宝 | — | — |
 | HaoAI | hao.ai | ¥2.04 / ¥6.11 | — | — | — |
@@ -207,10 +207,10 @@
 
 **怎么挑 Grok 中转站？**
 
-先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 163 家里，支付宝能充 35 家、写明能开发票 31 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
+先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 163 家里，支付宝能充 35 家、写明能开发票 32 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
 
 ---
 
 网页版：[Grok中转站推荐：160+家Grok API价格对比 2026](https://findbestapi.github.io/ai-member-prices/relay/grok/) · [AI 会员代充价格](../README.md) · [甄选 API](https://www.findbestapi.com/) · [模型价格对比](https://www.findbestapi.com/price/)
 
-<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-19</sub>
+<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-23</sub>

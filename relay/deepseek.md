@@ -23,7 +23,7 @@
 
 ## 全部中转站报价
 
-<sub>¥/百万 token，输入 / 输出，2026-11-19 更新</sub>
+<sub>¥/百万 token，输入 / 输出，2026-11-23 更新</sub>
 
 | 站名 | 域名 | DeepSeek V4.1 Flash | DeepSeek V4 Pro | 支付方式 | 起充 | 开票 |
 |---|---|---|---|---|---|---|
@@ -145,7 +145,7 @@
 | Getezo中转 | getezo.com | ¥2.04 / ¥8.14 | ¥9.16 / ¥27.48 | — | — | — |
 | OfoxAI | ofox.io | ¥2.04 / ¥8.14 | — | — | — | — |
 | Api.Airforce | api.airforce | ¥2.24 / ¥8.96 | ¥6.79 / ¥13.5 | — | — | — |
-| 枢码AI | hubcodex.fun | ¥2.4 / ¥9.6 | ¥10.8 / ¥32.4 | 易支付 | ¥1 | — |
+| 枢码AI | hubcodex.fun | ¥2.4 / ¥9.6 | ¥10.8 / ¥32.4 | 易支付 | ¥1 | 可开 |
 | Kuaipao API | kuaipao.pro | ¥2.52 / ¥9.9 | ¥18 / ¥54 | — | — | — |
 | Meinianda AI | meinianda.top | ¥2.71 / ¥10.86 | ¥4.07 / ¥8.14 | — | — | — |
 | 刀刀刀 | codexapis.com | ¥2.71 / ¥10.86 | ¥12 / ¥36.1 | Stripe / 信用卡 | — | — |
@@ -191,10 +191,10 @@ DeepSeek 官方可以直接充值。走中转站图的是余额和账单合在�
 
 **怎么挑 DeepSeek 中转站？**
 
-先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 151 家里，支付宝能充 28 家、写明能开发票 27 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
+先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 151 家里，支付宝能充 28 家、写明能开发票 28 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
 
 ---
 
 网页版：[DeepSeek中转站推荐：150+家API价格对比 2026](https://findbestapi.github.io/ai-member-prices/relay/deepseek/) · [AI 会员代充价格](../README.md) · [甄选 API](https://www.findbestapi.com/) · [模型价格对比](https://www.findbestapi.com/price/)
 
-<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-19</sub>
+<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-23</sub>

@@ -23,7 +23,7 @@
 
 ## 全部中转站报价
 
-<sub>¥/百万 token，输入 / 输出，2026-11-19 更新</sub>
+<sub>¥/百万 token，输入 / 输出，2026-11-23 更新</sub>
 
 | 站名 | 域名 | Kimi K3 | 支付方式 | 起充 | 开票 |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | 元衡 API | meta-api.vip | ¥34.65 / ¥173.25 | — | — | — |
 | ZZ OneAPI Console | zzone.cc.cd | ¥35.28 / ¥176.42 | — | — | — |
 | [LinksAPI](https://www.findbestapi.com/site/linksapi/) | linksapi.cn | ¥37.5 / ¥187.5 | 支付宝 / 微信 / Stripe | ¥1 | — |
-| 枢码AI | hubcodex.fun | ¥40 / ¥200 | 易支付 | ¥1 | — |
+| 枢码AI | hubcodex.fun | ¥40 / ¥200 | 易支付 | ¥1 | 可开 |
 | Rainbow Gate AI | rainbowgate.top | ¥40.71 / ¥203.56 | 支付宝 | — | — |
 | 星期天AI | weekly-day.top | ¥40.71 / ¥203.56 | — | — | — |
 | 迈威AI | mxwell.ai | ¥47.5 / ¥237.49 | — | — | — |
@@ -157,10 +157,10 @@
 
 **怎么挑 Kimi 中转站？**
 
-先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 117 家里，支付宝能充 26 家、写明能开发票 25 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
+先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 117 家里，支付宝能充 26 家、写明能开发票 26 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
 
 ---
 
 网页版：[Kimi中转站推荐：110+家API价格对比 2026](https://findbestapi.github.io/ai-member-prices/relay/kimi/) · [AI 会员代充价格](../README.md) · [甄选 API](https://www.findbestapi.com/) · [模型价格对比](https://www.findbestapi.com/price/)
 
-<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-19</sub>
+<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-23</sub>

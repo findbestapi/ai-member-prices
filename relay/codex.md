@@ -23,13 +23,13 @@
 
 ## 会员和中转哪个划算
 
-ChatGPT Pro 20x 代充到自己号最低 ¥1005.36 / 月。这笔钱按上面推荐站 GPT-6.2 Sol 的中间价（输入 / 输出 ¥0.24 / ¥1.2）算，约够 42亿输入 token，或 8.4亿输出 token。
+ChatGPT Pro 20x 代充到自己号最低 ¥994.05 / 月。这笔钱按上面推荐站 GPT-6.2 Sol 的中间价（输入 / 输出 ¥0.24 / ¥1.2）算，约够 41亿输入 token，或 8.3亿输出 token。
 
 每月用量到不了这个数，中转更省；天天重度用、用量超过它，会员更划算。[看 ChatGPT Pro 20x 代充价格](https://www.findbestapi.com/chatgpt/chatgpt-pro-20x/)
 
 ## 全部中转站报价
 
-<sub>¥/百万 token，输入 / 输出，2026-11-22 更新</sub>
+<sub>¥/百万 token，输入 / 输出，2026-11-23 更新</sub>
 
 | 站名 | 域名 | GPT-6.2 Sol | GPT-6.1 Sol | GPT-6.2 Astra | GPT-6 Astra | 支付方式 | 起充 | 开票 |
 |---|---|---|---|---|---|---|---|---|
@@ -120,7 +120,7 @@ ChatGPT Pro 20x 代充到自己号最低 ¥1005.36 / 月。这笔钱按上面推
 | xfastapi | xfastapi.ai | ¥2 / ¥10 | ¥2 / ¥3 | — | — | airwallex / antom / USDT | ¥30 | — |
 | [TimiCC](https://www.findbestapi.com/site/timicc-com/) | timicc.com | ¥2.04 / ¥10.18 | ¥2.04 / ¥10.18 | ¥8.14 / ¥40.71 | ¥10.18 / ¥50.89 | — | — | — |
 | 维塔斯 AI | aiwts.com | ¥2.1 / ¥10.5 | ¥4.2 / ¥21 | ¥16.8 / ¥84 | ¥16.8 / ¥84 | 支付宝 / 微信 | ¥10 | 可开 |
-| 枢码AI | hubcodex.fun | ¥2.4 / ¥12 | ¥3 / ¥4.5 | — | — | 易支付 | ¥1 | — |
+| 枢码AI | hubcodex.fun | ¥2.4 / ¥12 | ¥3 / ¥4.5 | — | — | 易支付 | ¥1 | 可开 |
 | Zeus-API | zeusnorun.com | ¥2.5 / ¥12.5 | ¥2.5 / ¥3.75 | — | — | 易支付 | ¥1 | — |
 | [Codeagent API](https://www.findbestapi.com/site/codeagent-cloud/) | codeagent.cloud | ¥3.2 / ¥16 | ¥3.2 / ¥16 | ¥12.8 / ¥64 | ¥16 / ¥80 | — | — | — |
 | VBCode.io | vbcode.io | ¥3.39 / ¥16.96 | ¥3.39 / ¥16.96 | ¥10.86 / ¥54.28 | ¥13.57 / ¥67.85 | — | — | — |
@@ -164,10 +164,10 @@ ChatGPT Pro 20x 代充到自己号最低 ¥1005.36 / 月。这笔钱按上面推
 
 **怎么挑 Codex 中转站？**
 
-先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 114 家里，支付宝能充 38 家、写明能开发票 25 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
+先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 114 家里，支付宝能充 38 家、写明能开发票 26 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
 
 ---
 
 网页版：[Codex中转站推荐：110+家Codex线路价格对比 2026](https://findbestapi.github.io/ai-member-prices/relay/codex/) · [AI 会员代充价格](../README.md) · [甄选 API](https://www.findbestapi.com/) · [模型价格对比](https://www.findbestapi.com/price/)
 
-<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-22</sub>
+<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-23</sub>
