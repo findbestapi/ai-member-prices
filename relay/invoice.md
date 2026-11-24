@@ -23,7 +23,7 @@
 
 ## 全部中转站报价
 
-<sub>¥/百万 token，输入 / 输出，2026-11-23 更新</sub>
+<sub>¥/百万 token，输入 / 输出，2026-11-24 更新</sub>
 
 | 站名 | 域名 | GPT-6.2 Sol | Claude Opus 5.5 | Gemini 4 Neon | 支付方式 | 起充 |
 |---|---|---|---|---|---|---|
@@ -70,7 +70,6 @@
 | 三头牛 | 36niu.com | ¥2.71 / ¥13.57 | ¥4.07 / ¥20.36 | ¥2.04 / ¥10.18 | 微信 | ¥7 |
 | [TryAllAI](https://www.findbestapi.com/site/api-tryallai-com/) | api.tryallai.com | ¥8.14 / ¥40.71 | ¥16.29 / ¥81.43 | ¥20.36 / ¥101.78 | — | — |
 | ClaudeApi | apito.ai | ¥8.82 / ¥44.11 | ¥21.71 / ¥108.57 | ¥6.11 / ¥30.53 | Stripe | $1 |
-| itaiapi | itaiapi.com | — | ¥0.6 / ¥3 | — | 支付宝 | ¥10 |
 | [IKunCode](https://www.findbestapi.com/site/api-ikuncode-cc/) | api.ikuncode.cc | — | ¥1.6 / ¥8 | ¥2.1 / ¥10.5 | 支付宝 / 微信 | ¥1 |
 | [Micu](https://www.findbestapi.com/site/micuapi-ai/) | micuapi.ai | — | ¥1.8 / ¥9 | ¥6.6 / ¥33 | 支付宝 / 微信 | ¥50 |
 | BootToken | boottoken.com | — | ¥2.4 / ¥12 | ¥24.75 / ¥123.75 | 支付宝 / 微信 | ¥10 |
@@ -97,4 +96,4 @@
 
 网页版：[能开发票的API中转站 2026：50+ 家价格对比](https://findbestapi.github.io/ai-member-prices/relay/invoice/) · [AI 会员代充价格](../README.md) · [甄选 API](https://www.findbestapi.com/) · [模型价格对比](https://www.findbestapi.com/price/)
 
-<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-23</sub>
+<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-24</sub>
