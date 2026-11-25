@@ -20,7 +20,7 @@
 
 # AI 会员代充价格（每日更新）
 
-> 数据时间：2026-11-24 22:18（北京时间）· 8 个商品 · 64 家店 · 197 条报价
+> 数据时间：2026-11-25 22:15（北京时间）· 8 个商品 · 61 家店 · 184 条报价
 
 ChatGPT、Claude 这些会员，国内没海外卡基本只能代充或买卡密。这个仓库每天把各店在售的报价按商品列一遍，同一档位放在一起比价，并标出交付方式和质保。价格是店铺报价，不是官方定价。
 
@@ -28,9 +28,9 @@ ChatGPT、Claude 这些会员，国内没海外卡基本只能代充或买卡密
 
 | 商品 | 在售店铺 | 代充到自己号最低 | 卡密兑换码最低 |
 |---|---|---|---|
-| [ChatGPT Plus 代充](chatgpt-plus-recharge.md) | 34 | ¥67.85 | ¥66.82 |
-| [ChatGPT Pro 5x 代充](chatgpt-pro-5x.md) | 33 | ¥601.38 | ¥647.64 |
-| [ChatGPT Pro 20x 代充](chatgpt-pro-20x.md) | 48 | ¥994.05 | ¥1007.44 |
+| [ChatGPT Plus 代充](chatgpt-plus-recharge.md) | 33 | ¥67.85 | ¥66.82 |
+| [ChatGPT Pro 5x 代充](chatgpt-pro-5x.md) | 33 | ¥609.6 | ¥610.62 |
+| [ChatGPT Pro 20x 代充](chatgpt-pro-20x.md) | 48 | ¥994.05 | ¥1002.3 |
 | [Claude Pro 代充](claude-pro.md) | 今天不到 20 家 | — | — |
 | [ChatGPT Go 代充](chatgpt-go.md) | 29 | ¥28.47 | ¥31.54 |
 
@@ -38,10 +38,10 @@ ChatGPT、Claude 这些会员，国内没海外卡基本只能代充或买卡密
 
 | 页面 | 在售店铺 | 报价条数 | 含哪些档 |
 |---|---|---|---|
-| [ChatGPT 各档会员](chatgpt-platform.md) | 63 | 157 | ChatGPT Go、ChatGPT Team / 商业版、ChatGPT Plus 代充、ChatGPT Pro 5x、ChatGPT Pro 20x |
+| [ChatGPT 各档会员](chatgpt-platform.md) | 61 | 156 | ChatGPT Go、ChatGPT Team / 商业版、ChatGPT Plus 代充、ChatGPT Pro 5x、ChatGPT Pro 20x |
 | [Claude 各档会员](claude-platform.md) | 今天不到 20 家 | — | — |
-| [Gemini 会员](gemini-platform.md) | 30 | 40 | Gemini Pro 代充、Gemini Pro 年付、Google AI Ultra |
-| [拼车 / 共享席位](shared-seats.md) | 27 | 32 | ChatGPT Team / 商业版、Google AI Ultra、ChatGPT Pro 20x |
+| [Gemini 会员](gemini-platform.md) | 25 | 28 | Gemini Pro 年付、Gemini Pro 代充、Google AI Ultra |
+| [拼车 / 共享席位](shared-seats.md) | 28 | 33 | ChatGPT Team / 商业版、Google AI Ultra、ChatGPT Pro 20x |
 
 ## 表里的卖法
 
@@ -58,4 +58,4 @@ ChatGPT、Claude 这些会员，国内没海外卡基本只能代充或买卡密
 - 价格是各店自己挂的，会随时变；下单前以店铺当前标价为准。
 - 只公开报价，不放出站链接、不放店铺联系方式。
 
-<sub>数据由甄选 API（findbestapi.com）采集整理 · 更新于 2026-11-24 22:18（北京时间）</sub>
+<sub>数据由甄选 API（findbestapi.com）采集整理 · 更新于 2026-11-25 22:15（北京时间）</sub>
