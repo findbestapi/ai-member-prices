@@ -2,7 +2,7 @@
 
 [AI 会员代充价格](../README.md) › API 中转站价格 · [全部中转站](README.md) · [GPT / OpenAI](gpt.md) · [Claude](claude.md) · [Gemini](gemini.md) · [Codex](codex.md) · [Grok](grok.md) · [DeepSeek](deepseek.md) · **GLM / 智谱** · [Kimi](kimi.md) · [支付宝能充](alipay.md) · [能开发票](invoice.md)
 
-今天 GLM 中转最低价（每百万 token）：GLM-5.3 输入 ¥0.065 / 输出 ¥0.205（A6API）。
+今天 GLM 中转最低价（每百万 token）：GLM-5.3 输入 ¥0.28 / 输出 ¥0.88（璃梦API）。
 
 各家中转站今天的智谱 GLM 报价，按价格从低到高排。
 
@@ -10,7 +10,6 @@
 
 | 站名 | GLM-5.3 | 支付方式 | 起充 | 开票 | 入口 |
 |---|---|---|---|---|---|
-| [A6API](https://www.findbestapi.com/site/a6api/) | ¥0.065 / ¥0.205 | — | — | — | [去官网](https://www.findbestapi.com/go/a6api/) |
 | [deepkey](https://www.findbestapi.com/site/deepkey-top/) | ¥2.4 / ¥8.4 | 支付宝 / 微信 / USDT / 加密货币 | ¥5 | 可开 | [去官网](https://www.findbestapi.com/go/deepkey-top/) |
 | [RunAPI](https://www.findbestapi.com/site/runapi-co/) | ¥4.02 / ¥14.07 | 支付宝 / 信用卡 | ¥7 | 可开 | [去官网](https://www.findbestapi.com/go/runapi-co/) |
 | [UU API](https://www.findbestapi.com/site/uuapi-net/) | ¥4.4 / ¥15.4 | 支付宝 / 微信 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/uuapi-net/) |
@@ -20,14 +19,14 @@
 | [OpenOx](https://www.findbestapi.com/site/openox/) | ¥5.6 / ¥19.6 | 支付宝 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/openox/) |
 | [APINebula](https://www.findbestapi.com/site/apinebula-com/) | ¥6.8 / ¥23.8 | 支付宝 | ¥20 | 可开 | [去官网](https://www.findbestapi.com/go/apinebula-com/) |
 | [PackyCode](https://www.findbestapi.com/site/packyapi-com/) | ¥8 / ¥28 | 信用卡 / App | ¥100 | 可开 | [去官网](https://www.findbestapi.com/go/packyapi-com/) |
+| [LinksAPI](https://www.findbestapi.com/site/linksapi/) | ¥12 / ¥42 | 支付宝 / 微信 / Stripe | ¥1 | — | [去官网](https://www.findbestapi.com/go/linksapi/) |
 
 ## 全部中转站报价
 
-<sub>¥/百万 token，输入 / 输出，2026-11-23 更新</sub>
+<sub>¥/百万 token，输入 / 输出，2026-11-25 更新</sub>
 
 | 站名 | 域名 | GLM-5.3 | 支付方式 | 起充 | 开票 |
 |---|---|---|---|---|---|
-| [A6API](https://www.findbestapi.com/site/a6api/) | a6api.com | ¥0.065 / ¥0.205 | — | — | — |
 | 璃梦API | api.hakanaiktn.com | ¥0.28 / ¥0.88 | — | — | — |
 | LMU AI · 灵眸 | api.lmuai.ai | ¥0.469 / ¥1.64 | 支付宝 / 微信 | ¥10 | 可开 |
 | Jasper | api.yjs.im | ¥0.48 / ¥1.68 | — | — | — |
@@ -51,7 +50,6 @@
 | 山水AI | shanshuiapi.com | ¥0.96 / ¥3.36 | 易支付 | ¥1 | — |
 | VideoCaptioner API | videocaptioner.cn | ¥1.05 / ¥3.3 | — | — | — |
 | Kedaya AI 中转站 | kedaya.ai | ¥1.2 / ¥4.2 | — | — | — |
-| LaneAI | api.laneai.dev | ¥1.2 / ¥4.2 | — | — | — |
 | ZeroCat | zero.cat | ¥1.2 / ¥4.2 | — | — | — |
 | 嘀嘀嘀 AI | dddai.dev | ¥1.26 / ¥3.96 | — | — | — |
 | Ark API | windhub.cc | ¥1.4 / ¥4.4 | — | — | — |
@@ -162,10 +160,10 @@
 
 **怎么挑 GLM 中转站？**
 
-先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 122 家里，支付宝能充 25 家、写明能开发票 25 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
+先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 120 家里，支付宝能充 25 家、写明能开发票 25 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
 
 ---
 
 网页版：[GLM中转站推荐：120+家智谱API价格对比 2026](https://findbestapi.github.io/ai-member-prices/relay/glm/) · [AI 会员代充价格](../README.md) · [甄选 API](https://www.findbestapi.com/) · [模型价格对比](https://www.findbestapi.com/price/)
 
-<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-23</sub>
+<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-25</sub>
