@@ -23,7 +23,7 @@
 
 ## 全部中转站报价
 
-<sub>¥/百万 token，输入 / 输出，2026-11-25 更新</sub>
+<sub>¥/百万 token，输入 / 输出，2026-11-26 更新</sub>
 
 | 站名 | 域名 | GPT-6.2 Sol | Claude Opus 5.5 | Gemini 4 Neon | 起充 | 开票 |
 |---|---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [LinkAPI](https://www.findbestapi.com/site/linkapi-ai/) | linkapi.ai | ¥0.4 / ¥2 | ¥2 / ¥10 | ¥0.945 / ¥4.72 | ¥1 | — |
 | [CCTQ](https://www.findbestapi.com/site/cctq/) | cctq.ai | ¥0.4 / ¥2 | ¥6 / ¥30 | — | ¥1 | — |
 | xiaojing | open.xiaojingai.com | ¥0.5 / ¥2.5 | ¥1 / ¥5 | ¥0.75 / ¥3.75 | ¥1 | 可开 |
+| Global AI | globalai.vip | ¥0.5 / ¥2.5 | ¥2.2 / ¥11 | ¥2.4 / ¥12 | ¥1 | — |
 | [boxying](https://www.findbestapi.com/site/boxying/) | boxying.com | ¥0.6 / ¥3 | ¥1.2 / ¥6 | — | ¥1 | 可开 |
 | Xcode | xcode.best | ¥0.6 / ¥3 | ¥6.8 / ¥34 | ¥1.5 / ¥7.5 | ¥1 | 可开 |
 | 土豆 | 2dou.net | ¥0.8 / ¥4 | ¥0.2 / ¥1 | ¥0.9 / ¥4.5 | ¥1 | — |
@@ -68,7 +69,6 @@
 | ZIVV | zivv.pro | ¥1 / ¥5 | ¥5.2 / ¥26 | — | ¥5 | 可开 |
 | OmniaKey | omniakey.com | ¥1.22 / ¥6.11 | ¥7.6 / ¥38 | ¥10.86 / ¥54.28 | ¥5 | 可开 |
 | Poixe AI | poixe.com | — | ¥13.57 / ¥67.85 | ¥6.35 / ¥31.76 | ¥5 | 可开 |
-| TeamoRouter | teamorouter.com | — | — | — | ¥5 | — |
 | MoleAPI | home.moleapi.com | ¥1.36 / ¥6.79 | ¥8.14 / ¥40.71 | ¥16.29 / ¥81.43 | $1（实付¥6.8） | 可开 |
 | Top-API | api-top.com | ¥0.271 / ¥1.36 | — | ¥2.04 / ¥10.18 | ¥7 | — |
 | GPTeam | portal.gpteamservices.com | ¥0.814 / ¥4.07 | ¥2.71 / ¥13.57 | ¥4.07 / ¥20.36 | ¥7 | — |
@@ -82,6 +82,7 @@
 | island AI Coding | codex789.com | ¥0.8 / ¥4 | ¥0.6 / ¥3 | — | ¥10 | — |
 | [SSSAICode](https://www.findbestapi.com/site/sssaicode-com/) | sssaiapi.com | ¥0.8 / ¥4 | ¥2.8 / ¥14 | — | ¥10 | 可开 |
 | 维塔斯 AI | aiwts.com | ¥1 / ¥5 | ¥4 / ¥20 | ¥2 / ¥10 | ¥10 | 可开 |
+| CoreCode | corecode.live | ¥1.4 / ¥7 | ¥7.6 / ¥38 | — | ¥10 | 可开 |
 | RayinAPI | rayinai.com | ¥1.9 / ¥9.5 | ¥1.2 / ¥6 | ¥2.25 / ¥11.25 | ¥10 | — |
 | 云渡 | yundu.lol | — | ¥2 / ¥10 | ¥1.95 / ¥9.75 | ¥10 | — |
 | BootToken | boottoken.com | — | ¥2.4 / ¥12 | ¥24.75 / ¥123.75 | ¥10 | 可开 |
@@ -127,4 +128,4 @@
 
 网页版：[支付宝能充的API中转站 2026：80+ 家起充金额对比](https://findbestapi.github.io/ai-member-prices/relay/alipay/) · [AI 会员代充价格](../README.md) · [甄选 API](https://www.findbestapi.com/) · [模型价格对比](https://www.findbestapi.com/price/)
 
-<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-25</sub>
+<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-26</sub>

@@ -10,6 +10,7 @@
 
 | 站名 | DeepSeek V4.1 Flash | DeepSeek V4 Pro | 支付方式 | 起充 | 开票 | 入口 |
 |---|---|---|---|---|---|---|
+| [A6API](https://www.findbestapi.com/site/a6api/) | ¥0.012 / ¥0.047 | ¥0.065 / ¥0.195 | — | — | — | [去官网](https://www.findbestapi.com/go/a6api/) |
 | [deepkey](https://www.findbestapi.com/site/deepkey-top/) | ¥0.5 / ¥2 | ¥2.25 / ¥6.75 | 支付宝 / 微信 / USDT / 加密货币 | ¥5 | 可开 | [去官网](https://www.findbestapi.com/go/deepkey-top/) |
 | [PackyCode](https://www.findbestapi.com/site/packyapi-com/) | ¥0.5 / ¥2 | ¥2.25 / ¥6.75 | 信用卡 / App | ¥100 | 可开 | [去官网](https://www.findbestapi.com/go/packyapi-com/) |
 | [RunAPI](https://www.findbestapi.com/site/runapi-co/) | ¥0.503 / ¥2.01 | ¥4.52 / ¥13.57 | 支付宝 / 信用卡 | ¥7 | 可开 | [去官网](https://www.findbestapi.com/go/runapi-co/) |
@@ -19,15 +20,15 @@
 | [CCTQ](https://www.findbestapi.com/site/cctq/) | ¥1.4 / ¥5.6 | — | 支付宝 | ¥1 | — | [去官网](https://www.findbestapi.com/go/cctq/) |
 | [Cooper-API](https://www.findbestapi.com/site/cooper-api-com/) | ¥1.94 / ¥7.76 | ¥8.72 / ¥26.17 | 微信 | ¥7 | — | [去官网](https://www.findbestapi.com/go/cooper-api-com/) |
 | [SSSAICode](https://www.findbestapi.com/site/sssaicode-com/) | ¥2 / ¥8 | ¥9 / ¥27 | 支付宝 / USDT | ¥10 | 可开 | [去官网](https://www.findbestapi.com/go/sssaicode-com/) |
-| [LinksAPI](https://www.findbestapi.com/site/linksapi/) | ¥3 / ¥12 | ¥13.5 / ¥40.5 | 支付宝 / 微信 / Stripe | ¥1 | — | [去官网](https://www.findbestapi.com/go/linksapi/) |
 
 ## 全部中转站报价
 
-<sub>¥/百万 token，输入 / 输出，2026-11-25 更新</sub>
+<sub>¥/百万 token，输入 / 输出，2026-11-26 更新</sub>
 
 | 站名 | 域名 | DeepSeek V4.1 Flash | DeepSeek V4 Pro | 支付方式 | 起充 | 开票 |
 |---|---|---|---|---|---|---|
 | 高效中转站 | sub2.de5.net | ¥0.009 / ¥0.026 | ¥0.009 / ¥0.017 | 易支付 / 支付宝 | ¥1 | — |
+| [A6API](https://www.findbestapi.com/site/a6api/) | a6api.com | ¥0.012 / ¥0.047 | ¥0.065 / ¥0.195 | — | — | — |
 | Jasper | api.yjs.im | ¥0.02 / ¥0.08 | ¥0.09 / ¥0.27 | — | — | — |
 | UNIKEY | getunikey.ai | ¥0.028 / ¥0.056 | ¥0.087 / ¥0.174 | — | — | — |
 | 璃梦API | api.hakanaiktn.com | ¥0.06 / ¥0.24 | ¥0.45 / ¥1.35 | — | — | — |
@@ -49,6 +50,7 @@
 | VideoCaptioner API | videocaptioner.cn | ¥0.135 / ¥0.54 | ¥0.594 / ¥1.78 | — | — | — |
 | luciferai | luciferai.cc | ¥0.14 / ¥0.56 | ¥0.63 / ¥1.89 | — | — | — |
 | PRY API | bearlab.ai | ¥0.15 / ¥0.6 | ¥0.45 / ¥1.35 | 支付宝 / 微信 | ¥10 | — |
+| LaneAI | api.laneai.dev | ¥0.15 / ¥0.6 | ¥0.675 / ¥2.02 | — | — | — |
 | ZeroCat | zero.cat | ¥0.15 / ¥0.6 | ¥0.675 / ¥2.02 | — | — | — |
 | 2xapi | 2xa.cc.cd | ¥0.15 / ¥0.6 | ¥0.87 / ¥1.74 | — | — | — |
 | Code-Plan（内部站点） | o-ai.me | ¥0.16 / ¥0.64 | ¥0.72 / ¥2.16 | — | — | — |
@@ -164,7 +166,6 @@
 | Rainbow Gate AI | rainbowgate.top | ¥6.11 / ¥30.53 | ¥12.21 / ¥61.07 | 支付宝 | — | — |
 | UniAPI | uniapi.ai | ¥6.79 / ¥27.14 | ¥40.71 / ¥81.43 | — | — | — |
 | 迈威AI | mxwell.ai | ¥7.12 / ¥21.37 | ¥21.37 / ¥64.12 | — | — | — |
-| AiHao - AI智能体的加油站 | aihao.ai | ¥8.14 / ¥32.57 | ¥61.07 / ¥183.21 | — | — | — |
 | Qiny API | openai.chatnewai.com | ¥10.86 / ¥43.43 | ¥48.86 / ¥146.57 | — | — | — |
 | CaMeL AI | api.camel-hub.com | ¥13.57 / ¥54.28 | ¥61.07 / ¥183.21 | — | — | — |
 | NassaAPI | api.nassaapi.xyz | ¥27.14 / ¥54.28 | — | — | — | — |
@@ -174,7 +175,6 @@
 | Blank API | blankapi.com | ¥199.49 / ¥797.97 | ¥417.99 / ¥1139.96 | — | — | — |
 | New API | apinexus.dpdns.org | ¥407.13 / ¥1221.39 | ¥814.26 / ¥3053.47 | — | — | — |
 | XingWan Club | xingwan.store | ¥610.69 / ¥610.69 | ¥610.69 / ¥610.69 | — | — | — |
-| TeamoRouter | teamorouter.com | — | ¥11.81 / ¥23.61 | 支付宝 / 微信 / USDT | ¥5 | — |
 | PoloAPI | poloapi.com | — | ¥81.43 / ¥162.85 | — | — | — |
 
 ## 常见问题
@@ -189,10 +189,10 @@ DeepSeek 官方可以直接充值。走中转站图的是余额和账单合在�
 
 **怎么挑 DeepSeek 中转站？**
 
-先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 149 家里，支付宝能充 29 家、写明能开发票 28 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
+先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 149 家里，支付宝能充 28 家、写明能开发票 28 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
 
 ---
 
 网页版：[DeepSeek中转站推荐：140+家API价格对比 2026](https://findbestapi.github.io/ai-member-prices/relay/deepseek/) · [AI 会员代充价格](../README.md) · [甄选 API](https://www.findbestapi.com/) · [模型价格对比](https://www.findbestapi.com/price/)
 
-<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-25</sub>
+<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-26</sub>

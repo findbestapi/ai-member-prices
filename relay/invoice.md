@@ -23,7 +23,7 @@
 
 ## 全部中转站报价
 
-<sub>¥/百万 token，输入 / 输出，2026-11-24 更新</sub>
+<sub>¥/百万 token，输入 / 输出，2026-11-26 更新</sub>
 
 | 站名 | 域名 | GPT-6.2 Sol | Claude Opus 5.5 | Gemini 4 Neon | 支付方式 | 起充 |
 |---|---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | OmniaKey | omniakey.com | ¥1.22 / ¥6.11 | ¥7.6 / ¥38 | ¥10.86 / ¥54.28 | 支付宝 / Stripe | ¥5 |
 | MoleAPI | home.moleapi.com | ¥1.36 / ¥6.79 | ¥8.14 / ¥40.71 | ¥16.29 / ¥81.43 | 支付宝 / 微信 / 加密支付 / 全球支付 | $1（实付¥6.8） |
 | PingCode | pingcode.ai | ¥1.4 / ¥7 | ¥4.2 / ¥21 | — | 微信 / 支付宝 | ¥9.9 |
-| CoreCode | corecode.live | ¥1.4 / ¥7 | ¥7.6 / ¥38 | — | — | ¥10 |
+| CoreCode | corecode.live | ¥1.4 / ¥7 | ¥7.6 / ¥38 | — | 支付宝 / 微信 / 信用卡 / USDT | ¥10 |
 | 卡皮巴拉API | kapibala.asia | ¥2 / ¥10 | ¥2.4 / ¥12 | — | 支付宝 | ¥3 |
 | Code0.ai | code0.ai | ¥2 / ¥10 | ¥6 / ¥30 | ¥2.25 / ¥11.25 | 支付宝 / 微信 / Stripe | ¥1 |
 | 三头牛 | 36niu.com | ¥2.71 / ¥13.57 | ¥4.07 / ¥20.36 | ¥2.04 / ¥10.18 | 微信 | ¥7 |
@@ -96,4 +96,4 @@
 
 网页版：[能开发票的API中转站 2026：50+ 家价格对比](https://findbestapi.github.io/ai-member-prices/relay/invoice/) · [AI 会员代充价格](../README.md) · [甄选 API](https://www.findbestapi.com/) · [模型价格对比](https://www.findbestapi.com/price/)
 
-<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-24</sub>
+<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-26</sub>

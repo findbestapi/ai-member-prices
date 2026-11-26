@@ -2,7 +2,7 @@
 
 [AI 会员代充价格](../README.md) › API 中转站价格 · [全部中转站](README.md) · [GPT / OpenAI](gpt.md) · [Claude](claude.md) · [Gemini](gemini.md) · [Codex](codex.md) · [Grok](grok.md) · [DeepSeek](deepseek.md) · [GLM / 智谱](glm.md) · **Kimi** · [支付宝能充](alipay.md) · [能开发票](invoice.md)
 
-今天 Kimi 中转最低价（每百万 token）：Kimi K3 输入 ¥0.06 / 输出 ¥0.3（高效中转站）。
+今天 Kimi 中转最低价（每百万 token）：Kimi K3 输入 ¥0.024 / 输出 ¥0.122（A6API）。
 
 各家中转站今天的 Kimi（月之暗面）API 报价，按价格从低到高排。
 
@@ -10,6 +10,7 @@
 
 | 站名 | Kimi K3 | 支付方式 | 起充 | 开票 | 入口 |
 |---|---|---|---|---|---|
+| [A6API](https://www.findbestapi.com/site/a6api/) | ¥0.024 / ¥0.122 | — | — | — | [去官网](https://www.findbestapi.com/go/a6api/) |
 | [deepkey](https://www.findbestapi.com/site/deepkey-top/) | ¥6 / ¥30 | 支付宝 / 微信 / USDT / 加密货币 | ¥5 | 可开 | [去官网](https://www.findbestapi.com/go/deepkey-top/) |
 | [PackyCode](https://www.findbestapi.com/site/packyapi-com/) | ¥10 / ¥50 | 信用卡 / App | ¥100 | 可开 | [去官网](https://www.findbestapi.com/go/packyapi-com/) |
 | [RunAPI](https://www.findbestapi.com/site/runapi-co/) | ¥10.05 / ¥50.26 | 支付宝 / 信用卡 | ¥7 | 可开 | [去官网](https://www.findbestapi.com/go/runapi-co/) |
@@ -19,14 +20,14 @@
 | [UU API](https://www.findbestapi.com/site/uuapi-net/) | ¥14 / ¥70 | 支付宝 / 微信 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/uuapi-net/) |
 | [Cooper-API](https://www.findbestapi.com/site/cooper-api-com/) | ¥14.25 / ¥71.25 | 微信 | ¥7 | — | [去官网](https://www.findbestapi.com/go/cooper-api-com/) |
 | [APINebula](https://www.findbestapi.com/site/apinebula-com/) | ¥17 / ¥85 | 支付宝 | ¥20 | 可开 | [去官网](https://www.findbestapi.com/go/apinebula-com/) |
-| [LinksAPI](https://www.findbestapi.com/site/linksapi/) | ¥37.5 / ¥187.5 | 支付宝 / 微信 / Stripe | ¥1 | — | [去官网](https://www.findbestapi.com/go/linksapi/) |
 
 ## 全部中转站报价
 
-<sub>¥/百万 token，输入 / 输出，2026-11-25 更新</sub>
+<sub>¥/百万 token，输入 / 输出，2026-11-26 更新</sub>
 
 | 站名 | 域名 | Kimi K3 | 支付方式 | 起充 | 开票 |
 |---|---|---|---|---|---|
+| [A6API](https://www.findbestapi.com/site/a6api/) | a6api.com | ¥0.024 / ¥0.122 | — | — | — |
 | 高效中转站 | sub2.de5.net | ¥0.06 / ¥0.3 | 易支付 / 支付宝 | ¥1 | — |
 | x-llm | x-llm.net | ¥0.3 / ¥1.5 | 支付宝 | — | — |
 | UNIKEY | getunikey.ai | ¥0.4 / ¥1.6 | — | — | — |
@@ -51,6 +52,7 @@
 | TokenSOS | tokensos.net | ¥2.4 / ¥12 | — | — | — |
 | 山水AI | shanshuiapi.com | ¥2.4 / ¥12 | 易支付 | ¥1 | — |
 | 嘀嘀嘀 AI | dddai.dev | ¥2.94 / ¥14.71 | — | — | — |
+| LaneAI | api.laneai.dev | ¥3 / ¥15 | — | — | — |
 | ZeroCat | zero.cat | ¥3 / ¥15 | — | — | — |
 | ZhenZhen AI | seedance.nz | ¥3 / ¥45 | — | — | — |
 | MM API | api.slomerex.xyz | ¥4 / ¥20 | — | — | — |
@@ -135,7 +137,6 @@
 | 刀刀刀 | codexapis.com | ¥67.85 / ¥339.27 | Stripe / 信用卡 | — | — |
 | ooioo | ooioo.work | ¥71.25 / ¥356.24 | — | — | — |
 | Clodex | clodex.xyz | ¥75 / ¥75 | — | — | — |
-| AiHao - AI智能体的加油站 | aihao.ai | ¥81.43 / ¥407.13 | — | — | — |
 | 乾行AI | qianxing.pro | ¥95 / ¥474.98 | 支付宝 | — | — |
 | Qiny API | openai.chatnewai.com | ¥108.57 / ¥542.84 | — | — | — |
 | CaMeL AI | api.camel-hub.com | ¥135.71 / ¥678.55 | — | — | — |
@@ -155,10 +156,10 @@
 
 **怎么挑 Kimi 中转站？**
 
-先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 115 家里，支付宝能充 26 家、写明能开发票 26 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
+先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 116 家里，支付宝能充 26 家、写明能开发票 26 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
 
 ---
 
 网页版：[Kimi中转站推荐：110+家API价格对比 2026](https://findbestapi.github.io/ai-member-prices/relay/kimi/) · [AI 会员代充价格](../README.md) · [甄选 API](https://www.findbestapi.com/) · [模型价格对比](https://www.findbestapi.com/price/)
 
-<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-25</sub>
+<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-26</sub>

@@ -10,6 +10,7 @@
 
 | 站名 | Grok 4.7 | 支付方式 | 起充 | 开票 | 入口 |
 |---|---|---|---|---|---|
+| [A6API](https://www.findbestapi.com/site/a6api/) | ¥0.008 / ¥0.024 | — | — | — | [去官网](https://www.findbestapi.com/go/a6api/) |
 | [deepkey](https://www.findbestapi.com/site/deepkey-top/) | ¥0.12 / ¥0.36 | 支付宝 / 微信 / USDT / 加密货币 | ¥5 | 可开 | [去官网](https://www.findbestapi.com/go/deepkey-top/) |
 | [OpenOx](https://www.findbestapi.com/site/openox/) | ¥0.2 / ¥0.599 | 支付宝 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/openox/) |
 | [PackyCode](https://www.findbestapi.com/site/packyapi-com/) | ¥0.2 / ¥0.6 | 信用卡 / App | ¥100 | 可开 | [去官网](https://www.findbestapi.com/go/packyapi-com/) |
@@ -19,15 +20,15 @@
 | [LinkAI](https://www.findbestapi.com/site/linkai/) | ¥0.6 / ¥1.8 | 支付宝 | ¥5 | 可开 | [去官网](https://www.findbestapi.com/go/linkai/) |
 | [H API](https://www.findbestapi.com/site/h-api/) | ¥0.8 / ¥2.4 | 支付宝 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/h-api/) |
 | [UU API](https://www.findbestapi.com/site/uuapi-net/) | ¥0.8 / ¥2.4 | 支付宝 / 微信 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/uuapi-net/) |
-| [RunAPI](https://www.findbestapi.com/site/runapi-co/) | ¥0.95 / ¥2.85 | 支付宝 / 信用卡 | ¥7 | 可开 | [去官网](https://www.findbestapi.com/go/runapi-co/) |
 
 ## 全部中转站报价
 
-<sub>¥/百万 token，输入 / 输出，2026-11-25 更新</sub>
+<sub>¥/百万 token，输入 / 输出，2026-11-26 更新</sub>
 
 | 站名 | 域名 | Grok 4.7 | 支付方式 | 起充 | 开票 |
 |---|---|---|---|---|---|
 | 嘀嘀嘀 AI | dddai.dev | ¥0.002 / ¥0.006 | — | — | — |
+| [A6API](https://www.findbestapi.com/site/a6api/) | a6api.com | ¥0.008 / ¥0.024 | — | — | — |
 | Code-Plan（内部站点） | o-ai.me | ¥0.02 / ¥0.06 | — | — | — |
 | Pipio | pipio.io | ¥0.02 / ¥0.06 | — | — | — |
 | 鑫旺Neko API | 790053500.com | ¥0.02 / ¥0.06 | — | — | — |
@@ -71,6 +72,7 @@
 | 华龙算力 | hualong.online | ¥0.36 / ¥1.08 | — | — | 可开 |
 | [ByteCat](https://www.findbestapi.com/site/bytecatcode-org/) | bytecatcode.org | ¥0.4 / ¥1.2 | 支付宝 | ¥10 | 可开 |
 | GGUU AI | gguuai.com | ¥0.4 / ¥1.2 | — | — | — |
+| LaneAI | api.laneai.dev | ¥0.4 / ¥1.2 | — | — | — |
 | MM API | api.slomerex.xyz | ¥0.4 / ¥1.2 | — | — | — |
 | SHUAI API | api.shuaiapi.com | ¥0.4 / ¥1.2 | — | — | — |
 | Xcode | xcode.best | ¥0.4 / ¥1.2 | 支付宝 | ¥1 | 可开 |
@@ -108,6 +110,7 @@
 | 不吃坤肉 | img.yunfei.best | ¥1 / ¥3 | — | — | — |
 | DGB 公益站 | freeapi.dgbmc.top | ¥1.09 / ¥1.63 | — | — | — |
 | 12API | api.12ai.org | ¥1.2 / ¥3.6 | — | — | — |
+| Global AI | globalai.vip | ¥1.2 / ¥3.6 | 支付宝 | ¥1 | — |
 | Handsfreeclub API | handsfreeclub.com | ¥1.2 / ¥3.6 | — | — | — |
 | TokOne | tokone.ai | ¥1.2 / ¥3.6 | — | — | — |
 | TinyGate | tinygate.top | ¥1.33 / ¥4 | — | — | — |
@@ -137,7 +140,7 @@
 | Moyuu | moyuu.cc | ¥2.04 / ¥6.11 | — | — | — |
 | 刀刀刀 | codexapis.com | ¥2.04 / ¥6.11 | Stripe / 信用卡 | — | — |
 | AIAPI World | aiapi.world | ¥2.08 / ¥6.24 | — | — | — |
-| CoreCode | corecode.live | ¥2.4 / ¥7.2 | — | ¥10 | 可开 |
+| CoreCode | corecode.live | ¥2.4 / ¥7.2 | 支付宝 / 微信 / 信用卡 / USDT | ¥10 | 可开 |
 | Getezo中转 | getezo.com | ¥2.44 / ¥7.33 | — | — | — |
 | 龙虾计划 | openclawplan.com | ¥2.54 / ¥5.09 | — | — | — |
 | CC中转 | yancc.cloud | ¥2.71 / ¥8.14 | — | — | — |
@@ -204,10 +207,10 @@
 
 **怎么挑 Grok 中转站？**
 
-先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 160 家里，支付宝能充 34 家、写明能开发票 32 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
+先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 163 家里，支付宝能充 36 家、写明能开发票 32 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
 
 ---
 
 网页版：[Grok中转站推荐：160+家Grok API价格对比 2026](https://findbestapi.github.io/ai-member-prices/relay/grok/) · [AI 会员代充价格](../README.md) · [甄选 API](https://www.findbestapi.com/) · [模型价格对比](https://www.findbestapi.com/price/)
 
-<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-25</sub>
+<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-26</sub>
