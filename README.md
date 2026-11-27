@@ -20,7 +20,7 @@
 
 # AI 会员代充价格（每日更新）
 
-> 数据时间：2026-11-26 22:11（北京时间）· 8 个商品 · 61 家店 · 182 条报价
+> 数据时间：2026-11-27 22:43（北京时间）· 11 个商品 · 198 家店 · 576 条报价
 
 ChatGPT、Claude 这些会员，国内没海外卡基本只能代充或买卡密。这个仓库每天把各店在售的报价按商品列一遍，同一档位放在一起比价，并标出交付方式和质保。价格是店铺报价，不是官方定价。
 
@@ -28,20 +28,20 @@ ChatGPT、Claude 这些会员，国内没海外卡基本只能代充或买卡密
 
 | 商品 | 在售店铺 | 代充到自己号最低 | 卡密兑换码最低 |
 |---|---|---|---|
-| [ChatGPT Plus 代充](chatgpt-plus-recharge.md) | 35 | ¥59.62 | ¥66.82 |
-| [ChatGPT Pro 5x 代充](chatgpt-pro-5x.md) | 34 | ¥607.55 | ¥610.62 |
-| [ChatGPT Pro 20x 代充](chatgpt-pro-20x.md) | 49 | ¥994.05 | ¥1002.3 |
+| [ChatGPT Plus 代充](chatgpt-plus-recharge.md) | 117 | ¥55 | ¥56 |
+| [ChatGPT Pro 5x 代充](chatgpt-pro-5x.md) | 99 | ¥590 | ¥596.24 |
+| [ChatGPT Pro 20x 代充](chatgpt-pro-20x.md) | 126 | ¥659 | ¥640 |
 | [Claude Pro 代充](claude-pro.md) | 今天不到 20 家 | — | — |
-| [ChatGPT Go 代充](chatgpt-go.md) | 30 | ¥28.47 | ¥31.54 |
+| [ChatGPT Go 代充](chatgpt-go.md) | 62 | ¥28.47 | ¥28 |
 
 ## 按平台汇总
 
 | 页面 | 在售店铺 | 报价条数 | 含哪些档 |
 |---|---|---|---|
-| [ChatGPT 各档会员](chatgpt-platform.md) | 62 | 153 | ChatGPT Go、ChatGPT Plus 代充、ChatGPT Team / 商业版、ChatGPT Pro 5x、ChatGPT Pro 20x |
-| [Claude 各档会员](claude-platform.md) | 今天不到 20 家 | — | — |
-| [Gemini 会员](gemini-platform.md) | 24 | 29 | Gemini Pro 年付、Gemini Pro 代充、Google AI Ultra |
-| [拼车 / 共享席位](shared-seats.md) | 24 | 26 | ChatGPT Team / 商业版、Google AI Ultra、ChatGPT Pro 20x |
+| [ChatGPT 各档会员](chatgpt-platform.md) | 194 | 442 | ChatGPT Team / 商业版、ChatGPT Go、ChatGPT Plus 代充、ChatGPT Pro 5x、ChatGPT Pro 20x |
+| [Claude 各档会员](claude-platform.md) | 47 | 64 | Claude Pro 月付、Claude Max 5x、Claude Max 20x |
+| [Gemini 会员](gemini-platform.md) | 55 | 67 | Gemini Pro 年付、Gemini Pro 代充、Google AI Ultra 20x |
+| [拼车 / 共享席位](shared-seats.md) | 63 | 66 | ChatGPT Team / 商业版、Google AI Ultra 20x、ChatGPT Pro 20x、Gemini Pro 年付 |
 
 ## 表里的卖法
 
@@ -58,4 +58,4 @@ ChatGPT、Claude 这些会员，国内没海外卡基本只能代充或买卡密
 - 价格是各店自己挂的，会随时变；下单前以店铺当前标价为准。
 - 只公开报价，不放出站链接、不放店铺联系方式。
 
-<sub>数据由甄选 API（findbestapi.com）采集整理 · 更新于 2026-11-26 22:11（北京时间）</sub>
+<sub>数据由甄选 API（findbestapi.com）采集整理 · 更新于 2026-11-27 22:43（北京时间）</sub>
