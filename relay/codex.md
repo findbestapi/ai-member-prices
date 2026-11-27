@@ -16,10 +16,10 @@
 | [LinksAPI](https://www.findbestapi.com/site/linksapi/) | ¥0.2 / ¥1 | ¥2.75 / ¥16.5 | ¥0.8 / ¥4 | 支付宝 / 微信 / Stripe | ¥1 | — | [去官网](https://www.findbestapi.com/go/linksapi/) |
 | [deepkey](https://www.findbestapi.com/site/deepkey-top/) | ¥0.24 / ¥1.2 | ¥0.24 / ¥1.2 | ¥0.64 / ¥3.2 | 支付宝 / 微信 / USDT / 加密货币 | ¥5 | 可开 | [去官网](https://www.findbestapi.com/go/deepkey-top/) |
 | [jojocode](https://www.findbestapi.com/site/jojocode/) | ¥0.34 / ¥1.7 | ¥0.34 / ¥1.7 | ¥1.36 / ¥6.8 | Stripe | — | — | [去官网](https://www.findbestapi.com/go/jojocode/) |
-| [A6API](https://www.findbestapi.com/site/a6api/) | ¥0.366 / ¥1.83 | ¥0.366 / ¥1.83 | ¥1.4 / ¥7 | — | — | — | [去官网](https://www.findbestapi.com/go/a6api/) |
 | [ByteCat](https://www.findbestapi.com/site/bytecatcode-org/) | ¥0.4 / ¥2 | ¥0.4 / ¥2 | ¥1.6 / ¥8 | 支付宝 | ¥10 | 可开 | [去官网](https://www.findbestapi.com/go/bytecatcode-org/) |
 | [CCTQ](https://www.findbestapi.com/site/cctq/) | ¥0.4 / ¥2 | ¥0.4 / ¥2 | ¥1.6 / ¥8 | 支付宝 | ¥1 | — | [去官网](https://www.findbestapi.com/go/cctq/) |
 | [LinkAPI](https://www.findbestapi.com/site/linkapi-ai/) | ¥0.4 / ¥2 | ¥0.4 / ¥2 | ¥1.6 / ¥8 | 支付宝 / 微信 | ¥1 | — | [去官网](https://www.findbestapi.com/go/linkapi-ai/) |
+| [UU API](https://www.findbestapi.com/site/uuapi-net/) | ¥0.4 / ¥2 | ¥0.4 / ¥2 | ¥1.6 / ¥8 | 支付宝 / 微信 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/uuapi-net/) |
 
 ## 会员和中转哪个划算
 
@@ -29,7 +29,7 @@ ChatGPT Pro 20x 代充到自己号最低 ¥994.05 / 月。这笔钱按上面推�
 
 ## 全部中转站报价
 
-<sub>¥/百万 token，输入 / 输出，2026-11-26 更新</sub>
+<sub>¥/百万 token，输入 / 输出，2026-11-27 更新</sub>
 
 | 站名 | 域名 | GPT-6.2 Sol | GPT-6.1 Sol | GPT-6.2 Astra | GPT-6 Astra | 支付方式 | 起充 | 开票 |
 |---|---|---|---|---|---|---|---|---|
@@ -62,7 +62,6 @@ ChatGPT Pro 20x 代充到自己号最低 ¥994.05 / 月。这笔钱按上面推�
 | [jojocode](https://www.findbestapi.com/site/jojocode/) | jojocode.com | ¥0.34 / ¥1.7 | ¥0.34 / ¥1.7 | ¥1.36 / ¥6.8 | ¥1.7 / ¥8.5 | Stripe | — | — |
 | SHUAI API | api.shuaiapi.com | ¥0.34 / ¥1.7 | ¥0.34 / ¥1.7 | ¥1.36 / ¥6.8 | ¥1.7 / ¥8.5 | — | — | — |
 | Yourapi | yourapi.cn | ¥0.35 / ¥1.75 | ¥0.35 / ¥1.75 | ¥1.4 / ¥7 | ¥1.75 / ¥8.75 | — | — | — |
-| [A6API](https://www.findbestapi.com/site/a6api/) | a6api.com | ¥0.366 / ¥1.83 | ¥0.366 / ¥1.83 | ¥1.4 / ¥7 | ¥1.75 / ¥8.75 | — | — | — |
 | TK API | tkapi.cc.cd | ¥0.39 / ¥1.95 | ¥0.39 / ¥0.585 | ¥0.72 / ¥3.6 | ¥0.9 / ¥4.5 | 易支付 / 支付宝 / 微信 | ¥10 | — |
 | 97api | 97api.com | ¥0.4 / ¥2 | ¥0.4 / ¥2 | ¥1.6 / ¥8 | ¥2 / ¥10 | — | — | — |
 | [ByteCat](https://www.findbestapi.com/site/bytecatcode-org/) | bytecatcode.org | ¥0.4 / ¥2 | ¥0.4 / ¥2 | ¥1.6 / ¥8 | ¥2 / ¥10 | 支付宝 | ¥10 | 可开 |
@@ -163,10 +162,10 @@ ChatGPT Pro 20x 代充到自己号最低 ¥994.05 / 月。这笔钱按上面推�
 
 **怎么挑 Codex 中转站？**
 
-先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 113 家里，支付宝能充 39 家、写明能开发票 26 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
+先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 112 家里，支付宝能充 39 家、写明能开发票 26 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
 
 ---
 
 网页版：[Codex中转站推荐：110+家Codex线路价格对比 2026](https://findbestapi.github.io/ai-member-prices/relay/codex/) · [AI 会员代充价格](../README.md) · [甄选 API](https://www.findbestapi.com/) · [模型价格对比](https://www.findbestapi.com/price/)
 
-<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-26</sub>
+<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-27</sub>

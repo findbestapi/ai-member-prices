@@ -2,7 +2,7 @@
 
 [AI 会员代充价格](../README.md) › API 中转站价格 · [全部中转站](README.md) · **GPT / OpenAI** · [Claude](claude.md) · [Gemini](gemini.md) · [Codex](codex.md) · [Grok](grok.md) · [DeepSeek](deepseek.md) · [GLM / 智谱](glm.md) · [Kimi](kimi.md) · [支付宝能充](alipay.md) · [能开发票](invoice.md)
 
-今天 GPT 中转最低价（每百万 token）：GPT-6.2 Sol 输入 ¥0.033 / 输出 ¥0.164（SixthSense LLM），GPT-6.2 Astra 输入 ¥0.076 / 输出 ¥0.38（A6API）。
+今天 GPT 中转最低价（每百万 token）：GPT-6.2 Sol 输入 ¥0.033 / 输出 ¥0.164（SixthSense LLM），GPT-6.2 Astra 输入 ¥0.131 / 输出 ¥0.656（SixthSense LLM）。
 
 各家 GPT 中转站（OpenAI 中转站）今天在售 GPT 模型的报价，按价格从低到高排。
 
@@ -11,7 +11,6 @@
 | 站名 | GPT-6.2 Sol | GPT-6.1 Sol | GPT-6.2 Astra | 支付方式 | 起充 | 开票 | 入口 |
 |---|---|---|---|---|---|---|---|
 | [ai98pro](https://www.findbestapi.com/site/ai98pro/) | ¥0.058 / ¥0.29 | ¥0.058 / ¥0.29 | ¥0.232 / ¥1.16 | — | — | — | [去官网](https://www.findbestapi.com/go/ai98pro/) |
-| [A6API](https://www.findbestapi.com/site/a6api/) | ¥0.065 / ¥0.326 | ¥0.065 / ¥0.326 | ¥0.076 / ¥0.38 | — | — | — | [去官网](https://www.findbestapi.com/go/a6api/) |
 | [黑黑](https://www.findbestapi.com/site/heilovehei/) | ¥0.1 / ¥0.5 | ¥0.1 / ¥0.5 | ¥0.4 / ¥2 | — | — | — | [去官网](https://www.findbestapi.com/go/heilovehei/) |
 | [云影 API](https://www.findbestapi.com/site/yyapi-cloud/) | ¥0.16 / ¥0.8 | ¥0.16 / ¥0.8 | ¥0.64 / ¥3.2 | 支付宝 / 微信 | ¥1 | — | [去官网](https://www.findbestapi.com/go/yyapi-cloud/) |
 | [V-API](https://www.findbestapi.com/site/api-gpt-ge/) | ¥0.2 / ¥1 | ¥0.2 / ¥1 | ¥0.8 / ¥4 | 微信 / USDT | ¥12.5 | 可开 | [去官网](https://www.findbestapi.com/go/api-gpt-ge/) |
@@ -20,6 +19,7 @@
 | [jojocode](https://www.findbestapi.com/site/jojocode/) | ¥0.34 / ¥1.7 | ¥0.34 / ¥1.7 | ¥1.36 / ¥6.8 | Stripe | — | — | [去官网](https://www.findbestapi.com/go/jojocode/) |
 | [H API](https://www.findbestapi.com/site/h-api/) | ¥0.36 / ¥1.8 | ¥0.36 / ¥1.8 | ¥1.44 / ¥7.2 | 支付宝 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/h-api/) |
 | [OpenOx](https://www.findbestapi.com/site/openox/) | ¥0.4 / ¥2 | ¥0.24 / ¥1.2 | ¥1.6 / ¥8 | 支付宝 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/openox/) |
+| [ByteCat](https://www.findbestapi.com/site/bytecatcode-org/) | ¥0.4 / ¥2 | ¥0.4 / ¥2 | ¥1.6 / ¥8 | 支付宝 | ¥10 | 可开 | [去官网](https://www.findbestapi.com/go/bytecatcode-org/) |
 
 ## 会员和中转哪个划算
 
@@ -29,7 +29,7 @@ ChatGPT Pro 20x 代充到自己号最低 ¥994.05 / 月。这笔钱按上面推�
 
 ## 全部中转站报价
 
-<sub>¥/百万 token，输入 / 输出，2026-11-26 更新</sub>
+<sub>¥/百万 token，输入 / 输出，2026-11-27 更新</sub>
 
 | 站名 | 域名 | GPT-6.2 Sol | GPT-6.1 Sol | GPT-6.2 Astra | GPT-6 Astra | 支付方式 | 起充 | 开票 |
 |---|---|---|---|---|---|---|---|---|
@@ -37,7 +37,6 @@ ChatGPT Pro 20x 代充到自己号最低 ¥994.05 / 月。这笔钱按上面推�
 | [ai98pro](https://www.findbestapi.com/site/ai98pro/) | ai98pro.xyz | ¥0.058 / ¥0.29 | ¥0.058 / ¥0.29 | ¥0.232 / ¥1.16 | ¥0.29 / ¥1.45 | — | — | — |
 | Aitechflux API | aitechflux.com | ¥0.059 / ¥0.296 | ¥0.059 / ¥0.296 | ¥0.237 / ¥1.18 | ¥0.296 / ¥1.48 | — | — | — |
 | Code-Plan（内部站点） | o-ai.me | ¥0.06 / ¥0.3 | ¥0.06 / ¥0.3 | ¥0.24 / ¥1.2 | ¥0.3 / ¥1.5 | — | — | — |
-| [A6API](https://www.findbestapi.com/site/a6api/) | a6api.com | ¥0.065 / ¥0.326 | ¥0.065 / ¥0.326 | ¥0.076 / ¥0.38 | ¥0.098 / ¥0.489 | — | — | — |
 | OpenLux | openlux.ai | ¥0.074 / ¥0.368 | ¥0.073 / ¥0.368 | ¥0.294 / ¥1.47 | ¥0.368 / ¥1.84 | — | — | — |
 | NikoAPI | nikoapi.xyz | ¥0.08 / ¥0.4 | ¥0.08 / ¥0.4 | ¥0.32 / ¥1.6 | ¥0.4 / ¥2 | — | — | — |
 | QYAI | ai.qystart.top | ¥0.08 / ¥0.4 | ¥0.08 / ¥0.4 | ¥0.32 / ¥1.6 | ¥0.4 / ¥2 | — | — | — |
@@ -100,7 +99,6 @@ ChatGPT Pro 20x 代充到自己号最低 ¥994.05 / 月。这笔钱按上面推�
 | 云智AI-稳定可靠 | yzcld.com | ¥0.25 / ¥1.25 | ¥0.25 / ¥1.25 | ¥1 / ¥5 | ¥1.25 / ¥6.25 | — | — | — |
 | CallAI中转 | sub.callai.one | ¥0.26 / ¥1.3 | ¥0.26 / ¥1.3 | ¥0.64 / ¥3.2 | ¥0.8 / ¥4 | — | — | — |
 | Hi-Code | hi-code.cc | ¥0.26 / ¥1.3 | ¥0.26 / ¥1.3 | ¥1.04 / ¥5.2 | ¥1.3 / ¥6.5 | — | — | 可开 |
-| Top-API | api-top.com | ¥0.271 / ¥1.36 | ¥0.271 / ¥1.36 | ¥1.09 / ¥5.43 | ¥1.36 / ¥6.79 | 支付宝 / 微信 | ¥7 | — |
 | GINKA API | api.ginka.cloud | ¥0.3 / ¥1.5 | ¥0.3 / ¥1.5 | ¥0.72 / ¥3.6 | ¥0.9 / ¥4.5 | — | — | — |
 | API VibeCoding | apiclaude.cc | ¥0.3 / ¥1.5 | ¥0.3 / ¥1.5 | ¥1.2 / ¥6 | ¥1.5 / ¥7.5 | 易支付 | ¥1 | — |
 | Claude API | claude-api.org | ¥0.3 / ¥1.5 | ¥0.3 / ¥1.5 | ¥1.2 / ¥6 | ¥1.5 / ¥7.5 | 易支付 / nowpayments | — | — |
@@ -333,10 +331,10 @@ ChatGPT Pro 20x 代充到自己号最低 ¥994.05 / 月。这笔钱按上面推�
 
 **怎么挑 GPT 中转站？**
 
-先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 283 家里，支付宝能充 68 家、写明能开发票 44 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
+先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 281 家里，支付宝能充 67 家、写明能开发票 44 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
 
 ---
 
 网页版：[GPT中转站推荐：280+家OpenAI中转站价格对比 2026](https://findbestapi.github.io/ai-member-prices/relay/gpt/) · [AI 会员代充价格](../README.md) · [甄选 API](https://www.findbestapi.com/) · [模型价格对比](https://www.findbestapi.com/price/)
 
-<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-26</sub>
+<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-27</sub>

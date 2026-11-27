@@ -10,7 +10,6 @@
 
 | 站名 | Claude Opus 5.5 | Claude Fable 5.2 | Claude Fable 5.1 | 支付方式 | 起充 | 开票 | 入口 |
 |---|---|---|---|---|---|---|---|
-| [A6API](https://www.findbestapi.com/site/a6api/) | ¥0.266 / ¥1.33 | ¥0.586 / ¥2.93 | ¥0.733 / ¥3.66 | — | — | — | [去官网](https://www.findbestapi.com/go/a6api/) |
 | [V-API](https://www.findbestapi.com/site/api-gpt-ge/) | ¥0.28 / ¥1.4 | ¥1.28 / ¥6.4 | ¥1.6 / ¥8 | 微信 / USDT | ¥12.5 | 可开 | [去官网](https://www.findbestapi.com/go/api-gpt-ge/) |
 | [黑黑](https://www.findbestapi.com/site/heilovehei/) | ¥0.4 / ¥2 | ¥4 / ¥20 | ¥5 / ¥25 | — | — | — | [去官网](https://www.findbestapi.com/go/heilovehei/) |
 | [ByteCat](https://www.findbestapi.com/site/bytecatcode-org/) | ¥0.4 / ¥2 | ¥10.8 / ¥54 | ¥13.5 / ¥67.5 | 支付宝 | ¥10 | 可开 | [去官网](https://www.findbestapi.com/go/bytecatcode-org/) |
@@ -20,10 +19,11 @@
 | [OpenOx](https://www.findbestapi.com/site/openox/) | ¥1.16 / ¥5.79 | ¥4.54 / ¥22.71 | ¥3.33 / ¥16.66 | 支付宝 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/openox/) |
 | [H API](https://www.findbestapi.com/site/h-api/) | ¥1.2 / ¥6 | ¥2.4 / ¥12 | ¥3 / ¥15 | 支付宝 | ¥1 | 可开 | [去官网](https://www.findbestapi.com/go/h-api/) |
 | [LinkAI](https://www.findbestapi.com/site/linkai/) | ¥1.2 / ¥6 | ¥2.4 / ¥12 | ¥3 / ¥15 | 支付宝 | ¥5 | 可开 | [去官网](https://www.findbestapi.com/go/linkai/) |
+| [RightCode](https://www.findbestapi.com/site/right-codes/) | ¥1.2 / ¥6 | ¥12 / ¥60 | ¥15 / ¥75 | 支付宝 | — | 可开 | [去官网](https://www.findbestapi.com/go/right-codes/) |
 
 ## 全部中转站报价
 
-<sub>¥/百万 token，输入 / 输出，2026-11-26 更新</sub>
+<sub>¥/百万 token，输入 / 输出，2026-11-27 更新</sub>
 
 | 站名 | 域名 | Claude Opus 5.5 | Claude Fable 5.2 | Claude Fable 5.1 | Claude Sonnet 5.5 | 支付方式 | 起充 | 开票 |
 |---|---|---|---|---|---|---|---|---|
@@ -38,7 +38,6 @@
 | RelayCore | relaycore.cn | ¥0.24 / ¥1.2 | ¥0.48 / ¥2.4 | ¥0.6 / ¥3 | ¥0.12 / ¥0.6 | 微信 / yunmao_shop / 加密货币 | ¥1 | — |
 | Jasper | api.yjs.im | ¥0.24 / ¥1.2 | — | — | ¥0.12 / ¥0.6 | — | — | — |
 | CrazyToken | aiyoyoo.com | ¥0.25 / ¥1.25 | ¥0.5 / ¥2.5 | ¥0.625 / ¥3.12 | ¥0.125 / ¥0.625 | 易支付 | ¥10 | — |
-| [A6API](https://www.findbestapi.com/site/a6api/) | a6api.com | ¥0.266 / ¥1.33 | ¥0.586 / ¥2.93 | ¥0.733 / ¥3.66 | ¥0.114 / ¥0.57 | — | — | — |
 | [V-API](https://www.findbestapi.com/site/api-gpt-ge/) | api.gpt.ge | ¥0.28 / ¥1.4 | ¥1.28 / ¥6.4 | ¥1.6 / ¥8 | ¥0.093 / ¥0.467 | 微信 / USDT | ¥12.5 | 可开 |
 | XINGYI API | xingyi888.com | ¥0.32 / ¥1.6 | ¥0.192 / ¥0.96 | ¥0.24 / ¥1.2 | ¥0.16 / ¥0.8 | — | — | — |
 | gods | meisgold.top | ¥0.32 / ¥1.6 | ¥0.64 / ¥3.2 | ¥0.8 / ¥4 | ¥0.16 / ¥0.8 | 易支付 | — | — |
@@ -326,7 +325,6 @@
 | yier | api.lukyface.com | — | ¥5.43 / ¥27.14 | ¥6.79 / ¥33.93 | — | — | — | — |
 | HohoAI | hohocode.ai | — | ¥6.4 / ¥32 | ¥8 / ¥40 | — | — | — | — |
 | 寒鹤的小破站 | api.hanhegufei.online | — | ¥6.8 / ¥34 | ¥8.5 / ¥42.5 | — | — | — | — |
-| Top-API | api-top.com | — | ¥16.29 / ¥81.43 | ¥20.36 / ¥101.78 | ¥0.678 / ¥3.39 | 支付宝 / 微信 | ¥7 | — |
 | OpenModel | openmodel.ai | — | ¥21.71 / ¥108.57 | ¥27.14 / ¥135.71 | — | — | — | — |
 | 聚星AI | juxingai.xyz | — | ¥25.6 / ¥128 | ¥32 / ¥160 | — | 支付宝 / 微信 | ¥10 | 可开 |
 | corealgos | corealgos.com | — | ¥27.14 / ¥135.71 | ¥33.93 / ¥169.64 | — | 微信 | ¥1 | — |
@@ -350,10 +348,10 @@
 
 **怎么挑 Claude 中转站？**
 
-先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 306 家里，支付宝能充 81 家、写明能开发票 50 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
+先看你要用的那一款在下表的输入、输出价，再看后面几列：本页 304 家里，支付宝能充 80 家、写明能开发票 50 家。按起充金额挑看「支付宝能充」那一页，公司报销看「能开发票」那一页。
 
 ---
 
 网页版：[Claude中转站推荐：300+家Claude API价格对比 2026](https://findbestapi.github.io/ai-member-prices/relay/claude/) · [AI 会员代充价格](../README.md) · [甄选 API](https://www.findbestapi.com/) · [模型价格对比](https://www.findbestapi.com/price/)
 
-<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-26</sub>
+<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-27</sub>

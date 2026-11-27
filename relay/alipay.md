@@ -23,7 +23,7 @@
 
 ## 全部中转站报价
 
-<sub>¥/百万 token，输入 / 输出，2026-11-26 更新</sub>
+<sub>¥/百万 token，输入 / 输出，2026-11-27 更新</sub>
 
 | 站名 | 域名 | GPT-6.2 Sol | Claude Opus 5.5 | Gemini 4 Neon | 起充 | 开票 |
 |---|---|---|---|---|---|---|
@@ -70,7 +70,6 @@
 | OmniaKey | omniakey.com | ¥1.22 / ¥6.11 | ¥7.6 / ¥38 | ¥10.86 / ¥54.28 | ¥5 | 可开 |
 | Poixe AI | poixe.com | — | ¥13.57 / ¥67.85 | ¥6.35 / ¥31.76 | ¥5 | 可开 |
 | MoleAPI | home.moleapi.com | ¥1.36 / ¥6.79 | ¥8.14 / ¥40.71 | ¥16.29 / ¥81.43 | $1（实付¥6.8） | 可开 |
-| Top-API | api-top.com | ¥0.271 / ¥1.36 | — | ¥2.04 / ¥10.18 | ¥7 | — |
 | GPTeam | portal.gpteamservices.com | ¥0.814 / ¥4.07 | ¥2.71 / ¥13.57 | ¥4.07 / ¥20.36 | ¥7 | — |
 | [RunAPI](https://www.findbestapi.com/site/runapi-co/) | runapi.host | ¥1 / ¥5 | ¥3.17 / ¥15.83 | ¥2.14 / ¥10.69 | ¥7 | 可开 |
 | PingCode | pingcode.ai | ¥1.4 / ¥7 | ¥4.2 / ¥21 | — | ¥9.9 | 可开 |
@@ -128,4 +127,4 @@
 
 网页版：[支付宝能充的API中转站 2026：80+ 家起充金额对比](https://findbestapi.github.io/ai-member-prices/relay/alipay/) · [AI 会员代充价格](../README.md) · [甄选 API](https://www.findbestapi.com/) · [模型价格对比](https://www.findbestapi.com/price/)
 
-<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-26</sub>
+<sub>数据由甄选 API（findbestapi.com）整理 · 更新于 2026-11-27</sub>
